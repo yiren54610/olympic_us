@@ -1,21 +1,479 @@
-Sport,Gold,Silver,Bronze,Total
-Athletics,13,7,6,26
-Swimming,8,6,4,18
-Boxing,3,3,2,8
-Wrestling,2,1,3,6
-Diving,2,1,2,5
-Tennis,2,1,2,5
-Canoeing,2,0,0,2
-Sailing,1,2,2,5
-Archery,1,1,1,3
-Basketball,1,0,1,2
-Volleyball,1,0,0,1
-Rowing,0,2,1,3
-Equestrian,0,2,0,2
-Synchronized swimming,0,2,0,2
-Judo,0,1,1,2
-Shooting,0,1,0,1
-Water polo,0,1,0,1
-Cycling,0,0,1,1
-Gymnastics,0,0,1,1
-Total,36,31,27,94
+Sport,Event,Gender,Athlete,Medal,Year
+Archery,Individual,Men,Jay Barrs,Gold,1988
+Archery,Individual,Men,Rick McKinney,None,1988
+Archery,Individual,Men,Darrell Pace,None,1988
+Archery,Team,Men,Jay Barrs•Darrell Pace•Rick McKinney,None,1988
+Archery,Individual,Women,Melanie Skillman,None,1988
+Archery,Individual,Women,Denise Parker,None,1988
+Archery,Individual,Women,Debra Ochs,None,1988
+Archery,Team,Women,Debra Ochs•Denise Parker•Melanie Skillman,None,1988
+Artistic Gymnastics,Individual All-Around,Men,Charles Lakes,None,1988
+Artistic Gymnastics,Individual All-Around,Men,Kevin Davis,None,1988
+Artistic Gymnastics,Individual All-Around,Men,Lance Ringnald,None,1988
+Artistic Gymnastics,Individual All-Around,Men,Scott Johnson,None,1988
+Artistic Gymnastics,Individual All-Around,Men,"Dominick Minicucci, Jr.",None,1988
+Artistic Gymnastics,Individual All-Around,Men,Wes Suter,None,1988
+Artistic Gymnastics,Team All-Around,Men,"Charles Lakes•Lance Ringnald•Kevin Davis•Scott Johnson•Dominick Minicucci, Jr.•Wes Suter",None,1988
+Artistic Gymnastics,Floor Exercise,Men,Charles Lakes,None,1988
+Artistic Gymnastics,Floor Exercise,Men,Scott Johnson,None,1988
+Artistic Gymnastics,Floor Exercise,Men,Lance Ringnald,None,1988
+Artistic Gymnastics,Floor Exercise,Men,Kevin Davis,None,1988
+Artistic Gymnastics,Floor Exercise,Men,Wes Suter,None,1988
+Artistic Gymnastics,Floor Exercise,Men,"Dominick Minicucci, Jr.",None,1988
+Artistic Gymnastics,Horse Vault,Men,Charles Lakes,None,1988
+Artistic Gymnastics,Horse Vault,Men,Scott Johnson,None,1988
+Artistic Gymnastics,Horse Vault,Men,Lance Ringnald,None,1988
+Artistic Gymnastics,Horse Vault,Men,Wes Suter,None,1988
+Artistic Gymnastics,Horse Vault,Men,"Dominick Minicucci, Jr.",None,1988
+Artistic Gymnastics,Horse Vault,Men,Kevin Davis,None,1988
+Artistic Gymnastics,Parallel Bars,Men,Charles Lakes,None,1988
+Artistic Gymnastics,Parallel Bars,Men,Scott Johnson,None,1988
+Artistic Gymnastics,Parallel Bars,Men,Kevin Davis,None,1988
+Artistic Gymnastics,Parallel Bars,Men,Lance Ringnald,None,1988
+Artistic Gymnastics,Parallel Bars,Men,"Dominick Minicucci, Jr.",None,1988
+Artistic Gymnastics,Parallel Bars,Men,Wes Suter,None,1988
+Artistic Gymnastics,Horizontal Bar,Men,Charles Lakes,None,1988
+Artistic Gymnastics,Horizontal Bar,Men,Lance Ringnald,None,1988
+Artistic Gymnastics,Horizontal Bar,Men,Wes Suter,None,1988
+Artistic Gymnastics,Horizontal Bar,Men,"Dominick Minicucci, Jr.",None,1988
+Artistic Gymnastics,Horizontal Bar,Men,Kevin Davis,None,1988
+Artistic Gymnastics,Horizontal Bar,Men,Scott Johnson,None,1988
+Artistic Gymnastics,Rings,Men,Charles Lakes,None,1988
+Artistic Gymnastics,Rings,Men,Kevin Davis,None,1988
+Artistic Gymnastics,Rings,Men,Scott Johnson,None,1988
+Artistic Gymnastics,Rings,Men,"Dominick Minicucci, Jr.",None,1988
+Artistic Gymnastics,Rings,Men,Lance Ringnald,None,1988
+Artistic Gymnastics,Rings,Men,Wes Suter,None,1988
+Artistic Gymnastics,Pommelled Horse,Men,Kevin Davis,None,1988
+Artistic Gymnastics,Pommelled Horse,Men,Charles Lakes,None,1988
+Artistic Gymnastics,Pommelled Horse,Men,Lance Ringnald,None,1988
+Artistic Gymnastics,Pommelled Horse,Men,Wes Suter,None,1988
+Artistic Gymnastics,Pommelled Horse,Men,"Dominick Minicucci, Jr.",None,1988
+Artistic Gymnastics,Pommelled Horse,Men,Scott Johnson,None,1988
+Artistic Gymnastics,Individual All-Around,Women,Brandy Johnson,None,1988
+Artistic Gymnastics,Individual All-Around,Women,Phoebe Mills,None,1988
+Artistic Gymnastics,Individual All-Around,Women,Kelly Garrison-Steves,None,1988
+Artistic Gymnastics,Individual All-Around,Women,Hope Spivey,None,1988
+Artistic Gymnastics,Individual All-Around,Women,Chelle Stack,None,1988
+Artistic Gymnastics,Individual All-Around,Women,Missy Marlowe,None,1988
+Artistic Gymnastics,Team All-Around,Women,Phoebe Mills•Brandy Johnson•Kelly Garrison-Steves•Hope Spivey•Chelle Stack•Missy Marlowe,None,1988
+Artistic Gymnastics,Floor Exercise,Women,Phoebe Mills,None,1988
+Artistic Gymnastics,Floor Exercise,Women,Brandy Johnson,None,1988
+Artistic Gymnastics,Floor Exercise,Women,Hope Spivey,None,1988
+Artistic Gymnastics,Floor Exercise,Women,Chelle Stack,None,1988
+Artistic Gymnastics,Floor Exercise,Women,Kelly Garrison-Steves,None,1988
+Artistic Gymnastics,Floor Exercise,Women,Missy Marlowe,None,1988
+Artistic Gymnastics,Horse Vault,Women,Brandy Johnson,None,1988
+Artistic Gymnastics,Horse Vault,Women,Hope Spivey,None,1988
+Artistic Gymnastics,Horse Vault,Women,Chelle Stack,None,1988
+Artistic Gymnastics,Horse Vault,Women,Kelly Garrison-Steves,None,1988
+Artistic Gymnastics,Horse Vault,Women,Phoebe Mills,None,1988
+Artistic Gymnastics,Horse Vault,Women,Missy Marlowe,None,1988
+Artistic Gymnastics,Uneven Bars,Women,Phoebe Mills,None,1988
+Artistic Gymnastics,Uneven Bars,Women,Brandy Johnson,None,1988
+Artistic Gymnastics,Uneven Bars,Women,Missy Marlowe,None,1988
+Artistic Gymnastics,Uneven Bars,Women,Kelly Garrison-Steves,None,1988
+Artistic Gymnastics,Uneven Bars,Women,Chelle Stack,None,1988
+Artistic Gymnastics,Uneven Bars,Women,Hope Spivey,None,1988
+Artistic Gymnastics,Balance Beam,Women,Phoebe Mills,Bronze,1988
+Artistic Gymnastics,Balance Beam,Women,Kelly Garrison-Steves,None,1988
+Artistic Gymnastics,Balance Beam,Women,Brandy Johnson,None,1988
+Artistic Gymnastics,Balance Beam,Women,Hope Spivey,None,1988
+Artistic Gymnastics,Balance Beam,Women,Chelle Stack,None,1988
+Artistic Gymnastics,Balance Beam,Women,Missy Marlowe,None,1988
+Artistic Swimming,Solo,Women,Tracie Ruiz-Conforto,Silver,1988
+Artistic Swimming,Solo,Women,Karen Josephson,None,1988
+Artistic Swimming,Solo,Women,Sarah Josephson,None,1988
+Artistic Swimming,Duet,Women,Sarah Josephson•Karen Josephson,None,1988
+Athletics,100 metres,Men,Carl Lewis,Gold,1988
+Athletics,100 metres,Men,Calvin Smith,Bronze,1988
+Athletics,100 metres,Men,Dennis Mitchell,None,1988
+Athletics,200 metres,Men,Joe DeLoach,Gold,1988
+Athletics,200 metres,Men,Carl Lewis,Silver,1988
+Athletics,200 metres,Men,Roy Martin,None,1988
+Athletics,400 metres,Men,Steve Lewis,Gold,1988
+Athletics,400 metres,Men,Butch Reynolds,Silver,1988
+Athletics,400 metres,Men,Danny Everett,Bronze,1988
+Athletics,800 metres,Men,Johnny Gray,None,1988
+Athletics,800 metres,Men,Mark Everett,None,1988
+Athletics,800 metres,Men,Tracy Baskin,None,1988
+Athletics,"1,500 metres",Men,Steve Scott,None,1988
+Athletics,"1,500 metres",Men,Jeff Atkinson,None,1988
+Athletics,"1,500 metres",Men,Mark Deady,None,1988
+Athletics,"5,000 metres",Men,Sydney Maree,None,1988
+Athletics,"5,000 metres",Men,Doug Padilla,None,1988
+Athletics,"5,000 metres",Men,Terry Brahm,None,1988
+Athletics,"10,000 metres",Men,Bruce Bickford,None,1988
+Athletics,"10,000 metres",Men,Pat Porter,None,1988
+Athletics,"10,000 metres",Men,Steve Plasencia,None,1988
+Athletics,Marathon,Men,Pete Pfitzinger,None,1988
+Athletics,Marathon,Men,Ed Eyestone,None,1988
+Athletics,Marathon,Men,Mark Conover,None,1988
+Athletics,110 metres Hurdles,Men,Roger Kingdom,Gold,1988
+Athletics,110 metres Hurdles,Men,Tonie Campbell,Bronze,1988
+Athletics,110 metres Hurdles,Men,Arthur J. Blake,None,1988
+Athletics,400 metres Hurdles,Men,André Phillips,Gold,1988
+Athletics,400 metres Hurdles,Men,Edwin Moses,Bronze,1988
+Athletics,400 metres Hurdles,Men,Kevin Young,None,1988
+Athletics,"3,000 metres Steeplechase",Men,Henry Marsh,None,1988
+Athletics,"3,000 metres Steeplechase",Men,Brian Diemer,None,1988
+Athletics,"3,000 metres Steeplechase",Men,Brian Abshire,None,1988
+Athletics,4 × 100 metres Relay,Men,Dennis Mitchell•Albert Robinson•Calvin Smith•Lee McNeill•Joe DeLoach(DNS)•Mike Marsh(DNS)•Emmit King(DNS),None,1988
+Athletics,4 × 400 metres Relay,Men,Danny Everett•Steve Lewis•Kevin Robinzine•Butch Reynolds•Antonio McKay•Andrew Valmon,None,1988
+Athletics,20 kilometres Race Walk,Men,Gary Morgan,None,1988
+Athletics,20 kilometres Race Walk,Men,Jim Heiring,None,1988
+Athletics,20 kilometres Race Walk,Men,Tim Lewis,None,1988
+Athletics,50 kilometres Race Walk,Men,Marco Evoniuk,None,1988
+Athletics,50 kilometres Race Walk,Men,Carl Schueler,None,1988
+Athletics,50 kilometres Race Walk,Men,Andy Kaestner,None,1988
+Athletics,High Jump,Men,Hollis Conway,Silver,1988
+Athletics,High Jump,Men,Jim Howard,None,1988
+Athletics,High Jump,Men,Brian Stanton,None,1988
+Athletics,Pole Vault,Men,Earl Bell,None,1988
+Athletics,Pole Vault,Men,Kory Tarpenning,None,1988
+Athletics,Pole Vault,Men,Billy Olson,None,1988
+Athletics,Long Jump,Men,Carl Lewis,Gold,1988
+Athletics,Long Jump,Men,Mike Powell,Silver,1988
+Athletics,Long Jump,Men,Larry Myricks,Bronze,1988
+Athletics,Triple Jump,Men,Charlie Simpkins,None,1988
+Athletics,Triple Jump,Men,Willie Banks,None,1988
+Athletics,Triple Jump,Men,Robert Cannon,None,1988
+Athletics,Shot Put,Men,Randy Barnes,Silver,1988
+Athletics,Shot Put,Men,Gregg Tafralis,None,1988
+Athletics,Shot Put,Men,Jim Doehring,None,1988
+Athletics,Discus Throw,Men,Mac Wilkins,None,1988
+Athletics,Discus Throw,Men,Mike Buncic,None,1988
+Athletics,Discus Throw,Men,Randy Heisler,None,1988
+Athletics,Hammer Throw,Men,Lance Deal,None,1988
+Athletics,Hammer Throw,Men,Ken Flax,None,1988
+Athletics,Hammer Throw,Men,Jud Logan,None,1988
+Athletics,Javelin Throw,Men,Dave Stephens,None,1988
+Athletics,Javelin Throw,Men,Tom Petranoff,None,1988
+Athletics,Javelin Throw,Men,Brian Crouser,None,1988
+Athletics,Decathlon,Men,Tim Bright,None,1988
+Athletics,Decathlon,Men,Dave Johnson,None,1988
+Athletics,Decathlon,Men,Gary Kinder,None,1988
+Athletics,"1,500 metres Wheelchair",Men,Craig Blanchette,None,1988
+Athletics,100 metres,Women,Florence Griffith Joyner,Gold,1988
+Athletics,100 metres,Women,Evelyn Ashford,Silver,1988
+Athletics,100 metres,Women,Gwen Torrence,None,1988
+Athletics,200 metres,Women,Florence Griffith Joyner,Gold,1988
+Athletics,200 metres,Women,Gwen Torrence,None,1988
+Athletics,200 metres,Women,Pam Marshall,None,1988
+Athletics,400 metres,Women,Valerie Brisco,None,1988
+Athletics,400 metres,Women,Diane Dixon,None,1988
+Athletics,400 metres,Women,Denean Howard,None,1988
+Athletics,800 metres,Women,Kim Gallagher,Bronze,1988
+Athletics,800 metres,Women,Delisa Walton-Floyd,None,1988
+Athletics,800 metres,Women,Joetta Clark,None,1988
+Athletics,"1,500 metres",Women,Mary Decker-Slaney,None,1988
+Athletics,"1,500 metres",Women,Kim Gallagher,None,1988
+Athletics,"1,500 metres",Women,Regina Jacobs,None,1988
+Athletics,"3,000 metres",Women,Vicki Huber,None,1988
+Athletics,"3,000 metres",Women,Mary Decker-Slaney,None,1988
+Athletics,"3,000 metres",Women,PattiSue Plumer,None,1988
+Athletics,"10,000 metres",Women,Francie Larrieu-Smith,None,1988
+Athletics,"10,000 metres",Women,Lynn Jennings,None,1988
+Athletics,"10,000 metres",Women,Lynn Nelson,None,1988
+Athletics,Marathon,Women,Nancy Ditz,None,1988
+Athletics,Marathon,Women,Margaret Groos,None,1988
+Athletics,Marathon,Women,Cathy O'Brien,None,1988
+Athletics,100 metres Hurdles,Women,LaVonna Martin,None,1988
+Athletics,100 metres Hurdles,Women,Jackie Humphrey,None,1988
+Athletics,100 metres Hurdles,Women,Gail Devers,None,1988
+Athletics,400 metres Hurdles,Women,LaTanya Sheffield,None,1988
+Athletics,400 metres Hurdles,Women,Schowonda Williams,None,1988
+Athletics,400 metres Hurdles,Women,Leslie Maxie,None,1988
+Athletics,4 × 100 metres Relay,Women,Alice Brown•Sheila Echols•Florence Griffith Joyner•Evelyn Ashford•Dannette Young•Jennifer Inniss(DNS)•Gwen Torrence(DNS),None,1988
+Athletics,4 × 400 metres Relay,Women,Denean Howard•Diane Dixon•Valerie Brisco•Florence Griffith Joyner•Sherri Howard•Lillie Leatherwood•Jennifer Inniss(DNS)•Gwen Torrence(DNS)•Terri Dendy(DNS),None,1988
+Athletics,High Jump,Women,Louise Ritter,Gold,1988
+Athletics,High Jump,Women,Coleen Sommer,None,1988
+Athletics,High Jump,Women,Trish King,None,1988
+Athletics,Long Jump,Women,Jackie Joyner-Kersee,Gold,1988
+Athletics,Long Jump,Women,Carol Lewis,None,1988
+Athletics,Long Jump,Women,Sheila Echols,None,1988
+Athletics,Shot Put,Women,Bonnie Dasse,None,1988
+Athletics,Shot Put,Women,Ramona Pagel,None,1988
+Athletics,Shot Put,Women,Connie Price,None,1988
+Athletics,Discus Throw,Women,Carol Cady,None,1988
+Athletics,Discus Throw,Women,Ramona Pagel,None,1988
+Athletics,Discus Throw,Women,Connie Price,None,1988
+Athletics,Javelin Throw,Women,Donna Mayhew,None,1988
+Athletics,Javelin Throw,Women,Karin Smith,None,1988
+Athletics,Javelin Throw,Women,Lynda Hughes Sutfin,None,1988
+Athletics,Heptathlon,Women,Jackie Joyner-Kersee,Gold,1988
+Athletics,Heptathlon,Women,Cindy Greiner,None,1988
+Athletics,Heptathlon,Women,Wendy Brown,None,1988
+Athletics,800 metres Wheelchair,Women,Sharon Hedrick,None,1988
+Athletics,800 metres Wheelchair,Women,Candace Cable,None,1988
+Athletics,800 metres Wheelchair,Women,Anny Cody-Morris,None,1988
+Baseball,Baseball,Men,Ty Griffin•Bret Barberie•Mike Fiore•Robin Ventura•Tino Martinez•Ted Wood•Jeff Branson•Billy Masse•Tom Goodwin•Ed Sprague•Mickey Morandini•Dave Silvestri•Doug Robbins•Scott Servais•Jim Abbott•Andy Benes•Ben McDonald•Mike Milchin•Charles Nagy•Joe Slusarski,None,1988
+Basketball,Basketball,Men,"Mitch Richmond•Charles E. Smith, IV•Charles D. Smith•Bimbo Coles•Jeff Grayer•Willie Anderson•Stacey Augmon•Dan Majerle•Danny Manning•J. R. Reid•David Robinson•Hersey Hawkins",None,1988
+Basketball,Basketball,Women,Teresa Edwards•Kamie Ethridge•Cindy Brown•Anne Donovan•Teresa Weatherspoon•Bridgette Gordon•Vicky Bullett•Andrea Lloyd•Katrina McClain•Jennifer Gillom•Cynthia Cooper•Suzie McConnell,None,1988
+Bowling,Individual,Men,Mark Lewis,None,1988
+Bowling,Individual,Women,Debbie McMullen,None,1988
+Boxing,Light-Flyweight,Men,Michael Carbajal,Silver,1988
+Boxing,Flyweight,Men,Arthur Johnson,None,1988
+Boxing,Bantamweight,Men,Kennedy McKinney,Gold,1988
+Boxing,Featherweight,Men,Kelcie Banks,None,1988
+Boxing,Lightweight,Men,Romallis Ellis,Bronze,1988
+Boxing,Light-Welterweight,Men,Todd Foster,None,1988
+Boxing,Welterweight,Men,Kenny Gould,Bronze,1988
+Boxing,Light-Middleweight,Men,"Roy Jones, Jr.",Silver,1988
+Boxing,Middleweight,Men,Anthony Hembrick,None,1988
+Boxing,Light-Heavyweight,Men,Andrew Maynard,Gold,1988
+Boxing,Heavyweight,Men,Ray Mercer,Gold,1988
+Boxing,Super-Heavyweight,Men,Riddick Bowe,Silver,1988
+Canoe Sprint,"Kayak Singles, 500 metres",Men,Mike Herbert,None,1988
+Canoe Sprint,"Kayak Singles, 1,000 metres",Men,Greg Barton,Gold,1988
+Canoe Sprint,"Kayak Doubles, 500 metres",Men,Terry Kent•Terry White,None,1988
+Canoe Sprint,"Kayak Doubles, 1,000 metres",Men,Greg Barton•Norm Bellingham,None,1988
+Canoe Sprint,"Kayak Fours, 1,000 metres",Men,Michael Harbold•Terry White•Curt Bader•Terry Kent,None,1988
+Canoe Sprint,"Canadian Singles, 500 metres",Men,Jim Terrell,None,1988
+Canoe Sprint,"Canadian Singles, 1,000 metres",Men,Bruce Merritt,None,1988
+Canoe Sprint,"Canadian Doubles, 500 metres",Men,Rod McLain•Bruce Merritt,None,1988
+Canoe Sprint,"Canadian Doubles, 1,000 metres",Men,Gregory Steward•Ronald Urick,None,1988
+Canoe Sprint,"Kayak Singles, 500 metres",Women,Traci Phillips,None,1988
+Canoe Sprint,"Kayak Doubles, 500 metres",Women,Sheila Conover•Cathy Marino-Geers,None,1988
+Canoe Sprint,"Kayak Fours, 500 metres",Women,Cathy Marino-Geers•Sheila Conover•Shirley Dery-Batlik•Traci Phillips,None,1988
+Cycling Road,"Road Race, Individual",Men,Bob Mionske,None,1988
+Cycling Road,"Road Race, Individual",Men,Scott McKinley,None,1988
+Cycling Road,"Road Race, Individual",Men,Craig Schommer,None,1988
+Cycling Road,100 kilometres Team Time Trial,Men,Norm Alvis•Jim Copeland•Tony Palmer•Andy Paulin,None,1988
+Cycling Road,"Road Race, Individual",Women,Inga Benedict,None,1988
+Cycling Road,"Road Race, Individual",Women,Bunki Bankaitis-Davis,None,1988
+Cycling Road,"Road Race, Individual",Women,Sally Zack,None,1988
+Cycling Track,Sprint,Men,Ken Carpenter,None,1988
+Cycling Track,"1,000 metres Time Trial",Men,Bobby Livingston,None,1988
+Cycling Track,"Individual Pursuit, 4,000 metres",Men,David Brinton,None,1988
+Cycling Track,"Team Pursuit, 4,000 metres",Men,Dave Lettieri•Mike McCarthy•Leonard Harvey Nitz•Carl Sundquist,None,1988
+Cycling Track,Points Race,Men,Frankie Andreu,None,1988
+Cycling Track,Sprint,Women,Connie Paraskevin-Young,Bronze,1988
+Diving,Springboard,Men,Greg Louganis,Gold,1988
+Diving,Springboard,Men,Mark Bradshaw,None,1988
+Diving,Platform,Men,Greg Louganis,Gold,1988
+Diving,Platform,Men,Patrick Jeffrey,None,1988
+Diving,Springboard,Women,Kelly McCormick,Bronze,1988
+Diving,Springboard,Women,Wendy Lucero,None,1988
+Diving,Platform,Women,Michele Mitchell,Silver,1988
+Diving,Platform,Women,Wendy Lian Williams,Bronze,1988
+Equestrian Dressage,Individual,Open,Robert Dover,None,1988
+Equestrian Dressage,Individual,Open,Jessica Ransehousen,None,1988
+Equestrian Dressage,Individual,Open,Belinda Baudin,None,1988
+Equestrian Dressage,Individual,Open,Lendon Gray,None,1988
+Equestrian Dressage,Team,Open,Robert Dover•Jessica Ransehousen•Belinda Baudin•Lendon Gray,None,1988
+Equestrian Eventing,Individual,Open,Phyllis Dawson,None,1988
+Equestrian Eventing,Individual,Open,Bruce Davidson,None,1988
+Equestrian Eventing,Individual,Open,Ann Sutton,None,1988
+Equestrian Eventing,Individual,Open,Karen Lende,None,1988
+Equestrian Eventing,Team,Open,Phyllis Dawson•Bruce Davidson•Ann Sutton•Karen Lende,None,1988
+Equestrian Jumping,Individual,Open,Greg Best,Silver,1988
+Equestrian Jumping,Individual,Open,Anne Kursinski,None,1988
+Equestrian Jumping,Individual,Open,Joe Fargis,None,1988
+Equestrian Jumping,Individual,Open,Lisa Jacquin,None,1988
+Equestrian Jumping,Team,Open,Joe Fargis•Greg Best•Lisa Jacquin•Anne Kursinski,None,1988
+Fencing,"Foil, Individual",Men,Peter Lewison,None,1988
+Fencing,"Foil, Individual",Men,Mike Marx,None,1988
+Fencing,"Foil, Individual",Men,Dave Littell,None,1988
+Fencing,"Foil, Team",Men,Peter Lewison•Dave Littell•Mike Marx•Greg Massialas•George Nonomura,None,1988
+Fencing,"Épée, Individual",Men,Stephen Trevor,None,1988
+Fencing,"Épée, Individual",Men,Rob Stull,None,1988
+Fencing,"Épée, Individual",Men,Robert Marx,None,1988
+Fencing,"Épée, Team",Men,Robert Marx•Lee Shelley•Rob Stull•Stephen Trevor•John Moreau(DNS),None,1988
+Fencing,"Sabre, Individual",Men,Steve Mormando,None,1988
+Fencing,"Sabre, Individual",Men,Peter Westbrook,None,1988
+Fencing,"Sabre, Individual",Men,Mike Lofton,None,1988
+Fencing,"Sabre, Team",Men,Bob Cottingham•Paul Friedberg•Mike Lofton•Steve Mormando•Peter Westbrook,None,1988
+Fencing,"Foil, Individual",Women,Caitlin Bilodeaux,None,1988
+Fencing,"Foil, Individual",Women,Sharon Monplaisir,None,1988
+Fencing,"Foil, Individual",Women,Mary O'Neill,None,1988
+Fencing,"Foil, Team",Women,Caitlin Bilodeaux•Elaine Cheris•Sharon Monplaisir•Mary O'Neill•Molly Sullivan,None,1988
+Football,Football,Men,Desmond Armstrong•Brian Bliss•Paul Caligiuri•Kevin Crow•Ricky Davis•John Doyle•Brent Goulet•John Harkes•Frank Klopas•Paul Krumpe•Bruce Murray•Tab Ramos•John Stollmeyer•David Vanole•Peter Vermes•Mike Windischmann•Jeff Duback(DNS)•Eric Eichmann(DNS)•Jim Gabarra(DNS)•Steve Trittschuh(DNS),None,1988
+Handball,Handball,Men,"Jim Buehning•Scott Driggers•Craig Fitschen•Steve Goss•Robert Hillery•Boyd Janny•Bryant Johnson•Bill Kessler•Steve Kirk•Pete Lash, Jr.•Joe McVein•Rod Oshita•Joe Story•Michael Sullivan•Brian Bennett(DNS)",None,1988
+Handball,Handball,Women,Kathy Callaghan•Kim Clarke•Laura Coenen•Sandra De La Riva•Megan Gallagher•Amy Gamble•Sam Jones•Portia Lack•Karyn Palgut•Carol Peterka•Angie Raynor•Cindy Stinger•Penny Stone•Sherry Winn•Maureen Latterner(DNS),None,1988
+Hockey,Hockey,Women,Beth Beglin•Diane Bracalente•Sandi Costigan•Megan Donnelly•Tracey Fuchs•Yogi Hightower•Sheryl Johnson•Mary Koboldt•Donna Lee•Barb Marois•Christy Morgan•Marcia Pankratz•Marcy Place-von Schottenstein•Patty Shea•Cheryl Van Kuren•Sandy Vander-Heyden,None,1988
+Judo,Extra-Lightweight,Men,Kevin Asano,Silver,1988
+Judo,Half-Lightweight,Men,Joe Marchal,None,1988
+Judo,Lightweight,Men,Mike Swain,Bronze,1988
+Judo,Half-Middleweight,Men,Jason Morris,None,1988
+Judo,Middleweight,Men,Rene Capo,None,1988
+Judo,Half-Heavyweight,Men,Bob Berland,None,1988
+Judo,Heavyweight,Men,Steven Cohen,None,1988
+Judo,Lightweight,Women,Eve Trivella,None,1988
+Judo,Half-Middleweight,Women,Lynn Roethke,None,1988
+Judo,Heavyweight,Women,Margie Castro-Gomez,None,1988
+Modern Pentathlon,Individual,Men,Bob Nieman,None,1988
+Modern Pentathlon,Individual,Men,Rob Stull,None,1988
+Modern Pentathlon,Individual,Men,Michael Gostigian,None,1988
+Modern Pentathlon,Team,Men,Bob Nieman•Rob Stull•Michael Gostigian,None,1988
+Rhythmic Gymnastics,Individual,Women,Michelle Berube,None,1988
+Rhythmic Gymnastics,Individual,Women,Diane Simpson,None,1988
+Rowing,Single Sculls,Men,Andy Sudduth,None,1988
+Rowing,Double Sculls,Men,Glenn Florio•Kevin Still,None,1988
+Rowing,Coxless Pairs,Men,Kurt Bausback•Edward Ives,None,1988
+Rowing,Quadruple Sculls,Men,"Charlie Altekruse•Jack Frackleton•Greg Montesi•John Strotbeck, III",None,1988
+Rowing,Coxed Pairs,Men,"Bob Espeseth, Jr.•Jon Fish•Daniel Lyons",None,1988
+Rowing,Coxless Fours,Men,"Raoul Rodriguez, Jr.•Tom Bohrer•Dave Krmpotich•Richard Kennelly, Jr.",None,1988
+Rowing,Coxed Fours,Men,John Terwilliger•Chris Huntington•Tom Darling•John Walters•Mark Zembsch,None,1988
+Rowing,Eights,Men,"Doug Burden•Jeff McLaughlin•Peter Nordell•Ted Patton•John Pescatore•Jack Rusher, IV•Jon Smith•Mike Teti•Seth Bauer",None,1988
+Rowing,Single Sculls,Women,Anne Marden,Silver,1988
+Rowing,Double Sculls,Women,Monica Havelka•Cathy Thaxton-Tippett,None,1988
+Rowing,Coxless Pairs,Women,Barbara Kirch•Mara Keggi,None,1988
+Rowing,Quadruple Sculls,Women,Sherri Cassuto•Angie Herron•Jennie Marshall•Anne Martin,None,1988
+Rowing,Coxed Fours,Women,Jennifer Corbet•Sarah Gengler•Elizabeth Bradley•Cindy Eckert•Kim Santiago,None,1988
+Rowing,Eights,Women,Juliet Thompson•Christine Campbell•Abby Peck•Peg Mallery•Susan Broome•Stephanie Maxwell•Anna Seaton•Alison Townley•Betsy Beard,None,1988
+Sailing,Two Person Dinghy,Men,Charlie McKee•John Shadden,None,1988
+Sailing,Windsurfer,Open,Mike Gebhardt,Bronze,1988
+Sailing,One Person Dinghy,Open,Brian Ledbetter,None,1988
+Sailing,Two Person Keelboat,Open,Hal Haenel•Mark Reynolds,None,1988
+Sailing,Multihull,Open,Pete Melvin•Patrick Muglia,None,1988
+Sailing,Three Person Keelboat,Open,John Kostecki•Bob Billingham•Will Baylis,None,1988
+Sailing,Two Person Heavyweight Dinghy,Open,Andrew Goldman•Paul Foerster,None,1988
+Sailing,Two Person Dinghy,Women,Allison Jolly•Lynne Jewell,None,1988
+Shooting,"Air Pistol, 10 metres",Men,Erich Buljung,Silver,1988
+Shooting,"Air Pistol, 10 metres",Men,Don Nygord,None,1988
+Shooting,"Rapid-Fire Pistol, 25 metres",Men,John McNally,None,1988
+Shooting,"Rapid-Fire Pistol, 25 metres",Men,Ray Arredondo,None,1988
+Shooting,"Free Pistol, 50 metres",Men,Don Nygord,None,1988
+Shooting,"Free Pistol, 50 metres",Men,Darius Young,None,1988
+Shooting,"Air Rifle, 10 metres",Men,Bob Foth,None,1988
+Shooting,"Air Rifle, 10 metres",Men,Rod Fitz-Randolph,None,1988
+Shooting,"Small-Bore Rifle, Three Positions, 50 metres",Men,Glenn Dubis,None,1988
+Shooting,"Small-Bore Rifle, Three Positions, 50 metres",Men,Dan Durben,None,1988
+Shooting,"Small-Bore Rifle, Prone, 50 metres",Men,Glenn Dubis,None,1988
+Shooting,"Small-Bore Rifle, Prone, 50 metres",Men,Webster Wright,None,1988
+Shooting,"Running Target, 50 metres",Men,Todd Bensley,None,1988
+Shooting,"Running Target, 50 metres",Men,Scott Swinney,None,1988
+Shooting,Trap,Open,Dan Carlisle,None,1988
+Shooting,Trap,Open,Brian Ballard,None,1988
+Shooting,Trap,Open,"Allen Haas, III",None,1988
+Shooting,Trap,Open,Carolyn Koch,None,1988
+Shooting,Skeet,Open,Dan Carlisle,None,1988
+Shooting,Skeet,Open,Matt Dryke,None,1988
+Shooting,Skeet,Open,Richard Smith,None,1988
+Shooting,Skeet,Open,Terry Carlisle,None,1988
+Shooting,"Air Pistol, 10 metres",Women,Kim Dyer,None,1988
+Shooting,"Air Pistol, 10 metres",Women,Ruby Fox,None,1988
+Shooting,"Sporting Pistol, 25 metres",Women,Kim Dyer,None,1988
+Shooting,"Sporting Pistol, 25 metres",Women,Ruby Fox,None,1988
+Shooting,"Air Rifle, 10 metres",Women,Launi Meili,None,1988
+Shooting,"Air Rifle, 10 metres",Women,Deena Wigger,None,1988
+Shooting,"Small-Bore Rifle, Three Positions, 50 metres",Women,Launi Meili,None,1988
+Shooting,"Small-Bore Rifle, Three Positions, 50 metres",Women,Wanda Jewell,None,1988
+Swimming,50 metres Freestyle,Men,Matt Biondi,Gold,1988
+Swimming,50 metres Freestyle,Men,Tom Jager,Silver,1988
+Swimming,100 metres Freestyle,Men,Matt Biondi,Gold,1988
+Swimming,100 metres Freestyle,Men,Chris Jacobs,Silver,1988
+Swimming,200 metres Freestyle,Men,Matt Biondi,Bronze,1988
+Swimming,200 metres Freestyle,Men,Troy Dalbey,None,1988
+Swimming,400 metres Freestyle,Men,Matt Cetlinski,None,1988
+Swimming,400 metres Freestyle,Men,Dan Jorgensen,None,1988
+Swimming,"1,500 metres Freestyle",Men,Matt Cetlinski,None,1988
+Swimming,"1,500 metres Freestyle",Men,Lars Jorgensen,None,1988
+Swimming,4 × 100 metres Freestyle Relay,Men,Chris Jacobs•Troy Dalbey•Tom Jager•Matt Biondi•Brent Lang•Doug Gjertsen•Shaun Jordan,None,1988
+Swimming,4 × 200 metres Freestyle Relay,Men,Troy Dalbey•Matt Cetlinski•Doug Gjertsen•Matt Biondi•Craig Oppel•Dan Jorgensen,None,1988
+Swimming,100 metres Backstroke,Men,Dave Berkoff,Silver,1988
+Swimming,100 metres Backstroke,Men,Jay Mortenson,None,1988
+Swimming,200 metres Backstroke,Men,Dan Veatch,None,1988
+Swimming,200 metres Backstroke,Men,Steve Bigelow,None,1988
+Swimming,100 metres Breaststroke,Men,Rich Schroeder,None,1988
+Swimming,100 metres Breaststroke,Men,Daniel Watters,None,1988
+Swimming,200 metres Breaststroke,Men,Mike Barrowman,None,1988
+Swimming,200 metres Breaststroke,Men,Kirk Stackle,None,1988
+Swimming,100 metres Butterfly,Men,Matt Biondi,Silver,1988
+Swimming,100 metres Butterfly,Men,Jay Mortenson,None,1988
+Swimming,200 metres Butterfly,Men,Mel Stewart,None,1988
+Swimming,200 metres Butterfly,Men,Mark Dean,None,1988
+Swimming,200 metres Individual Medley,Men,Dave Wharton,None,1988
+Swimming,200 metres Individual Medley,Men,Bill Stapleton,None,1988
+Swimming,400 metres Individual Medley,Men,Dave Wharton,Silver,1988
+Swimming,400 metres Individual Medley,Men,Jeff Kostoff,None,1988
+Swimming,4 × 100 metres Medley Relay,Men,Dave Berkoff•Rich Schroeder•Matt Biondi•Chris Jacobs•Jay Mortenson•Tom Jager,None,1988
+Swimming,50 metres Freestyle,Women,Jill Sterkel,Bronze,1988
+Swimming,50 metres Freestyle,Women,Leigh Ann Fetter,None,1988
+Swimming,100 metres Freestyle,Women,Dara Torres,None,1988
+Swimming,100 metres Freestyle,Women,Mitzi Kremer,None,1988
+Swimming,200 metres Freestyle,Women,Mary Wayte,None,1988
+Swimming,200 metres Freestyle,Women,Mitzi Kremer,None,1988
+Swimming,400 metres Freestyle,Women,Janet Evans,Gold,1988
+Swimming,400 metres Freestyle,Women,Tami Bruce,None,1988
+Swimming,800 metres Freestyle,Women,Janet Evans,Gold,1988
+Swimming,800 metres Freestyle,Women,Tami Bruce,None,1988
+Swimming,4 × 100 metres Freestyle Relay,Women,Mary Wayte•Mitzi Kremer•Laura Walker•Dara Torres•Paige Zemina•Jill Sterkel,None,1988
+Swimming,100 metres Backstroke,Women,Betsy Mitchell,None,1988
+Swimming,100 metres Backstroke,Women,Beth Barr,None,1988
+Swimming,200 metres Backstroke,Women,Beth Barr,None,1988
+Swimming,200 metres Backstroke,Women,Andrea Hayes,None,1988
+Swimming,100 metres Breaststroke,Women,Tracey McFarlane,None,1988
+Swimming,100 metres Breaststroke,Women,Susan Johnson,None,1988
+Swimming,200 metres Breaststroke,Women,Susan Rapp,None,1988
+Swimming,200 metres Breaststroke,Women,Tracey McFarlane,None,1988
+Swimming,100 metres Butterfly,Women,Janel Jorgensen,None,1988
+Swimming,100 metres Butterfly,Women,Mary T. Meagher,None,1988
+Swimming,200 metres Butterfly,Women,Mary T. Meagher,Bronze,1988
+Swimming,200 metres Butterfly,Women,Trina Radke,None,1988
+Swimming,200 metres Individual Medley,Women,Whitney Hedgepeth,None,1988
+Swimming,200 metres Individual Medley,Women,Mary Wayte,None,1988
+Swimming,400 metres Individual Medley,Women,Janet Evans,Gold,1988
+Swimming,400 metres Individual Medley,Women,Erika Hansen,None,1988
+Swimming,4 × 100 metres Medley Relay,Women,Beth Barr•Tracey McFarlane•Janel Jorgensen•Mary Wayte•Betsy Mitchell•Mary T. Meagher•Dara Torres,None,1988
+Table Tennis,Singles,Men,Sean O'Neill,None,1988
+Table Tennis,Singles,Women,Insook Bhushan,None,1988
+Table Tennis,Singles,Women,Diana Gee,None,1988
+Table Tennis,Doubles,Women,Diana Gee•Insook Bhushan,None,1988
+Taekwondo,Finweight,Men,Juan Miguel Moreno,None,1988
+Taekwondo,Flyweight,Men,Loung Pham,None,1988
+Taekwondo,Bantamweight,Men,Han-Won Lee,None,1988
+Taekwondo,Lightweight,Men,Greg Baker,None,1988
+Taekwondo,Welterweight,Men,Jay Warwick,None,1988
+Taekwondo,Middleweight,Men,Naim Hasan,None,1988
+Taekwondo,Heavyweight,Men,Jimmy Kim,None,1988
+Taekwondo,Finweight,Women,Cheryl Kalanoc,None,1988
+Taekwondo,Flyweight,Women,Mayumi Pejo,None,1988
+Taekwondo,Bantamweight,Women,Debra Holloway,None,1988
+Taekwondo,Featherweight,Women,Kim Dotson,None,1988
+Taekwondo,Lightweight,Women,Dana Hee,None,1988
+Taekwondo,Welterweight,Women,Arlene Limas,None,1988
+Taekwondo,Middleweight,Women,Sharon Jewell,None,1988
+Taekwondo,Heavyweight,Women,Lynnette Love,None,1988
+Tennis,Singles,Men,Tim Mayotte,Silver,1988
+Tennis,Singles,Men,Brad Gilbert,Bronze,1988
+Tennis,Singles,Men,Robert Seguso,None,1988
+Tennis,Doubles,Men,Ken Flach•Robert Seguso,None,1988
+Tennis,Singles,Women,Zina Garrison,Bronze,1988
+Tennis,Singles,Women,Pam Shriver,None,1988
+Tennis,Singles,Women,Chris Evert,None,1988
+Tennis,Doubles,Women,Pam Shriver•Zina Garrison,None,1988
+Volleyball,Volleyball,Men,Troy Tanner•Dave Saunders•Jon Root•Bob Ctvrtlik•Doug Partie•Steve Timmons•Craig Buck•Scott Fortune•Ricci Luyties•Jeff Stork•Eric Sato•Karch Kiraly,None,1988
+Volleyball,Volleyball,Women,Melissa McLinden•Angela Rock•Liz Masakayan•Kim Oden•Kim Ruddins•Caren Kemner•Tammy Webb•Deitre Collins•Laurel Kessel•Keba Phipps•Liane Sato•Jayne McHugh,None,1988
+Water Polo,Water Polo,Men,Craig Wilson•Kevin Robertson•James Bergeson•Peter Campbell•Doug Kimbell•Craig Klass•Alan Mouchawar•Jeff Campbell•Greg Boyer•Terry Schroeder•Jody Campbell•Chris Duplanty•Mike Evans,None,1988
+Weightlifting,Lightweight,Men,Michael Jacques,None,1988
+Weightlifting,Middleweight,Men,Tony Urrutia,None,1988
+Weightlifting,Light-Heavyweight,Men,Derrick Crass,None,1988
+Weightlifting,Light-Heavyweight,Men,Curt White,None,1988
+Weightlifting,Middle-Heavyweight,Men,Arn Kritsky,None,1988
+Weightlifting,Middle-Heavyweight,Men,Brett Brian,None,1988
+Weightlifting,Heavyweight II,Men,Rich Schutz,None,1988
+Weightlifting,Heavyweight II,Men,Jeff Michels,None,1988
+Weightlifting,Super-Heavyweight,Men,Mario Martinez,None,1988
+Weightlifting,Super-Heavyweight,Men,John Bergman,None,1988
+Wrestling,"Light-Flyweight, Greco-Roman",Men,Mark Fuller,None,1988
+Wrestling,"Flyweight, Greco-Roman",Men,Shawn Sheldon,None,1988
+Wrestling,"Bantamweight, Greco-Roman",Men,Anthony Amado,None,1988
+Wrestling,"Featherweight, Greco-Roman",Men,Ike Anderson,None,1988
+Wrestling,"Lightweight, Greco-Roman",Men,Andy Seras,None,1988
+Wrestling,"Welterweight, Greco-Roman",Men,David Butler,None,1988
+Wrestling,"Middleweight, Greco-Roman",Men,John Morgan,None,1988
+Wrestling,"Light-Heavyweight, Greco-Roman",Men,Mike Foy,None,1988
+Wrestling,"Heavyweight, Greco-Roman",Men,Dennis Koslowski,Bronze,1988
+Wrestling,"Super-Heavyweight, Greco-Roman",Men,Duane Koslowski,None,1988
+Wrestling,"Light-Flyweight, Freestyle",Men,Tim Vanni,None,1988
+Wrestling,"Flyweight, Freestyle",Men,Ken Chertow,None,1988
+Wrestling,"Bantamweight, Freestyle",Men,Barry Davis,None,1988
+Wrestling,"Featherweight, Freestyle",Men,John Smith,Gold,1988
+Wrestling,"Lightweight, Freestyle",Men,Nate Carr,Bronze,1988
+Wrestling,"Welterweight, Freestyle",Men,Kenny Monday,Gold,1988
+Wrestling,"Middleweight, Freestyle",Men,Mark Schultz,None,1988
+Wrestling,"Light-Heavyweight, Freestyle",Men,Jim Scherr,None,1988
+Wrestling,"Heavyweight, Freestyle",Men,Bill Scherr,Bronze,1988
+Wrestling,"Super-Heavyweight, Freestyle",Men,Bruce Baumgartner,Silver,1988

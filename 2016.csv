@@ -1,24 +1,449 @@
-Sport,"1st place, gold medalist(s)","2nd place, silver medalist(s)","3rd place, bronze medalist(s)",Total
-Swimming,16,8,9,33
-Athletics,13,10,9,32
-Gymnastics,4,6,2,12
-Cycling,2,3,0,5
-Wrestling,2,0,1,3
-Basketball,2,0,0,2
-Boxing,1,1,1,3
-Tennis,1,1,1,3
-Judo,1,1,0,2
-Rowing,1,1,0,2
-Shooting,1,0,2,3
-Triathlon,1,0,0,1
-Water polo,1,0,0,1
-Fencing,0,2,2,4
-Diving,0,2,1,3
-Equestrian,0,1,2,3
-Archery,0,1,1,2
-Volleyball,0,0,3,3
-Golf,0,0,1,1
-Sailing,0,0,1,1
-Taekwondo,0,0,1,1
-Weightlifting,0,0,1,1
-Total,46,37,38,121
+Sport,Event,Gender,Athlete,Medal,Year
+Archery,Individual,Men,Brady Ellison,Bronze,2016
+Archery,Individual,Men,Zach Garrett,None,2016
+Archery,Individual,Men,Jake Kaminski,None,2016
+Archery,Team,Men,Zach Garrett•Brady Ellison•Jake Kaminski,None,2016
+Archery,Individual,Women,Mackenzie Brown,None,2016
+Artistic Gymnastics,Individual All-Around,Men,Sam Mikulak,None,2016
+Artistic Gymnastics,Individual All-Around,Men,Chris Brooks,None,2016
+Artistic Gymnastics,Team All-Around,Men,Chris Brooks•Jake Dalton•Danell Leyva•Sam Mikulak•Alex Naddour,None,2016
+Artistic Gymnastics,Floor Exercise,Men,Jake Dalton,None,2016
+Artistic Gymnastics,Floor Exercise,Men,Sam Mikulak,None,2016
+Artistic Gymnastics,Floor Exercise,Men,Alex Naddour,None,2016
+Artistic Gymnastics,Floor Exercise,Men,Chris Brooks,None,2016
+Artistic Gymnastics,Horse Vault,Men,Jake Dalton,None,2016
+Artistic Gymnastics,Parallel Bars,Men,Danell Leyva,Silver,2016
+Artistic Gymnastics,Parallel Bars,Men,Sam Mikulak,None,2016
+Artistic Gymnastics,Parallel Bars,Men,Chris Brooks,None,2016
+Artistic Gymnastics,Parallel Bars,Men,Jake Dalton,None,2016
+Artistic Gymnastics,Horizontal Bar,Men,Danell Leyva,Silver,2016
+Artistic Gymnastics,Horizontal Bar,Men,Sam Mikulak,None,2016
+Artistic Gymnastics,Horizontal Bar,Men,Chris Brooks,None,2016
+Artistic Gymnastics,Horizontal Bar,Men,Jake Dalton,None,2016
+Artistic Gymnastics,Rings,Men,Alex Naddour,None,2016
+Artistic Gymnastics,Rings,Men,Jake Dalton,None,2016
+Artistic Gymnastics,Rings,Men,Chris Brooks,None,2016
+Artistic Gymnastics,Rings,Men,Sam Mikulak,None,2016
+Artistic Gymnastics,Pommelled Horse,Men,Alex Naddour,Bronze,2016
+Artistic Gymnastics,Pommelled Horse,Men,Danell Leyva,None,2016
+Artistic Gymnastics,Pommelled Horse,Men,Sam Mikulak,None,2016
+Artistic Gymnastics,Pommelled Horse,Men,Chris Brooks,None,2016
+Artistic Gymnastics,Individual All-Around,Women,Simone Biles,Gold,2016
+Artistic Gymnastics,Individual All-Around,Women,Aly Raisman,Silver,2016
+Artistic Gymnastics,Individual All-Around,Women,Gabby Douglas,None,2016
+Artistic Gymnastics,Team All-Around,Women,Simone Biles•Gabby Douglas•Laurie Hernandez•Madison Kocian•Aly Raisman,None,2016
+Artistic Gymnastics,Floor Exercise,Women,Simone Biles,Gold,2016
+Artistic Gymnastics,Floor Exercise,Women,Aly Raisman,Silver,2016
+Artistic Gymnastics,Floor Exercise,Women,Laurie Hernandez,None,2016
+Artistic Gymnastics,Floor Exercise,Women,Gabby Douglas,None,2016
+Artistic Gymnastics,Horse Vault,Women,Simone Biles,Gold,2016
+Artistic Gymnastics,Uneven Bars,Women,Madison Kocian,Silver,2016
+Artistic Gymnastics,Uneven Bars,Women,Gabby Douglas,None,2016
+Artistic Gymnastics,Uneven Bars,Women,Simone Biles,None,2016
+Artistic Gymnastics,Uneven Bars,Women,Aly Raisman,None,2016
+Artistic Gymnastics,Balance Beam,Women,Laurie Hernandez,Silver,2016
+Artistic Gymnastics,Balance Beam,Women,Simone Biles,Bronze,2016
+Artistic Gymnastics,Balance Beam,Women,Gabby Douglas,None,2016
+Artistic Gymnastics,Balance Beam,Women,Aly Raisman,None,2016
+Artistic Swimming,Duet,Women,Anita Alvarez•Mariya Koroleva,None,2016
+Athletics,100 metres,Men,Justin Gatlin,Silver,2016
+Athletics,100 metres,Men,Trayvon Bromell,None,2016
+Athletics,100 metres,Men,Marvin Bracy-Williams,None,2016
+Athletics,200 metres,Men,LaShawn Merritt,None,2016
+Athletics,200 metres,Men,Justin Gatlin,None,2016
+Athletics,200 metres,Men,Ameer Webb,None,2016
+Athletics,400 metres,Men,LaShawn Merritt,Bronze,2016
+Athletics,400 metres,Men,Gil Roberts,None,2016
+Athletics,400 metres,Men,David Verburg,None,2016
+Athletics,800 metres,Men,Clayton Murphy,Bronze,2016
+Athletics,800 metres,Men,Boris Berian,None,2016
+Athletics,800 metres,Men,Charles Jock,None,2016
+Athletics,"1,500 metres",Men,"Matthew Centrowitz, Jr.",Gold,2016
+Athletics,"1,500 metres",Men,Ben Blankenship,None,2016
+Athletics,"1,500 metres",Men,Robby Andrews,None,2016
+Athletics,"5,000 metres",Men,Paul Chelimo,Silver,2016
+Athletics,"5,000 metres",Men,Bernard Lagat,None,2016
+Athletics,"5,000 metres",Men,Hassan Mead,None,2016
+Athletics,"10,000 metres",Men,Galen Rupp,None,2016
+Athletics,"10,000 metres",Men,Leonard Essau Korir,None,2016
+Athletics,"10,000 metres",Men,Shadrack Kipchirchir,None,2016
+Athletics,Marathon,Men,Galen Rupp,Bronze,2016
+Athletics,Marathon,Men,Jared Ward,None,2016
+Athletics,Marathon,Men,Meb Keflezighi,None,2016
+Athletics,110 metres Hurdles,Men,Devon Allen,None,2016
+Athletics,110 metres Hurdles,Men,Ronnie Ash,None,2016
+Athletics,110 metres Hurdles,Men,Jeff Porter,None,2016
+Athletics,400 metres Hurdles,Men,Kerron Clement,Gold,2016
+Athletics,400 metres Hurdles,Men,Byron Robinson,None,2016
+Athletics,400 metres Hurdles,Men,Michael Tinsley,None,2016
+Athletics,"3,000 metres Steeplechase",Men,Evan Jager,Silver,2016
+Athletics,"3,000 metres Steeplechase",Men,Hillary Bor,None,2016
+Athletics,"3,000 metres Steeplechase",Men,Donn Cabral,None,2016
+Athletics,4 × 100 metres Relay,Men,Mike Rodgers•Justin Gatlin•Tyson Gay•Trayvon Bromell•Christian Coleman•Jarrion Lawson,None,2016
+Athletics,4 × 400 metres Relay,Men,Arman Hall•Tony McQuay•Gil Roberts•LaShawn Merritt•Kyle Clemons•David Verburg,None,2016
+Athletics,50 kilometres Race Walk,Men,John Nunn,None,2016
+Athletics,High Jump,Men,Erik Kynard,None,2016
+Athletics,High Jump,Men,Ricky Robertson,None,2016
+Athletics,High Jump,Men,Brad Adkins,None,2016
+Athletics,Pole Vault,Men,Sam Kendricks,Bronze,2016
+Athletics,Pole Vault,Men,Logan Cunningham,None,2016
+Athletics,Pole Vault,Men,Cale Simmons,None,2016
+Athletics,Long Jump,Men,Jeff Henderson,Gold,2016
+Athletics,Long Jump,Men,Jarrion Lawson,None,2016
+Athletics,Long Jump,Men,Mike Hartfield,None,2016
+Athletics,Triple Jump,Men,Christian Taylor,Gold,2016
+Athletics,Triple Jump,Men,Will Claye,Silver,2016
+Athletics,Triple Jump,Men,Chris Benard,None,2016
+Athletics,Shot Put,Men,Ryan Crouser,Gold,2016
+Athletics,Shot Put,Men,Joe Kovacs,Silver,2016
+Athletics,Shot Put,Men,Darrell Hill,None,2016
+Athletics,Discus Throw,Men,Mason Finley,None,2016
+Athletics,Discus Throw,Men,Andrew Evans,None,2016
+Athletics,Discus Throw,Men,Tavis Bailey,None,2016
+Athletics,Hammer Throw,Men,Conor McCullough,None,2016
+Athletics,Hammer Throw,Men,Rudy Winkler,None,2016
+Athletics,Hammer Throw,Men,Kibwé Johnson,None,2016
+Athletics,Javelin Throw,Men,Cyrus Hostetler,None,2016
+Athletics,Javelin Throw,Men,Sam Crouser,None,2016
+Athletics,Javelin Throw,Men,Sean Furey,None,2016
+Athletics,Decathlon,Men,Ashton Eaton,Gold,2016
+Athletics,Decathlon,Men,Zach Ziemek,None,2016
+Athletics,Decathlon,Men,Jeremy Taiwo,None,2016
+Athletics,100 metres,Women,Tori Bowie,Silver,2016
+Athletics,100 metres,Women,English Gardner,None,2016
+Athletics,100 metres,Women,Tianna Bartoletta,None,2016
+Athletics,200 metres,Women,Tori Bowie,Bronze,2016
+Athletics,200 metres,Women,Deajah Stevens,None,2016
+Athletics,200 metres,Women,Jenna Prandini,None,2016
+Athletics,400 metres,Women,Allyson Felix,Silver,2016
+Athletics,400 metres,Women,Natasha Hastings,None,2016
+Athletics,400 metres,Women,Phyllis Francis,None,2016
+Athletics,800 metres,Women,Kate Grace,None,2016
+Athletics,800 metres,Women,Ajeé Wilson,None,2016
+Athletics,800 metres,Women,Chrishuna Williams,None,2016
+Athletics,"1,500 metres",Women,Jenny Simpson,Bronze,2016
+Athletics,"1,500 metres",Women,Shannon Rowbury,None,2016
+Athletics,"1,500 metres",Women,Brenda Martinez,None,2016
+Athletics,"5,000 metres",Women,Shelby Houlihan,None,2016
+Athletics,"5,000 metres",Women,Abbey D'Agostino,None,2016
+Athletics,"5,000 metres",Women,Kim Conley,None,2016
+Athletics,"10,000 metres",Women,Molly Huddle,None,2016
+Athletics,"10,000 metres",Women,Emily Infeld,None,2016
+Athletics,"10,000 metres",Women,Marielle Hall,None,2016
+Athletics,Marathon,Women,Shalane Flanagan,None,2016
+Athletics,Marathon,Women,Des Linden,None,2016
+Athletics,Marathon,Women,Amy Cragg,None,2016
+Athletics,100 metres Hurdles,Women,Brianna Rollins,Gold,2016
+Athletics,100 metres Hurdles,Women,Nia Ali,Silver,2016
+Athletics,100 metres Hurdles,Women,Kristi Castlin,Bronze,2016
+Athletics,400 metres Hurdles,Women,Dalilah Muhammad,Gold,2016
+Athletics,400 metres Hurdles,Women,Ashley Spencer,Bronze,2016
+Athletics,400 metres Hurdles,Women,Sydney McLaughlin,None,2016
+Athletics,"3,000 metres Steeplechase",Women,Emma Coburn,Bronze,2016
+Athletics,"3,000 metres Steeplechase",Women,Colleen Quigley,None,2016
+Athletics,"3,000 metres Steeplechase",Women,Courtney Frerichs,None,2016
+Athletics,4 × 100 metres Relay,Women,Tianna Bartoletta•Allyson Felix•English Gardner•Tori Bowie•Morolake Akinosun,None,2016
+Athletics,4 × 400 metres Relay,Women,Courtney Okolo•Natasha Hastings•Phyllis Francis•Allyson Felix•Taylor Ellis-Watson•Francena McCorory,None,2016
+Athletics,20 kilometres Race Walk,Women,Maria Michta-Coffey,None,2016
+Athletics,20 kilometres Race Walk,Women,Miranda Melville,None,2016
+Athletics,High Jump,Women,Chaunté Lowe,None,2016
+Athletics,High Jump,Women,Inika McPherson,None,2016
+Athletics,High Jump,Women,Vashti Cunningham,None,2016
+Athletics,Pole Vault,Women,Sandi Morris,Silver,2016
+Athletics,Pole Vault,Women,Jenn Suhr,None,2016
+Athletics,Pole Vault,Women,Lexi Weeks,None,2016
+Athletics,Long Jump,Women,Tianna Bartoletta,Gold,2016
+Athletics,Long Jump,Women,Brittney Reese,Silver,2016
+Athletics,Long Jump,Women,Janay DeLoach,None,2016
+Athletics,Triple Jump,Women,Keturah Orji,None,2016
+Athletics,Triple Jump,Women,Christina Epps,None,2016
+Athletics,Triple Jump,Women,Andrea Geubelle,None,2016
+Athletics,Shot Put,Women,Michelle Carter,Gold,2016
+Athletics,Shot Put,Women,Raven Saunders,None,2016
+Athletics,Shot Put,Women,Felisha Johnson,None,2016
+Athletics,Discus Throw,Women,Kelsey Card,None,2016
+Athletics,Discus Throw,Women,Shelbi Vaughan,None,2016
+Athletics,Discus Throw,Women,Whitney Ashley,None,2016
+Athletics,Hammer Throw,Women,Amber Campbell,None,2016
+Athletics,Hammer Throw,Women,DeAnna Price,None,2016
+Athletics,Hammer Throw,Women,Gwen Berry,None,2016
+Athletics,Javelin Throw,Women,Kara Winger,None,2016
+Athletics,Javelin Throw,Women,Maggie Malone,None,2016
+Athletics,Javelin Throw,Women,Brittany Borman,None,2016
+Athletics,Heptathlon,Women,Barbara Nwaba,None,2016
+Athletics,Heptathlon,Women,Kendell Williams,None,2016
+Athletics,Heptathlon,Women,Heather Miller-Koch,None,2016
+Badminton,Singles,Men,Howard Shu,None,2016
+Badminton,Doubles,Men,Phillip Chew•Sattawat Pongnairat,None,2016
+Badminton,Singles,Women,Iris Wang,None,2016
+Badminton,Doubles,Women,Eva Lee•Paula Lynn Obanana,None,2016
+Badminton,Doubles,Mixed,Phillip Chew•Jamie Subandhi,None,2016
+Basketball,Basketball,Men,Jimmy Butler•Kevin Durant•DeAndre Jordan•Kyle Lowry•Harrison Barnes•DeMar DeRozan•Kyrie Irving•Klay Thompson•DeMarcus Cousins•Paul George•Draymond Green•Carmelo Anthony,None,2016
+Basketball,Basketball,Women,Lindsay Whalen•Seimone Augustus•Sue Bird•Maya Moore•Angel McCoughtry•Breanna Stewart•Tamika Catchings•Elena Delle Donne•Diana Taurasi•Sylvia Fowles•Tina Charles•Brittney Griner,None,2016
+Beach Volleyball,Beach Volleyball,Men,Nick Lucena•Phil Dalhausser,None,2016
+Beach Volleyball,Beach Volleyball,Men,Jake Gibb•Casey Patterson,None,2016
+Beach Volleyball,Beach Volleyball,Women,Kerri Walsh Jennings•April Ross,None,2016
+Beach Volleyball,Beach Volleyball,Women,Lauren Fendrick•Brooke Sweat,None,2016
+Boxing,Light-Flyweight,Men,Nico Hernandez,Bronze,2016
+Boxing,Flyweight,Men,Antonio Vargas,None,2016
+Boxing,Bantamweight,Men,Shakur Stevenson,Silver,2016
+Boxing,Lightweight,Men,Carlos Balderas,None,2016
+Boxing,Light-Welterweight,Men,Gary Russell,None,2016
+Boxing,Middleweight,Men,Charles Conwell,None,2016
+Boxing,Lightweight,Women,Mikaela Mayer,None,2016
+Boxing,Middleweight,Women,Claressa Shields,Gold,2016
+Canoe Slalom,"Kayak Singles, Slalom",Men,Michal Smolen,None,2016
+Canoe Slalom,"Canadian Singles, Slalom",Men,Casey Eichfeld,None,2016
+Canoe Slalom,"Canadian Doubles, Slalom",Men,Devin McEwan•Casey Eichfeld,None,2016
+Canoe Slalom,"Kayak Singles, Slalom",Women,Ashley Nee,None,2016
+Canoe Sprint,"Kayak Singles, 200 metres",Women,Maggie Hogan,None,2016
+Canoe Sprint,"Kayak Singles, 500 metres",Women,Maggie Hogan,None,2016
+Cycling BMX Racing,BMX,Men,Connor Fields,Gold,2016
+Cycling BMX Racing,BMX,Men,Nic Long,None,2016
+Cycling BMX Racing,BMX,Men,Corben Sharrah,None,2016
+Cycling BMX Racing,BMX,Women,Alise Post,Silver,2016
+Cycling BMX Racing,BMX,Women,Brooke Crain,None,2016
+Cycling Mountain Bike,Cross-Country,Men,Howard Grotts,None,2016
+Cycling Mountain Bike,Cross-Country,Women,Lea Davison,None,2016
+Cycling Mountain Bike,Cross-Country,Women,Chloe Woodruff,None,2016
+Cycling Road,"Road Race, Individual",Men,Brent Bookwalter,None,2016
+Cycling Road,"Road Race, Individual",Men,Taylor Phinney,None,2016
+Cycling Road,Individual Time Trial,Men,Taylor Phinney,None,2016
+Cycling Road,Individual Time Trial,Men,Brent Bookwalter,None,2016
+Cycling Road,"Road Race, Individual",Women,Mara Abbott,None,2016
+Cycling Road,"Road Race, Individual",Women,Megan Guarnier,None,2016
+Cycling Road,"Road Race, Individual",Women,Evelyn Stevens,None,2016
+Cycling Road,"Road Race, Individual",Women,Kristin Armstrong,None,2016
+Cycling Road,Individual Time Trial,Women,Kristin Armstrong,Gold,2016
+Cycling Road,Individual Time Trial,Women,Evelyn Stevens,None,2016
+Cycling Track,Keirin,Men,Matt Baranoski,None,2016
+Cycling Track,Omnium,Men,Bobby Lea,None,2016
+Cycling Track,Team Pursuit,Women,Sarah Hammer•Kelly Catlin•Chloé Dygert•Jennifer Valente,None,2016
+Cycling Track,Omnium,Women,Sarah Hammer,Silver,2016
+Diving,Springboard,Men,Kristian Ipsen,None,2016
+Diving,Springboard,Men,Mike Hixon,None,2016
+Diving,Platform,Men,David Boudia,Bronze,2016
+Diving,Platform,Men,Steele Johnson,None,2016
+Diving,Synchronized Springboard,Men,Sam Dorman•Mike Hixon,None,2016
+Diving,Synchronized Platform,Men,David Boudia•Steele Johnson,None,2016
+Diving,Springboard,Women,Abby Johnston,None,2016
+Diving,Springboard,Women,Kassidy Cook,None,2016
+Diving,Platform,Women,Jessica Parratto,None,2016
+Diving,Platform,Women,Katrina Young,None,2016
+Diving,Synchronized Platform,Women,Amy Cozad•Jessica Parratto,None,2016
+Equestrian Dressage,Individual,Open,Laura Graves,None,2016
+Equestrian Dressage,Individual,Open,Steffen Peters,None,2016
+Equestrian Dressage,Individual,Open,Allison Brock,None,2016
+Equestrian Dressage,Individual,Open,Kasey Perry-Glass,None,2016
+Equestrian Dressage,Team,Open,Allison Brock•Kasey Perry-Glass•Steffen Peters•Laura Graves,None,2016
+Equestrian Eventing,Individual,Open,Phillip Dutton,Bronze,2016
+Equestrian Eventing,Individual,Open,Boyd Martin,None,2016
+Equestrian Eventing,Individual,Open,Clark Montgomery,None,2016
+Equestrian Eventing,Individual,Open,Lauren Kieffer,None,2016
+Equestrian Eventing,Team,Open,Clark Montgomery•Lauren Kieffer•Boyd Martin•Phillip Dutton,None,2016
+Equestrian Jumping,Individual,Open,Kent Farrington,None,2016
+Equestrian Jumping,Individual,Open,McLain Ward,None,2016
+Equestrian Jumping,Individual,Open,Lucy Davis,None,2016
+Equestrian Jumping,Individual,Open,Beezie Madden,None,2016
+Equestrian Jumping,Team,Open,Kent Farrington•Lucy Davis•McLain Ward•Beezie Madden,None,2016
+Fencing,"Foil, Individual",Men,Alexander Massialas,Silver,2016
+Fencing,"Foil, Individual",Men,Gerek Meinhardt,None,2016
+Fencing,"Foil, Individual",Men,Miles Chamley-Watson,None,2016
+Fencing,"Foil, Team",Men,Miles Chamley-Watson•Alexander Massialas•Gerek Meinhardt•Race Imboden,None,2016
+Fencing,"Épée, Individual",Men,Jason Pryor,None,2016
+Fencing,"Sabre, Individual",Men,Daryl Homer,Silver,2016
+Fencing,"Sabre, Individual",Men,Eli Dershwitz,None,2016
+Fencing,"Foil, Individual",Women,Lee Kiefer,None,2016
+Fencing,"Foil, Individual",Women,Nzingha Prescod,None,2016
+Fencing,"Épée, Individual",Women,Courtney Hurley,None,2016
+Fencing,"Épée, Individual",Women,Kelley Hurley,None,2016
+Fencing,"Épée, Individual",Women,Kat Holmes,None,2016
+Fencing,"Épée, Team",Women,Kat Holmes•Courtney Hurley•Kelley Hurley•Katarzyna Trzopek,None,2016
+Fencing,"Sabre, Individual",Women,Mariel Zagunis,None,2016
+Fencing,"Sabre, Individual",Women,Ibtihaj Muhammad,None,2016
+Fencing,"Sabre, Individual",Women,Dagmara Wozniak,None,2016
+Fencing,"Sabre, Team",Women,Ibtihaj Muhammad•Dagmara Wozniak•Mariel Zagunis•Monica Aksamit,None,2016
+Football,Football,Women,Hope Solo•Mallory Pugh•Allie Long•Becky Sauerbrunn•Kelley O'Hara•Whitney Engen•Meghan Klingenberg•Julie Johnston•Lindsey Horan•Carli Lloyd•Ali Krieger•Christen Press•Alex Morgan Carrasco•Morgan Brian•Megan Rapinoe•Crystal Dunn•Tobin Heath•Alyssa Naeher(DNS)•Heather O'Reilly(DNS)•Ashlyn Harris(DNS)•Sam Mewis(DNS)•Emily Sonnett(DNS),None,2016
+Golf,Individual,Men,Matt Kuchar,Bronze,2016
+Golf,Individual,Men,Bubba Watson,None,2016
+Golf,Individual,Men,Patrick Reed,None,2016
+Golf,Individual,Men,Rickie Fowler,None,2016
+Golf,Individual,Women,Stacy Lewis,None,2016
+Golf,Individual,Women,Gerina Piller,None,2016
+Golf,Individual,Women,Lexi Thompson,None,2016
+Hockey,Hockey,Women,Stefanie Fee•Melissa Gonzalez•Kelsey Kolojejchick•Rachel Dawson•Michelle Vittese•Jill Witmer•Julia Reinprecht•Katie Reinprecht•Katie Bam•Michelle Kasold•Katelyn Falgowski•Kathleen Sharkey•Lauren Crandall•Caitlin Van Sickle•Alyssa Manley•Jackie Briggs,None,2016
+Judo,Lightweight,Men,Nick Delpopolo,None,2016
+Judo,Half-Middleweight,Men,Travis Stevens,Silver,2016
+Judo,Middleweight,Men,Colton Brown,None,2016
+Judo,Half-Lightweight,Women,Angelica Delgado,None,2016
+Judo,Lightweight,Women,Marti Malloy,None,2016
+Judo,Half-Heavyweight,Women,Kayla Harrison,Gold,2016
+Marathon Swimming,10 kilometres Open Water,Men,Jordan Wilimovsky,None,2016
+Marathon Swimming,10 kilometres Open Water,Men,Sean Ryan,None,2016
+Marathon Swimming,10 kilometres Open Water,Women,Haley Anderson,None,2016
+Modern Pentathlon,Individual,Men,Nathan Schrimsher,None,2016
+Modern Pentathlon,Individual,Women,Margaux Isaksen,None,2016
+Modern Pentathlon,Individual,Women,Isabella Isaksen,None,2016
+Rhythmic Gymnastics,Individual,Women,Laura Zeng,None,2016
+Rhythmic Gymnastics,Group,Women,Alisa Kano•Kiana Eide•Kristen Shaldybin•Monica Rokhman•Natalie McGiffert,None,2016
+Rowing,Coxless Pairs,Men,Anders Weiss•Nareg Guregian,None,2016
+Rowing,Coxless Fours,Men,Henrik Rummel•Matt Miller•Charlie Cole•Seth Weil,None,2016
+Rowing,Eights,Men,Sam Dommer•Hans Struzyna•Alex Karwoski•Glenn Ochal•Steve Kasprzyk•Michael DiSanto•Rob Munn•Austin Hack•Sam Ojserkis,None,2016
+Rowing,Lightweight Double Sculls,Men,Josh Konieczny•Andrew Campbell,None,2016
+Rowing,Lightweight Coxless Fours,Men,Robin Prendes•Anthony Fahden•Edward King•Tyler Nase,None,2016
+Rowing,Single Sculls,Women,Gevvie Stone,Silver,2016
+Rowing,Double Sculls,Women,Meghan O'Leary•Ellen Tomek,None,2016
+Rowing,Coxless Pairs,Women,Felice Mueller•Grace Luczak,None,2016
+Rowing,Quadruple Sculls,Women,Grace Latz•Tracy Eisser•Megan Kalmoe•Adrienne Martelli,None,2016
+Rowing,Eights,Women,Emily Regan•Kerry Simmonds•Amanda Polk•Lauren Schmetterling•Tessa Gobbo•Meghan Musnicki•Elle Logan•Amanda Elmore•Katelin Snyder-Guregian,None,2016
+Rowing,Lightweight Double Sculls,Women,Devery Karz•Kate Bertko,None,2016
+Rugby Sevens,Rugby Sevens,Men,Andrew Durutalo•Ben Pinkelman•Carlin Isles•Chris Wyles•Danny Barrett•Folau Niua•Garrett Bender•Madison Hughes•Maka Unufe•Nate Ebner•Perry Baker•Zack Test•Martin Iosefo,None,2016
+Rugby Sevens,Rugby Sevens,Women,Alev Kelter•Bui Baravilala•Carmen Farmer•Jessica Javelet•Jillion Potter•Kathryn Johnson•Kelly Griffin•Lauren Doyle•Nana Fa'avesi•Richelle Stephens•Ryan Carlyle•Victoria Folayan,None,2016
+Sailing,Windsurfer,Men,Pedro Pascual,None,2016
+Sailing,One Person Dinghy,Men,Charlie Buckingham,None,2016
+Sailing,Two Person Dinghy,Men,Stu McNay•Dave Hughes,None,2016
+Sailing,Skiff,Men,Thomas Barrows•Joe Morris,None,2016
+Sailing,One Person Heavyweight Dinghy,Men,Caleb Paine,Bronze,2016
+Sailing,Windsurfer,Women,Marion Lepert,None,2016
+Sailing,One Person Dinghy,Women,Paige Railey,None,2016
+Sailing,Two Person Dinghy,Women,Annie Haeger•Briana Provancha,None,2016
+Sailing,Skiff,Women,Paris Henken•Helena Scutt,None,2016
+Sailing,Multihull,Mixed,Bora Gulari•Louisa Chafee,None,2016
+Shooting,"Air Pistol, 10 metres",Men,Will Brown,None,2016
+Shooting,"Air Pistol, 10 metres",Men,Jay Shi,None,2016
+Shooting,"Rapid-Fire Pistol, 25 metres",Men,Keith Sanderson,None,2016
+Shooting,"Rapid-Fire Pistol, 25 metres",Men,Emil Milev,None,2016
+Shooting,"Free Pistol, 50 metres",Men,Will Brown,None,2016
+Shooting,"Free Pistol, 50 metres",Men,Jay Shi,None,2016
+Shooting,"Air Rifle, 10 metres",Men,Lucas Kozeniesky,None,2016
+Shooting,"Air Rifle, 10 metres",Men,Dan Lowe,None,2016
+Shooting,"Small-Bore Rifle, Three Positions, 50 metres",Men,Matt Emmons,None,2016
+Shooting,"Small-Bore Rifle, Three Positions, 50 metres",Men,Dan Lowe,None,2016
+Shooting,"Small-Bore Rifle, Prone, 50 metres",Men,Michael McPhail,None,2016
+Shooting,"Small-Bore Rifle, Prone, 50 metres",Men,David Higgins,None,2016
+Shooting,Double Trap,Men,Joshua Richmond,None,2016
+Shooting,Double Trap,Men,Glenn Eller,None,2016
+Shooting,Skeet,Men,Vincent Hancock,None,2016
+Shooting,Skeet,Men,Frank Thompson,None,2016
+Shooting,"Air Pistol, 10 metres",Women,Lydia Paterson,None,2016
+Shooting,"Air Pistol, 10 metres",Women,Enkelejda Shehu,None,2016
+Shooting,"Sporting Pistol, 25 metres",Women,Enkelejda Shehu,None,2016
+Shooting,"Air Rifle, 10 metres",Women,Ginny Thrasher,Gold,2016
+Shooting,"Air Rifle, 10 metres",Women,Sarah Scherer,None,2016
+Shooting,"Small-Bore Rifle, Three Positions, 50 metres",Women,Ginny Thrasher,None,2016
+Shooting,"Small-Bore Rifle, Three Positions, 50 metres",Women,Sarah Scherer,None,2016
+Shooting,Trap,Women,Corey Unrein,Bronze,2016
+Shooting,Skeet,Women,Kim Rhode,Bronze,2016
+Shooting,Skeet,Women,Morgan Craft,None,2016
+Swimming,50 metres Freestyle,Men,Anthony Ervin,Gold,2016
+Swimming,50 metres Freestyle,Men,Nathan Adrian,Bronze,2016
+Swimming,100 metres Freestyle,Men,Nathan Adrian,Bronze,2016
+Swimming,100 metres Freestyle,Men,Caeleb Dressel,None,2016
+Swimming,200 metres Freestyle,Men,Conor Dwyer,Bronze,2016
+Swimming,200 metres Freestyle,Men,Townley Haas,None,2016
+Swimming,400 metres Freestyle,Men,Conor Dwyer,None,2016
+Swimming,400 metres Freestyle,Men,Connor Jaeger,None,2016
+Swimming,"1,500 metres Freestyle",Men,Connor Jaeger,Silver,2016
+Swimming,"1,500 metres Freestyle",Men,Jordan Wilimovsky,None,2016
+Swimming,4 × 100 metres Freestyle Relay,Men,Anthony Ervin•Michael Phelps•Nathan Adrian•Jimmy Feigen•Blake Pieroni•Caeleb Dressel•Ryan Held,None,2016
+Swimming,4 × 200 metres Freestyle Relay,Men,Michael Phelps•Ryan Lochte•Conor Dwyer•Clark Smith•Gunnar Bentz•Jack Conger•Townley Haas,None,2016
+Swimming,100 metres Backstroke,Men,Ryan Murphy,Gold,2016
+Swimming,100 metres Backstroke,Men,David Plummer,Bronze,2016
+Swimming,200 metres Backstroke,Men,Ryan Murphy,Gold,2016
+Swimming,200 metres Backstroke,Men,Jacob Pebley,None,2016
+Swimming,100 metres Breaststroke,Men,Cody Miller,Bronze,2016
+Swimming,100 metres Breaststroke,Men,Kevin Cordes,None,2016
+Swimming,200 metres Breaststroke,Men,Josh Prenot,Silver,2016
+Swimming,200 metres Breaststroke,Men,Kevin Cordes,None,2016
+Swimming,100 metres Butterfly,Men,Michael Phelps,Silver,2016
+Swimming,100 metres Butterfly,Men,Tom Shields,None,2016
+Swimming,200 metres Butterfly,Men,Michael Phelps,Gold,2016
+Swimming,200 metres Butterfly,Men,Tom Shields,None,2016
+Swimming,200 metres Individual Medley,Men,Michael Phelps,Gold,2016
+Swimming,200 metres Individual Medley,Men,Ryan Lochte,None,2016
+Swimming,400 metres Individual Medley,Men,Chase Kalisz,Silver,2016
+Swimming,400 metres Individual Medley,Men,Jay Litherland,None,2016
+Swimming,4 × 100 metres Medley Relay,Men,Michael Phelps•Nathan Adrian•Caeleb Dressel•Cody Miller•David Plummer•Kevin Cordes•Ryan Murphy•Tom Shields,None,2016
+Swimming,50 metres Freestyle,Women,Simone Manuel,Silver,2016
+Swimming,50 metres Freestyle,Women,Abbey Weitzeil,None,2016
+Swimming,100 metres Freestyle,Women,Simone Manuel,Gold,2016
+Swimming,100 metres Freestyle,Women,Abbey Weitzeil,None,2016
+Swimming,200 metres Freestyle,Women,Katie Ledecky,Gold,2016
+Swimming,200 metres Freestyle,Women,Missy Franklin,None,2016
+Swimming,400 metres Freestyle,Women,Katie Ledecky,Gold,2016
+Swimming,400 metres Freestyle,Women,Leah Smith,Bronze,2016
+Swimming,800 metres Freestyle,Women,Katie Ledecky,Gold,2016
+Swimming,800 metres Freestyle,Women,Leah Smith,None,2016
+Swimming,4 × 100 metres Freestyle Relay,Women,Amanda Weir•Dana Vollmer•Allison Schmitt•Katie Ledecky•Lia Neal•Abbey Weitzeil•Simone Manuel,None,2016
+Swimming,4 × 200 metres Freestyle Relay,Women,Allison Schmitt•Katie Ledecky•Missy Franklin•Leah Smith•Maya DiRado•Melanie Margalis•Cierra Runge,None,2016
+Swimming,100 metres Backstroke,Women,Kathleen Baker,Silver,2016
+Swimming,100 metres Backstroke,Women,Olivia Smoliga,None,2016
+Swimming,200 metres Backstroke,Women,Maya DiRado,Gold,2016
+Swimming,200 metres Backstroke,Women,Missy Franklin,None,2016
+Swimming,100 metres Breaststroke,Women,Lilly King,Gold,2016
+Swimming,100 metres Breaststroke,Women,Katie Meili,Bronze,2016
+Swimming,200 metres Breaststroke,Women,Lilly King,None,2016
+Swimming,200 metres Breaststroke,Women,Molly Hannis,None,2016
+Swimming,100 metres Butterfly,Women,Dana Vollmer,Bronze,2016
+Swimming,100 metres Butterfly,Women,Kelsi Worrell,None,2016
+Swimming,200 metres Butterfly,Women,Cammile Adams,None,2016
+Swimming,200 metres Butterfly,Women,Hali Flickinger,None,2016
+Swimming,200 metres Individual Medley,Women,Maya DiRado,Bronze,2016
+Swimming,200 metres Individual Medley,Women,Melanie Margalis,None,2016
+Swimming,400 metres Individual Medley,Women,Maya DiRado,Silver,2016
+Swimming,400 metres Individual Medley,Women,Elizabeth Beisel,None,2016
+Swimming,4 × 100 metres Medley Relay,Women,Dana Vollmer•Abbey Weitzeil•Kathleen Baker•Katie Meili•Kelsi Worrell•Lilly King•Olivia Smoliga•Simone Manuel,None,2016
+Table Tennis,Singles,Men,Tom Feng,None,2016
+Table Tennis,Singles,Men,Kanak Jha,None,2016
+Table Tennis,Team,Men,Tom Feng•Kanak Jha•Timothy Wang,None,2016
+Table Tennis,Singles,Women,Lily Zhang,None,2016
+Table Tennis,Singles,Women,Jennifer Wu,None,2016
+Table Tennis,Team,Women,Jiaqi Zheng•Lily Zhang•Jennifer Wu,None,2016
+Taekwondo,Welterweight,Men,Steven Lopez,None,2016
+Taekwondo,Heavyweight,Men,Stephen Lambdin,None,2016
+Taekwondo,Welterweight,Women,Paige McPherson,None,2016
+Taekwondo,Heavyweight,Women,Jackie Galloway,Bronze,2016
+Tennis,Singles,Men,Steve Johnson,None,2016
+Tennis,Singles,Men,Jack Sock,None,2016
+Tennis,Singles,Men,Brian Baker,None,2016
+Tennis,Singles,Men,Denis Kudla,None,2016
+Tennis,Doubles,Men,Steve Johnson•Jack Sock,None,2016
+Tennis,Doubles,Men,Brian Baker•Rajeev Ram,None,2016
+Tennis,Singles,Women,Madison Keys,None,2016
+Tennis,Singles,Women,Serena Williams,None,2016
+Tennis,Singles,Women,Venus Williams,None,2016
+Tennis,Singles,Women,Sloane Stephens,None,2016
+Tennis,Doubles,Women,Bethanie Mattek-Sands•CoCo Vandeweghe,None,2016
+Tennis,Doubles,Women,Serena Williams•Venus Williams,None,2016
+Tennis,Doubles,Mixed,Bethanie Mattek-Sands•Jack Sock,Silver,2016
+Tennis,Doubles,Mixed,Venus Williams•Rajeev Ram,None,2016
+Trampolining,Individual,Men,Logan Dooley,None,2016
+Trampolining,Individual,Women,Nicole Ahsinger,None,2016
+Triathlon,Olympic Distance,Men,Joe Maloy,None,2016
+Triathlon,Olympic Distance,Men,Ben Kanute,None,2016
+Triathlon,Olympic Distance,Men,Greg Billington,None,2016
+Triathlon,Olympic Distance,Women,Gwen Jorgensen,Gold,2016
+Triathlon,Olympic Distance,Women,Katie Zaferes,None,2016
+Triathlon,Olympic Distance,Women,Sarah True,None,2016
+Volleyball,Volleyball,Men,Reid Priddy•David Lee•Matt Anderson•David Smith•Aaron Russell•Erik Shoji•Kawika Shoji•Max Holt•Micah Christenson•Murphy Troy•Taylor Sander•Tom Jaeschke,None,2016
+Volleyball,Volleyball,Women,Courtney Thompson•Jordan Larson-Burbach•Foluke Akinradewo•Christa Dietzen•Alisha Glass•Carli Lloyd•Karsta Lowe•Kayla Banwarth•Kelly Murphy•Kelsey Robinson•Kim Hill•Rachael Adams,None,2016
+Water Polo,Water Polo,Men,Thomas Dunstan•Ben Hallock•Alex Obert•Alex Roelse•Luca Cupido•Josh Samuels•Tony Azevedo•Alex Bowen•Bret Bonanni•Jesse Smith•John Mann•Merrill Moses•McQuin Baron,None,2016
+Water Polo,Water Polo,Women,Maddie Musselman•Melissa Seidemann•Rachel Fattal•KK Clark•Maggie Steffens•Courtney Mathewson•Kiley Neushul•Aria Fischer•Kaleigh Gilchrist•Makenzie Fischer•Kami Craig•Sami Hill•Ashleigh Johnson,None,2016
+Weightlifting,Middle-Heavyweight,Men,Kendrick Farris,None,2016
+Weightlifting,Flyweight,Women,Morghan King,None,2016
+Weightlifting,Heavyweight,Women,Jenny Arthur,None,2016
+Weightlifting,Super-Heavyweight,Women,Sarah Robles,Bronze,2016
+Wrestling,"Featherweight, Greco-Roman",Men,Jesse Thielke,None,2016
+Wrestling,"Middleweight, Greco-Roman",Men,Andy Bisek,None,2016
+Wrestling,"Light-Heavyweight, Greco-Roman",Men,Ben Provisor,None,2016
+Wrestling,"Super-Heavyweight, Greco-Roman",Men,Robby Smith,None,2016
+Wrestling,"Featherweight, Freestyle",Men,Daniel Dennis,None,2016
+Wrestling,"Welterweight, Freestyle",Men,Frank Molinaro,None,2016
+Wrestling,"Middleweight, Freestyle",Men,Jordan Burroughs,None,2016
+Wrestling,"Light-Heavyweight, Freestyle",Men,J'den Cox,Bronze,2016
+Wrestling,"Heavyweight, Freestyle",Men,Kyle Snyder,Gold,2016
+Wrestling,"Super-Heavyweight, Freestyle",Men,Tervel Dlagnev,None,2016
+Wrestling,"Flyweight, Freestyle",Women,Haley Augello,None,2016
+Wrestling,"Featherweight, Freestyle",Women,Helen Maroulis,Gold,2016
+Wrestling,"Middleweight, Freestyle",Women,Elena Pirozhkova,None,2016
+Wrestling,"Heavyweight, Freestyle",Women,Adeline Gray,None,2016

@@ -1,23 +1,508 @@
-Sport,"1st place, gold medalist(s)","2nd place, silver medalist(s)","3rd place, bronze medalist(s)",Total
-Swimming,13,11,2,26
-Athletics,13,5,5,23
-Wrestling,3,4,1,8
-Tennis,3,0,0,3
-Gymnastics,2,2,1,5
-Archery,2,0,0,2
-Basketball,2,0,0,2
-Shooting,1,1,1,3
-Volleyball,1,1,0,2
-Boxing,1,0,5,6
-Soccer,1,0,0,1
-Softball,1,0,0,1
-Synchronized swimming,1,0,0,1
-Rowing,0,3,1,4
-Equestrian,0,2,2,4
-Cycling,0,2,1,3
-Canoeing,0,1,0,1
-Diving,0,0,2,2
-Sailing,0,0,2,2
-Baseball,0,0,1,1
-Judo,0,0,1,1
-Total,44,32,25,101
+Sport,Event,Gender,Athlete,Medal,Year
+Archery,Individual,Men,Justin Huish,Gold,1996
+Archery,Individual,Men,Butch Johnson,None,1996
+Archery,Individual,Men,Rod White,None,1996
+Archery,Team,Men,Justin Huish•Butch Johnson•Rod White,None,1996
+Archery,Individual,Women,Janet Dykman,None,1996
+Archery,Individual,Women,Lindsay Langston,None,1996
+Archery,Individual,Women,Judi Adams,None,1996
+Archery,Team,Women,Judi Adams•Janet Dykman•Lindsay Langston,None,1996
+Artistic Gymnastics,Individual All-Around,Men,John Roethlisberger,None,1996
+Artistic Gymnastics,Individual All-Around,Men,Blaine Wilson,None,1996
+Artistic Gymnastics,Individual All-Around,Men,John Macready,None,1996
+Artistic Gymnastics,Individual All-Around,Men,Jair Lynch,None,1996
+Artistic Gymnastics,Individual All-Around,Men,Kip Simons,None,1996
+Artistic Gymnastics,Individual All-Around,Men,Chainey Umphrey,None,1996
+Artistic Gymnastics,Individual All-Around,Men,Mihai Bagiu,None,1996
+Artistic Gymnastics,Team All-Around,Men,John Roethlisberger•Blaine Wilson•John Macready•Jair Lynch•Kip Simons•Chainey Umphrey•Mihai Bagiu,None,1996
+Artistic Gymnastics,Floor Exercise,Men,John Roethlisberger,None,1996
+Artistic Gymnastics,Floor Exercise,Men,Jair Lynch,None,1996
+Artistic Gymnastics,Floor Exercise,Men,John Macready,None,1996
+Artistic Gymnastics,Floor Exercise,Men,Blaine Wilson,None,1996
+Artistic Gymnastics,Floor Exercise,Men,Kip Simons,None,1996
+Artistic Gymnastics,Floor Exercise,Men,Chainey Umphrey,None,1996
+Artistic Gymnastics,Horse Vault,Men,Blaine Wilson,None,1996
+Artistic Gymnastics,Horse Vault,Men,Jair Lynch,None,1996
+Artistic Gymnastics,Horse Vault,Men,John Roethlisberger,None,1996
+Artistic Gymnastics,Horse Vault,Men,Kip Simons,None,1996
+Artistic Gymnastics,Horse Vault,Men,John Macready,None,1996
+Artistic Gymnastics,Horse Vault,Men,Mihai Bagiu,None,1996
+Artistic Gymnastics,Horse Vault,Men,Chainey Umphrey,None,1996
+Artistic Gymnastics,Parallel Bars,Men,Jair Lynch,Silver,1996
+Artistic Gymnastics,Parallel Bars,Men,John Roethlisberger,None,1996
+Artistic Gymnastics,Parallel Bars,Men,Blaine Wilson,None,1996
+Artistic Gymnastics,Parallel Bars,Men,Kip Simons,None,1996
+Artistic Gymnastics,Parallel Bars,Men,John Macready,None,1996
+Artistic Gymnastics,Parallel Bars,Men,Mihai Bagiu,None,1996
+Artistic Gymnastics,Parallel Bars,Men,Chainey Umphrey,None,1996
+Artistic Gymnastics,Horizontal Bar,Men,John Roethlisberger,None,1996
+Artistic Gymnastics,Horizontal Bar,Men,Blaine Wilson,None,1996
+Artistic Gymnastics,Horizontal Bar,Men,John Macready,None,1996
+Artistic Gymnastics,Horizontal Bar,Men,Kip Simons,None,1996
+Artistic Gymnastics,Horizontal Bar,Men,Mihai Bagiu,None,1996
+Artistic Gymnastics,Horizontal Bar,Men,Chainey Umphrey,None,1996
+Artistic Gymnastics,Horizontal Bar,Men,Jair Lynch,None,1996
+Artistic Gymnastics,Rings,Men,Blaine Wilson,None,1996
+Artistic Gymnastics,Rings,Men,John Roethlisberger,None,1996
+Artistic Gymnastics,Rings,Men,Kip Simons,None,1996
+Artistic Gymnastics,Rings,Men,Chainey Umphrey,None,1996
+Artistic Gymnastics,Rings,Men,John Macready,None,1996
+Artistic Gymnastics,Rings,Men,Jair Lynch,None,1996
+Artistic Gymnastics,Pommelled Horse,Men,Jair Lynch,None,1996
+Artistic Gymnastics,Pommelled Horse,Men,Blaine Wilson,None,1996
+Artistic Gymnastics,Pommelled Horse,Men,John Roethlisberger,None,1996
+Artistic Gymnastics,Pommelled Horse,Men,John Macready,None,1996
+Artistic Gymnastics,Pommelled Horse,Men,Mihai Bagiu,None,1996
+Artistic Gymnastics,Pommelled Horse,Men,Chainey Umphrey,None,1996
+Artistic Gymnastics,Individual All-Around,Women,Shannon Miller,None,1996
+Artistic Gymnastics,Individual All-Around,Women,Dominique Moceanu,None,1996
+Artistic Gymnastics,Individual All-Around,Women,Dominique Dawes,None,1996
+Artistic Gymnastics,Individual All-Around,Women,Kerri Strug,None,1996
+Artistic Gymnastics,Individual All-Around,Women,Jaycie Phelps,None,1996
+Artistic Gymnastics,Individual All-Around,Women,Amy Chow,None,1996
+Artistic Gymnastics,Individual All-Around,Women,Amanda Borden,None,1996
+Artistic Gymnastics,Team All-Around,Women,Shannon Miller•Dominique Dawes•Kerri Strug•Dominique Moceanu•Jaycie Phelps•Amy Chow•Amanda Borden,None,1996
+Artistic Gymnastics,Floor Exercise,Women,Dominique Dawes,Bronze,1996
+Artistic Gymnastics,Floor Exercise,Women,Dominique Moceanu,None,1996
+Artistic Gymnastics,Floor Exercise,Women,Kerri Strug,None,1996
+Artistic Gymnastics,Floor Exercise,Women,Amanda Borden,None,1996
+Artistic Gymnastics,Floor Exercise,Women,Jaycie Phelps,None,1996
+Artistic Gymnastics,Floor Exercise,Women,Shannon Miller,None,1996
+Artistic Gymnastics,Horse Vault,Women,Dominique Dawes,None,1996
+Artistic Gymnastics,Horse Vault,Women,Shannon Miller,None,1996
+Artistic Gymnastics,Horse Vault,Women,Kerri Strug,None,1996
+Artistic Gymnastics,Horse Vault,Women,Amy Chow,None,1996
+Artistic Gymnastics,Horse Vault,Women,Jaycie Phelps,None,1996
+Artistic Gymnastics,Horse Vault,Women,Dominique Moceanu,None,1996
+Artistic Gymnastics,Uneven Bars,Women,Amy Chow,Silver,1996
+Artistic Gymnastics,Uneven Bars,Women,Dominique Dawes,None,1996
+Artistic Gymnastics,Uneven Bars,Women,Shannon Miller,None,1996
+Artistic Gymnastics,Uneven Bars,Women,Dominique Moceanu,None,1996
+Artistic Gymnastics,Uneven Bars,Women,Jaycie Phelps,None,1996
+Artistic Gymnastics,Uneven Bars,Women,Kerri Strug,None,1996
+Artistic Gymnastics,Balance Beam,Women,Shannon Miller,Gold,1996
+Artistic Gymnastics,Balance Beam,Women,Dominique Moceanu,None,1996
+Artistic Gymnastics,Balance Beam,Women,Dominique Dawes,None,1996
+Artistic Gymnastics,Balance Beam,Women,Kerri Strug,None,1996
+Artistic Gymnastics,Balance Beam,Women,Amanda Borden,None,1996
+Artistic Gymnastics,Balance Beam,Women,Jaycie Phelps,None,1996
+Artistic Swimming,Team,Women,Suzannah Bianco•Tammy Cleland•Becky Dyroen-Lancer•Emily LeSueur•Heather Pease•Jill Savery•Nathalie Schneyder•Heather Simmons-Carrasco•Jill Sudduth•Margot Thien,None,1996
+Athletics,100 metres,Men,Dennis Mitchell,None,1996
+Athletics,100 metres,Men,Mike Marsh,None,1996
+Athletics,100 metres,Men,Jon Drummond,None,1996
+Athletics,200 metres,Men,Michael Johnson,Gold,1996
+Athletics,200 metres,Men,Jeff Williams,None,1996
+Athletics,200 metres,Men,Mike Marsh,None,1996
+Athletics,400 metres,Men,Michael Johnson,Gold,1996
+Athletics,400 metres,Men,Alvin Harrison,None,1996
+Athletics,400 metres,Men,Butch Reynolds,None,1996
+Athletics,800 metres,Men,Johnny Gray,None,1996
+Athletics,800 metres,Men,Brandon Rock,None,1996
+Athletics,800 metres,Men,Tony Parrilla,None,1996
+Athletics,"1,500 metres",Men,Paul McMullen,None,1996
+Athletics,"1,500 metres",Men,Brian Hyde,None,1996
+Athletics,"1,500 metres",Men,Jason Pyrah,None,1996
+Athletics,"5,000 metres",Men,Bob Kennedy,None,1996
+Athletics,"5,000 metres",Men,Jim Spivey,None,1996
+Athletics,"5,000 metres",Men,Matt Giusto,None,1996
+Athletics,"10,000 metres",Men,Brad Barquist,None,1996
+Athletics,"10,000 metres",Men,Dan Middleman,None,1996
+Athletics,"10,000 metres",Men,Todd Williams,None,1996
+Athletics,Marathon,Men,Keith Brantly,None,1996
+Athletics,Marathon,Men,Bob Kempainen,None,1996
+Athletics,Marathon,Men,Mark Coogan,None,1996
+Athletics,110 metres Hurdles,Men,Allen Johnson,Gold,1996
+Athletics,110 metres Hurdles,Men,Mark Crear,Silver,1996
+Athletics,110 metres Hurdles,Men,Eugene Swift,None,1996
+Athletics,400 metres Hurdles,Men,Derrick Adkins,Gold,1996
+Athletics,400 metres Hurdles,Men,Calvin Davis,Bronze,1996
+Athletics,400 metres Hurdles,Men,Bryan Bronson,None,1996
+Athletics,"3,000 metres Steeplechase",Men,Mark Croghan,None,1996
+Athletics,"3,000 metres Steeplechase",Men,Marc Davis,None,1996
+Athletics,"3,000 metres Steeplechase",Men,Robert Gary,None,1996
+Athletics,4 × 100 metres Relay,Men,Jon Drummond•Tim Harden•Mike Marsh•Dennis Mitchell•Tim Montgomery,None,1996
+Athletics,4 × 400 metres Relay,Men,LaMont Smith•Alvin Harrison•Derek Mills•Anthuan Maybank•Jason Rouser,None,1996
+Athletics,20 kilometres Race Walk,Men,Curt Clausen,None,1996
+Athletics,50 kilometres Race Walk,Men,Allen James,None,1996
+Athletics,50 kilometres Race Walk,Men,Andrzej Chylinski,None,1996
+Athletics,50 kilometres Race Walk,Men,Herm Nelson,None,1996
+Athletics,High Jump,Men,Charles Austin,Gold,1996
+Athletics,High Jump,Men,Cameron Wright,None,1996
+Athletics,High Jump,Men,Ed Broxterman,None,1996
+Athletics,Pole Vault,Men,Lawrence Johnson,None,1996
+Athletics,Pole Vault,Men,Jeff Hartwig,None,1996
+Athletics,Pole Vault,Men,Scott Huffman,None,1996
+Athletics,Long Jump,Men,Carl Lewis,Gold,1996
+Athletics,Long Jump,Men,Joe Greene,Bronze,1996
+Athletics,Long Jump,Men,Mike Powell,None,1996
+Athletics,Triple Jump,Men,Kenny Harrison,Gold,1996
+Athletics,Triple Jump,Men,Mike Conley,None,1996
+Athletics,Triple Jump,Men,Robert Howard,None,1996
+Athletics,Shot Put,Men,Randy Barnes,Gold,1996
+Athletics,Shot Put,Men,John Godina,Silver,1996
+Athletics,Shot Put,Men,C. J. Hunter,None,1996
+Athletics,Discus Throw,Men,Tony Washington,None,1996
+Athletics,Discus Throw,Men,Adam Setliff,None,1996
+Athletics,Discus Throw,Men,John Godina,None,1996
+Athletics,Hammer Throw,Men,Lance Deal,Silver,1996
+Athletics,Hammer Throw,Men,Kevin McMahon,None,1996
+Athletics,Hammer Throw,Men,Dave Popejoy,None,1996
+Athletics,Javelin Throw,Men,Tom Pukstys,None,1996
+Athletics,Javelin Throw,Men,Dave Stephens,None,1996
+Athletics,Javelin Throw,Men,Todd Riech,None,1996
+Athletics,Decathlon,Men,Dan O'Brien,Gold,1996
+Athletics,Decathlon,Men,Steve Fritz,None,1996
+Athletics,Decathlon,Men,Chris Huffins,None,1996
+Athletics,"1,500 metres Wheelchair",Men,Scot Hollonbeck,None,1996
+Athletics,"1,500 metres Wheelchair",Men,Paul Wiggins,None,1996
+Athletics,"1,500 metres Wheelchair",Men,Jacob Heilveil,None,1996
+Athletics,100 metres,Women,Gail Devers,Gold,1996
+Athletics,100 metres,Women,Gwen Torrence,Bronze,1996
+Athletics,100 metres,Women,D'Andre Hill,None,1996
+Athletics,200 metres,Women,Inger Miller,None,1996
+Athletics,200 metres,Women,Carlette Guidry-White,None,1996
+Athletics,200 metres,Women,Dannette Young,None,1996
+Athletics,400 metres,Women,Jearl Miles,None,1996
+Athletics,400 metres,Women,Kim Graham,None,1996
+Athletics,400 metres,Women,Maicel Malone,None,1996
+Athletics,800 metres,Women,Meredith Rainey,None,1996
+Athletics,800 metres,Women,Joetta Clark,None,1996
+Athletics,800 metres,Women,Suzy Hamilton,None,1996
+Athletics,"1,500 metres",Women,Regina Jacobs,None,1996
+Athletics,"1,500 metres",Women,Vicki Huber,None,1996
+Athletics,"1,500 metres",Women,Juli Henner,None,1996
+Athletics,"5,000 metres",Women,Lynn Jennings,None,1996
+Athletics,"5,000 metres",Women,Amy Rudolph,None,1996
+Athletics,"5,000 metres",Women,Mary Decker-Slaney,None,1996
+Athletics,"10,000 metres",Women,Kate Fonshell,None,1996
+Athletics,"10,000 metres",Women,Joan Nesbit,None,1996
+Athletics,"10,000 metres",Women,Olga Ávalos-Appell,None,1996
+Athletics,Marathon,Women,Anne Marie Lauck,None,1996
+Athletics,Marathon,Women,Linda Somers,None,1996
+Athletics,Marathon,Women,Jenny Spangler,None,1996
+Athletics,100 metres Hurdles,Women,Gail Devers,None,1996
+Athletics,100 metres Hurdles,Women,Lynda Tolbert-Goode,None,1996
+Athletics,100 metres Hurdles,Women,Cheryl Dickey,None,1996
+Athletics,400 metres Hurdles,Women,Kim Batten,Silver,1996
+Athletics,400 metres Hurdles,Women,Tonja Buford,Bronze,1996
+Athletics,400 metres Hurdles,Women,Sandra Farmer-Patrick,None,1996
+Athletics,4 × 100 metres Relay,Women,Chryste Gaines•Gail Devers•Inger Miller•Gwen Torrence•Carlette Guidry-White,None,1996
+Athletics,4 × 400 metres Relay,Women,Rochelle Stevens•Maicel Malone•Kim Graham•Jearl Miles•Linetta Wilson,None,1996
+Athletics,10 kilometres Race Walk,Women,Michelle Rohl,None,1996
+Athletics,10 kilometres Race Walk,Women,Debbi Lawrence,None,1996
+Athletics,10 kilometres Race Walk,Women,Tori Herazo,None,1996
+Athletics,High Jump,Women,Tisha Waller,None,1996
+Athletics,High Jump,Women,Connie Teaberry,None,1996
+Athletics,High Jump,Women,Amy Acuff,None,1996
+Athletics,Long Jump,Women,Jackie Joyner-Kersee,Bronze,1996
+Athletics,Long Jump,Women,Marieke Veltman,None,1996
+Athletics,Long Jump,Women,Shana Williams,None,1996
+Athletics,Triple Jump,Women,Sheila Hudson-Strudwick,None,1996
+Athletics,Triple Jump,Women,Cynthea Rhodes,None,1996
+Athletics,Triple Jump,Women,Diana Orrange,None,1996
+Athletics,Shot Put,Women,Connie Price-Smith,None,1996
+Athletics,Shot Put,Women,Ramona Pagel,None,1996
+Athletics,Shot Put,Women,Valeyta Althouse,None,1996
+Athletics,Discus Throw,Women,Lacy Barnes-Mileham,None,1996
+Athletics,Discus Throw,Women,Suzy Powell,None,1996
+Athletics,Discus Throw,Women,Aretha Hill,None,1996
+Athletics,Javelin Throw,Women,Nicole Carroll,None,1996
+Athletics,Javelin Throw,Women,Erica Wheeler,None,1996
+Athletics,Heptathlon,Women,Kelly Blair,None,1996
+Athletics,Heptathlon,Women,Sharon Hanson,None,1996
+Athletics,Heptathlon,Women,Jackie Joyner-Kersee,None,1996
+Athletics,800 metres Wheelchair,Women,Jean Driscoll,None,1996
+Athletics,800 metres Wheelchair,Women,Cheri Becerra,None,1996
+Athletics,800 metres Wheelchair,Women,LeAnn Shannon,None,1996
+Badminton,Singles,Men,Kevin Han,None,1996
+Badminton,Singles,Women,Erika Von Heiland,None,1996
+Badminton,Doubles,Women,Erika Von Heiland•Linda French,None,1996
+Baseball,Baseball,Men,R. A. Dickey•Warren Morris•Augie Ojeda•Mark Kotsay•Jason Williams•Chad Allen•Chad Green•Kip Harkrider•Braden Looper•Travis Lee•A. J. Hinch•Jacque Jones•Brian Loyd•Troy Glaus•Seth Greisinger•Matt LeCroy•Kris Benson•Jim Parque•Jeff Weaver•Billy Koch,None,1996
+Basketball,Basketball,Men,Penny Hardaway•Charles Barkley•David Robinson•Gary Payton•Grant Hill•Hakeem Olajuwon•John Stockton•Karl Malone•Mitch Richmond•Reggie Miller•Scottie Pippen•Shaquille O'Neal,None,1996
+Basketball,Basketball,Women,Teresa Edwards•Ruthie Bolton•Sheryl Swoopes•Lisa Leslie•Katrina McClain•Dawn Staley•Jennifer Azzi•Carla McGhee•Katy Steding•Rebecca Lobo•Venus Lacy•Nikki McCray,None,1996
+Beach Volleyball,Beach Volleyball,Men,Karch Kiraly•Kent Steffes,Silver,1996
+Beach Volleyball,Beach Volleyball,Men,Mike Whitmarsh•Mike Dodd,None,1996
+Beach Volleyball,Beach Volleyball,Men,Sinjin Smith•Carl Henkel,None,1996
+Beach Volleyball,Beach Volleyball,Women,Barbra Fontana Harris•Linda Hanley,None,1996
+Beach Volleyball,Beach Volleyball,Women,Holly McPeak•Nancy Reno,None,1996
+Beach Volleyball,Beach Volleyball,Women,Gail Castro•Deb Richardson,None,1996
+Boxing,Light-Flyweight,Men,Albert Guardado,None,1996
+Boxing,Flyweight,Men,Eric Morel,None,1996
+Boxing,Bantamweight,Men,Zahir Raheem,None,1996
+Boxing,Featherweight,Men,"Floyd Mayweather, Jr.",Bronze,1996
+Boxing,Lightweight,Men,Terrance Cauthen,Bronze,1996
+Boxing,Light-Welterweight,Men,David Diaz,None,1996
+Boxing,Welterweight,Men,Fernando Vargas,None,1996
+Boxing,Light-Middleweight,Men,David Reid,Gold,1996
+Boxing,Middleweight,Men,Rhoshii Wells,Bronze,1996
+Boxing,Light-Heavyweight,Men,Antonio Tarver,Bronze,1996
+Boxing,Heavyweight,Men,Nate Jones,Bronze,1996
+Boxing,Super-Heavyweight,Men,Lawrence Clay-Bey,None,1996
+Canoe Slalom,"Kayak Singles, Slalom",Men,Rich Weiss,None,1996
+Canoe Slalom,"Kayak Singles, Slalom",Men,Scott Shipley,None,1996
+Canoe Slalom,"Kayak Singles, Slalom",Men,Eric Giddens,None,1996
+Canoe Slalom,"Canadian Singles, Slalom",Men,Davey Hearn,None,1996
+Canoe Slalom,"Canadian Singles, Slalom",Men,Adam Clawson,None,1996
+Canoe Slalom,"Canadian Doubles, Slalom",Men,Horace Holden•Wayne Dickert,None,1996
+Canoe Slalom,"Kayak Singles, Slalom",Women,Dana Chladek,Silver,1996
+Canoe Slalom,"Kayak Singles, Slalom",Women,Cathy Hearn,None,1996
+Canoe Sprint,"Kayak Singles, 500 metres",Men,Mike Herbert,None,1996
+Canoe Sprint,"Kayak Singles, 1,000 metres",Men,Michael Harbold,None,1996
+Canoe Sprint,"Kayak Doubles, 500 metres",Men,Stein Jorgensen•John Mooney,None,1996
+Canoe Sprint,"Kayak Doubles, 1,000 metres",Men,John Mooney•Peter Newton,None,1996
+Canoe Sprint,"Kayak Fours, 1,000 metres",Men,Curt Bader•Philippe Boccara•Mark Hamilton•Cliff Meidl,None,1996
+Canoe Sprint,"Canadian Singles, 500 metres",Men,Jim Terrell,None,1996
+Canoe Sprint,"Canadian Singles, 1,000 metres",Men,Joseph Harper,None,1996
+Canoe Sprint,"Kayak Singles, 500 metres",Women,Traci Phillips,None,1996
+Canoe Sprint,"Kayak Doubles, 500 metres",Women,DeAnne Hemmens•Lia Rousset,None,1996
+Canoe Sprint,"Kayak Fours, 500 metres",Women,Alexandra Harbold•DeAnne Hemmens•Lia Rousset•Drusilla van Hengel,None,1996
+Cycling Mountain Bike,Cross-Country,Men,Tinker Juarez,None,1996
+Cycling Mountain Bike,Cross-Country,Men,Don Myrah,None,1996
+Cycling Mountain Bike,Cross-Country,Women,Susan DeMattei,Bronze,1996
+Cycling Mountain Bike,Cross-Country,Women,Juli Furtado,None,1996
+Cycling Road,"Road Race, Individual",Men,Frankie Andreu,None,1996
+Cycling Road,"Road Race, Individual",Men,Lance Armstrong,None,1996
+Cycling Road,"Road Race, Individual",Men,Greg Randolph,None,1996
+Cycling Road,"Road Race, Individual",Men,George Hincapie,None,1996
+Cycling Road,"Road Race, Individual",Men,Steve Hegg,None,1996
+Cycling Road,Individual Time Trial,Men,Lance Armstrong,None,1996
+Cycling Road,Individual Time Trial,Men,Steve Hegg,None,1996
+Cycling Road,"Road Race, Individual",Women,Jeanne Golay,None,1996
+Cycling Road,"Road Race, Individual",Women,Linda Brenneman,None,1996
+Cycling Road,"Road Race, Individual",Women,Alison Dunlap,None,1996
+Cycling Road,Individual Time Trial,Women,Linda Brenneman,None,1996
+Cycling Road,Individual Time Trial,Women,Jeanne Golay,None,1996
+Cycling Track,Sprint,Men,Marty Nothstein,Silver,1996
+Cycling Track,Sprint,Men,Bill Clay,None,1996
+Cycling Track,"1,000 metres Time Trial",Men,Erin Hartwell,Silver,1996
+Cycling Track,"Individual Pursuit, 4,000 metres",Men,Kent Bostick,None,1996
+Cycling Track,"Team Pursuit, 4,000 metres",Men,Dirk Copeland•Mariano Friedick•Adam Laurent•Mike McCarthy,None,1996
+Cycling Track,Points Race,Men,Brian McDonough,None,1996
+Cycling Track,Sprint,Women,Connie Paraskevin-Young,None,1996
+Cycling Track,Individual Pursuit,Women,Rebecca Twigg,None,1996
+Cycling Track,Points Race,Women,Jeanne Golay,None,1996
+Diving,Springboard,Men,Mark Lenzi,Bronze,1996
+Diving,Springboard,Men,Scott Donie,None,1996
+Diving,Platform,Men,David Pichler,None,1996
+Diving,Platform,Men,Patrick Jeffrey,None,1996
+Diving,Springboard,Women,Melisa Moses,None,1996
+Diving,Springboard,Women,Jenny Keim,None,1996
+Diving,Platform,Women,Mary Ellen Clark,Bronze,1996
+Diving,Platform,Women,Becky Ruehl,None,1996
+Equestrian Dressage,Individual,Open,Michelle Gibson,None,1996
+Equestrian Dressage,Individual,Open,Guenter Seidel,None,1996
+Equestrian Dressage,Individual,Open,Steffen Peters,None,1996
+Equestrian Dressage,Individual,Open,Robert Dover,None,1996
+Equestrian Dressage,Team,Open,Michelle Gibson•Guenter Seidel•Steffen Peters•Robert Dover,None,1996
+Equestrian Eventing,Individual,Open,Kerry Millikin,Bronze,1996
+Equestrian Eventing,Individual,Open,David O'Connor,None,1996
+Equestrian Eventing,Individual,Open,Mara DePuy,None,1996
+Equestrian Eventing,Team,Open,David O'Connor•Bruce Davidson•Karen O'Connor•Jill Henneberg,None,1996
+Equestrian Jumping,Individual,Open,Leslie Burr-Howard,None,1996
+Equestrian Jumping,Individual,Open,Anne Kursinski,None,1996
+Equestrian Jumping,Individual,Open,Michael Matz,None,1996
+Equestrian Jumping,Individual,Open,Peter Leone,None,1996
+Equestrian Jumping,Team,Open,Peter Leone•Anne Kursinski•Michael Matz•Leslie Burr-Howard,None,1996
+Fencing,"Foil, Individual",Men,Cliff Bayer,None,1996
+Fencing,"Foil, Individual",Men,Peter Devine,None,1996
+Fencing,"Foil, Individual",Men,Nick Bravin,None,1996
+Fencing,"Foil, Team",Men,Cliff Bayer•Nick Bravin•Peter Devine,None,1996
+Fencing,"Épée, Individual",Men,Jim Carpenter,None,1996
+Fencing,"Épée, Individual",Men,Mike Marx,None,1996
+Fencing,"Épée, Individual",Men,Tamir Bloom,None,1996
+Fencing,"Épée, Team",Men,Tamir Bloom•Jim Carpenter•Mike Marx,None,1996
+Fencing,"Sabre, Individual",Men,"Peter Cox, Jr.",None,1996
+Fencing,"Sabre, Individual",Men,Tom Strzalkowski,None,1996
+Fencing,"Sabre, Individual",Men,Peter Westbrook,None,1996
+Fencing,"Sabre, Team",Men,"Peter Cox, Jr.•Peter Westbrook•Tom Strzalkowski",None,1996
+Fencing,"Foil, Individual",Women,Ann Marsh,None,1996
+Fencing,"Foil, Individual",Women,Felicia Zimmermann,None,1996
+Fencing,"Foil, Individual",Women,Suzie Paxton,None,1996
+Fencing,"Foil, Team",Women,Ann Marsh•Felicia Zimmermann•Suzie Paxton,None,1996
+Fencing,"Épée, Individual",Women,Leslie Marx,None,1996
+Fencing,"Épée, Individual",Women,Nhi Lan Le,None,1996
+Fencing,"Épée, Individual",Women,Elaine Cheris,None,1996
+Fencing,"Épée, Team",Women,Elaine Cheris•Leslie Marx•Nhi Lan Le,None,1996
+Football,Football,Men,Kasey Keller•Matt McKeon•Eddie Pope•Clint Peay•Alexi Lalas•Imad Baba•Jovan Kirovski•A. J. Wood•Claudio Reyna•Miles Joseph•Brandon Pollard•Frankie Hejduk•Brian Maisonneuve•Nelson Vargas•Damian Silvera•Jeff Agoos(DNS)•Hamisi Amani-Dove(DNS)•Jeff Cassar(DNS)•Jason Moore(DNS)•Rob Smith(DNS)•Chris Snitko(DNS)•Billy Walsh(DNS),None,1996
+Football,Football,Women,Briana Scurry•Cindy Parlow•Carla Overbeck•Tiffany Roberts•Brandi Chastain•Shannon MacMillan•Mia Hamm•Michelle Akers•Julie Foudy•Carin Gabarra•Kristine Lilly•Joy Fawcett•Tisha Venturini•Tiffeny Milbrett•Amanda Cromwell(DNS)•Mary Harvey(DNS)•Thori Staples(DNS)•Saskia Webber(DNS)•Staci Wilson,None,1996
+Handball,Handball,Men,Derek Brown•Greg Caccia•David DeGraaf•Yaro Dachniwsky•Bobby Dunn•Denny Fercho•Joe Fitzgerald•Tom Fitzgerald•Darrick Heath•John Keller•Cliff Mannon•Steve Penn•Matt Ryan•Mark Schmocker•Mike Thornberry•Chip Van Os,None,1996
+Handball,Handball,Women,Dawn Allinger•Pat Neder•Sharon Cain•Kim Clarke•Laura Coenen•Kristen Danihy•Jennifer Demby-Horton•Lisa Eagen•Laurie Fellner•Chryssandra Hires•Tami Jameson•Toni Jameson•Dannette Leininger•Dawn Marple•Carol Peterka•Cheryl Abplanalp,None,1996
+Hockey,Hockey,Men,Steven van Randwijck•Larry Amar•Nick Butcher•Steve Danielson•Ahmed Elmaghraby•Steve Jennings•Ben Maruquin•Marq Mellor•John O'Neill•Otto Steffers•Phil Sykes•Tom Vano•Steve Wagner•Eelco Wassenaar•Mark Wentges•Scott Williams,None,1996
+Hockey,Hockey,Women,Pam Bustin•Kris Fillat•Tracey Fuchs•Laurel Hershey-Martin•Kelli James•Katie Kauffman•Antoinette Lucas•Leslie Lyness•Diane Madl•Barb Marois•Marcia Pankratz•Jill Reeve•Patty Shea•Liz Tchou•Cindy Werley•Andrea Wieland,None,1996
+Judo,Extra-Lightweight,Men,Cliff Sunada,None,1996
+Judo,Half-Lightweight,Men,Orly Fuentes,None,1996
+Judo,Lightweight,Men,Jimmy Pedro,Bronze,1996
+Judo,Half-Middleweight,Men,Jason Morris,None,1996
+Judo,Middleweight,Men,Brian Olson,None,1996
+Judo,Half-Heavyweight,Men,Rene Capo,None,1996
+Judo,Heavyweight,Men,Damon Keeve,None,1996
+Judo,Extra-Lightweight,Women,Hillary Wolf,None,1996
+Judo,Half-Lightweight,Women,Marisa Pedulla,None,1996
+Judo,Lightweight,Women,Corinna West,None,1996
+Judo,Half-Middleweight,Women,Celita Schutz,None,1996
+Judo,Middleweight,Women,Liliko Ogasawara,None,1996
+Judo,Half-Heavyweight,Women,Sandy Bacher,None,1996
+Judo,Heavyweight,Women,Colleen Rosensteel,None,1996
+Modern Pentathlon,Individual,Men,Michael Gostigian,None,1996
+Rhythmic Gymnastics,Individual,Women,Jessica Davis,None,1996
+Rhythmic Gymnastics,Group,Women,Mandy James•Aliane Baquerot•Kate Nelson•Brandi Siegel•Challen Sievers•Becky Turner,None,1996
+Rowing,Single Sculls,Men,Cyrus Beasley,None,1996
+Rowing,Quadruple Sculls,Men,Tim Young•Brian Jamieson•Eric Mueller•Jason Gailes,None,1996
+Rowing,Coxless Pairs,Men,Mike Peterson•Adam Holland,None,1996
+Rowing,Coxless Fours,Men,Sean Hall•Jason Scott•Tom Murray•Jeff Klepacki,None,1996
+Rowing,Eights,Men,Doug Burden•Bob Kaehler•Porter Collins•Ted Murphy•Jamie Koven•Jon Brown•Don Smith•Fred Honebein•Steven Segaloff,None,1996
+Rowing,Lightweight Double Sculls,Men,Tom Auth•Steve Peterson,None,1996
+Rowing,Lightweight Coxless Fours,Men,David Collins•Jeff Pfaendtner•Marc Schneider•Bill Carlucci,None,1996
+Rowing,Single Sculls,Women,Ruth Davidon,None,1996
+Rowing,Double Sculls,Women,Michelle Knox-Zaloom•Jennifer Devine,None,1996
+Rowing,Coxless Pairs,Women,Missy Schwen•Karen Kraft,None,1996
+Rowing,Quadruple Sculls,Women,Dré Thies•Cécile Tucker•Cathy Symon•Julia Chilicki,None,1996
+Rowing,Eights,Women,Anne Kakela•Mary McCagg•Laurel Korholz•Catriona Fallon•Betsy McCagg•Monica Tranel Michini•Amy Fuller•Jennifer Dore•Yasmin Farooq,None,1996
+Rowing,Lightweight Double Sculls,Women,Teresa Bell•Lindsay Burns,None,1996
+Sailing,Windsurfer,Men,Mike Gebhardt,None,1996
+Sailing,One Person Dinghy,Men,Will Martin,None,1996
+Sailing,Two Person Dinghy,Men,Morgan Reeser•Kevin Burnham,None,1996
+Sailing,One Person Dinghy,Open,Nick Adamson,None,1996
+Sailing,Two Person Keelboat,Open,Mark Reynolds•Hal Haenel,None,1996
+Sailing,Multihull,Open,John Lovell•Charlie Ogletree,None,1996
+Sailing,Three Person Keelboat,Open,Jeff Madrigali•Jim Barton•Kent Massey,None,1996
+Sailing,Windsurfer,Women,Lanee Butler,None,1996
+Sailing,One Person Dinghy,Women,Courtenay Becker-Dey,Bronze,1996
+Sailing,Two Person Dinghy,Women,Kris Stookey•Louise Van Voorhis,None,1996
+Shooting,"Air Pistol, 10 metres",Men,Neal Caloia,None,1996
+Shooting,"Air Pistol, 10 metres",Men,Ben Amonette,None,1996
+Shooting,"Rapid-Fire Pistol, 25 metres",Men,John McNally,None,1996
+Shooting,"Rapid-Fire Pistol, 25 metres",Men,Roger Mar,None,1996
+Shooting,"Free Pistol, 50 metres",Men,Ben Amonette,None,1996
+Shooting,"Free Pistol, 50 metres",Men,Neal Caloia,None,1996
+Shooting,"Air Rifle, 10 metres",Men,Rob Harbison,None,1996
+Shooting,"Air Rifle, 10 metres",Men,Glenn Dubis,None,1996
+Shooting,"Small-Bore Rifle, Three Positions, 50 metres",Men,Rob Harbison,None,1996
+Shooting,"Small-Bore Rifle, Three Positions, 50 metres",Men,Glenn Dubis,None,1996
+Shooting,"Small-Bore Rifle, Prone, 50 metres",Men,Bill Meek,None,1996
+Shooting,"Small-Bore Rifle, Prone, 50 metres",Men,Eric Uptagrafft,None,1996
+Shooting,"Running Target, 10 metres",Men,Adam Saathoff,None,1996
+Shooting,Trap,Men,Josh Lakatos,Silver,1996
+Shooting,Trap,Men,Lance Bade,Bronze,1996
+Shooting,Trap,Men,Bret Erickson,None,1996
+Shooting,Double Trap,Men,David Alcoriza,None,1996
+Shooting,Double Trap,Men,Lance Bade,None,1996
+Shooting,Skeet,Men,Bill Roy,None,1996
+Shooting,Skeet,Men,Todd Graves,None,1996
+Shooting,Skeet,Men,George Quigley,None,1996
+Shooting,"Air Pistol, 10 metres",Women,Beki Snyder,None,1996
+Shooting,"Air Pistol, 10 metres",Women,Jo Ann Sevin,None,1996
+Shooting,"Sporting Pistol, 25 metres",Women,Connie Petracek,None,1996
+Shooting,"Sporting Pistol, 25 metres",Women,Libby Callahan,None,1996
+Shooting,"Air Rifle, 10 metres",Women,Elizabeth Bourland,None,1996
+Shooting,"Air Rifle, 10 metres",Women,Nancy Napolski,None,1996
+Shooting,"Small-Bore Rifle, Three Positions, 50 metres",Women,Elizabeth Bourland,None,1996
+Shooting,"Small-Bore Rifle, Three Positions, 50 metres",Women,Jean Foster,None,1996
+Shooting,Double Trap,Women,Kim Rhode,Gold,1996
+Shooting,Double Trap,Women,Terry DeWitt,None,1996
+Softball,Softball,Women,Laura Berg•Gillian Boxx•Sheila Cornell•Lisa Fernandez•Michele Granger•Lori Harrigan•Dionna Harris•Kim Maher•Leah O'Brien•Dot Richardson•Julie Smith•Michele Smith•Shelly Stokes•Dani Tyler•Christa Williams,None,1996
+Swimming,50 metres Freestyle,Men,"Gary Hall, Jr.",Silver,1996
+Swimming,50 metres Freestyle,Men,David Fox,None,1996
+Swimming,100 metres Freestyle,Men,"Gary Hall, Jr.",Silver,1996
+Swimming,100 metres Freestyle,Men,Jon Olsen,None,1996
+Swimming,200 metres Freestyle,Men,Josh Davis,None,1996
+Swimming,200 metres Freestyle,Men,John Piersma,None,1996
+Swimming,400 metres Freestyle,Men,John Piersma,None,1996
+Swimming,400 metres Freestyle,Men,Tom Dolan,None,1996
+Swimming,"1,500 metres Freestyle",Men,Peter Wright,None,1996
+Swimming,"1,500 metres Freestyle",Men,Carlton Bruner,None,1996
+Swimming,4 × 100 metres Freestyle Relay,Men,"Jon Olsen•Josh Davis•Brad Schumacher•Gary Hall, Jr.•David Fox•Scott Tucker",None,1996
+Swimming,4 × 200 metres Freestyle Relay,Men,Josh Davis•Joe Hudepohl•Brad Schumacher•Ryan Berube•Jon Olsen,None,1996
+Swimming,100 metres Backstroke,Men,Jeff Rouse,Gold,1996
+Swimming,100 metres Backstroke,Men,Tripp Schwenk,None,1996
+Swimming,200 metres Backstroke,Men,Brad Bridgewater,Gold,1996
+Swimming,200 metres Backstroke,Men,Tripp Schwenk,Silver,1996
+Swimming,100 metres Breaststroke,Men,Jeremy Linn,Silver,1996
+Swimming,100 metres Breaststroke,Men,Kurt Grote,None,1996
+Swimming,200 metres Breaststroke,Men,Eric Wunderlich,None,1996
+Swimming,200 metres Breaststroke,Men,Kurt Grote,None,1996
+Swimming,100 metres Butterfly,Men,Mark Henderson,None,1996
+Swimming,100 metres Butterfly,Men,John Hargis,None,1996
+Swimming,200 metres Butterfly,Men,Tom Malchow,Silver,1996
+Swimming,200 metres Butterfly,Men,Ray Carey,None,1996
+Swimming,200 metres Individual Medley,Men,Greg Burgess,None,1996
+Swimming,200 metres Individual Medley,Men,Tom Dolan,None,1996
+Swimming,400 metres Individual Medley,Men,Tom Dolan,Gold,1996
+Swimming,400 metres Individual Medley,Men,Eric Namesnik,Silver,1996
+Swimming,4 × 100 metres Medley Relay,Men,"Jeff Rouse•Jeremy Linn•Mark Henderson•Gary Hall, Jr.•Josh Davis•Kurt Grote•John Hargis•Tripp Schwenk",None,1996
+Swimming,50 metres Freestyle,Women,Amy Van Dyken,Gold,1996
+Swimming,50 metres Freestyle,Women,Angel Martino,None,1996
+Swimming,100 metres Freestyle,Women,Angel Martino,Bronze,1996
+Swimming,100 metres Freestyle,Women,Amy Van Dyken,None,1996
+Swimming,200 metres Freestyle,Women,Trina Jackson,None,1996
+Swimming,200 metres Freestyle,Women,Cristina Teuscher,None,1996
+Swimming,400 metres Freestyle,Women,Cristina Teuscher,None,1996
+Swimming,400 metres Freestyle,Women,Janet Evans,None,1996
+Swimming,800 metres Freestyle,Women,Brooke Bennett,Gold,1996
+Swimming,800 metres Freestyle,Women,Janet Evans,None,1996
+Swimming,4 × 100 metres Freestyle Relay,Women,Angel Martino•Amy Van Dyken•Catherine Fox•Jenny Thompson•Lisa Jacob•Melanie Valerio,None,1996
+Swimming,4 × 200 metres Freestyle Relay,Women,Trina Jackson•Cristina Teuscher•Sheila Taormina•Jenny Thompson•Lisa Jacob•Annette Salmeen•Ashley Whitney,None,1996
+Swimming,100 metres Backstroke,Women,Beth Botsford,Gold,1996
+Swimming,100 metres Backstroke,Women,Whitney Hedgepeth,Silver,1996
+Swimming,200 metres Backstroke,Women,Whitney Hedgepeth,Silver,1996
+Swimming,200 metres Backstroke,Women,Beth Botsford,None,1996
+Swimming,100 metres Breaststroke,Women,Amanda Beard,Silver,1996
+Swimming,100 metres Breaststroke,Women,Kristine Quance,None,1996
+Swimming,200 metres Breaststroke,Women,Amanda Beard,Silver,1996
+Swimming,200 metres Breaststroke,Women,Jilen Siroky,None,1996
+Swimming,100 metres Butterfly,Women,Amy Van Dyken,Gold,1996
+Swimming,100 metres Butterfly,Women,Angel Martino,Bronze,1996
+Swimming,200 metres Butterfly,Women,Trina Jackson,None,1996
+Swimming,200 metres Butterfly,Women,Annette Salmeen,None,1996
+Swimming,200 metres Individual Medley,Women,Allison Wagner,None,1996
+Swimming,200 metres Individual Medley,Women,Kristine Quance,None,1996
+Swimming,400 metres Individual Medley,Women,Allison Wagner,Silver,1996
+Swimming,400 metres Individual Medley,Women,Whitney Metzler,None,1996
+Swimming,4 × 100 metres Medley Relay,Women,Beth Botsford•Amanda Beard•Angel Martino•Amy Van Dyken•Catherine Fox•Whitney Hedgepeth•Kristine Quance•Jenny Thompson,None,1996
+Table Tennis,Singles,Men,David Zhuang,None,1996
+Table Tennis,Singles,Men,Jim Butler,None,1996
+Table Tennis,Doubles,Men,Jim Butler•Todd Sweeris,None,1996
+Table Tennis,Singles,Women,Amy Feng,None,1996
+Table Tennis,Singles,Women,Lily Hugh,None,1996
+Table Tennis,Doubles,Women,Lily Hugh•Wei Wang,None,1996
+Tennis,Singles,Men,Andre Agassi,Gold,1996
+Tennis,Singles,Men,MaliVai Washington,None,1996
+Tennis,Singles,Men,Richey Reneberg,None,1996
+Tennis,Doubles,Men,Andre Agassi•MaliVai Washington,None,1996
+Tennis,Singles,Women,Lindsay Davenport,Gold,1996
+Tennis,Singles,Women,Mary Joe Fernandez,None,1996
+Tennis,Singles,Women,Monica Seles,None,1996
+Tennis,Doubles,Women,Gigi Fernandez•Mary Joe Fernandez,None,1996
+Volleyball,Volleyball,Men,Lloy Ball•John Hyden•Bob Ctvrtlik•Bryan Ivie•Tom Sorensen•Scott Fortune•Jeff Stork•Jeff Nygaard•Mike Lambert•Dan Landry•Brett Winslow•Ethan Watts(DNS),None,1996
+Volleyball,Volleyball,Women,Teee Williams•Yoko Zetterlund•Paula Weishoff•Caren Kemner•Lori Endicott•Kristin Klein•Beverly Oden•Tammy Liley•Elaina Oden•Danielle Scott•Tara Cross-Battle•Elaine Youngs,None,1996
+Water Polo,Water Polo,Men,"Gavin Arroyo•Troy Barnhart, Jr.•Chris Duplanty•Mike Evans•Kirk Everist•Dan Hackett•Chris Humbert•Kyle Kopp•Jeremy Laster•Rick McNair•Chris Oeding•Alex Rousseau•Wolf Wigo",None,1996
+Weightlifting,Bantamweight,Men,Bryan Jacob,None,1996
+Weightlifting,Featherweight,Men,Vernon Patao,None,1996
+Weightlifting,Featherweight,Men,Thanh Nguyen,None,1996
+Weightlifting,Lightweight,Men,Tim McRae,None,1996
+Weightlifting,Middle-Heavyweight,Men,Tom Gough,None,1996
+Weightlifting,Heavyweight I,Men,Peter Kelley,None,1996
+Weightlifting,Heavyweight II,Men,Wes Barnett,None,1996
+Weightlifting,Heavyweight II,Men,Konstantine Starikovitch,None,1996
+Weightlifting,Super-Heavyweight,Men,Mark Henry,None,1996
+Weightlifting,Super-Heavyweight,Men,Thomas Ingalsbe,None,1996
+Wrestling,"Light-Flyweight, Greco-Roman",Men,Mujaahid Maynard,None,1996
+Wrestling,"Flyweight, Greco-Roman",Men,Brandon Paulson,Silver,1996
+Wrestling,"Bantamweight, Greco-Roman",Men,Dennis Hall,Silver,1996
+Wrestling,"Featherweight, Greco-Roman",Men,David Zuniga,None,1996
+Wrestling,"Lightweight, Greco-Roman",Men,Rodney Smith,None,1996
+Wrestling,"Welterweight, Greco-Roman",Men,Gordy Morgan,None,1996
+Wrestling,"Middleweight, Greco-Roman",Men,Dan Henderson,None,1996
+Wrestling,"Light-Heavyweight, Greco-Roman",Men,Derrick Waldroup,None,1996
+Wrestling,"Heavyweight, Greco-Roman",Men,Jason Gleasman,None,1996
+Wrestling,"Super-Heavyweight, Greco-Roman",Men,Matt Ghaffari,Silver,1996
+Wrestling,"Light-Flyweight, Freestyle",Men,Rob Eiter,None,1996
+Wrestling,"Flyweight, Freestyle",Men,Lou Rosselli,None,1996
+Wrestling,"Bantamweight, Freestyle",Men,Kendall Cross,Gold,1996
+Wrestling,"Featherweight, Freestyle",Men,Tom Brands,Gold,1996
+Wrestling,"Lightweight, Freestyle",Men,Townsend Saunders,Silver,1996
+Wrestling,"Welterweight, Freestyle",Men,Kenny Monday,None,1996
+Wrestling,"Middleweight, Freestyle",Men,Les Gutches,None,1996
+Wrestling,"Light-Heavyweight, Freestyle",Men,Melvin Douglas,None,1996
+Wrestling,"Heavyweight, Freestyle",Men,Kurt Angle,Gold,1996
+Wrestling,"Super-Heavyweight, Freestyle",Men,Bruce Baumgartner,Bronze,1996

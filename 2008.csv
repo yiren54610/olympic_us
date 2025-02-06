@@ -1,22 +1,471 @@
-Sport,"1st place, gold medalist(s)","2nd place, silver medalist(s)","3rd place, bronze medalist(s)",Total
-Swimming,12,9,10,31
-Athletics,7,10,8,25
-Volleyball,3,1,0,4
-Gymnastics,2,6,2,10
-Shooting,2,2,2,6
-Basketball,2,0,0,2
-Fencing,1,3,2,6
-Cycling,1,1,3,5
-Equestrian,1,1,1,3
-Rowing,1,1,1,3
-Sailing,1,1,0,2
-Wrestling,1,0,2,3
-Tennis,1,0,1,2
-Soccer,1,0,0,1
-Water polo,0,2,0,2
-Taekwondo,0,1,2,3
-Softball,0,1,0,1
-Baseball,0,0,1,1
-Boxing,0,0,1,1
-Judo,0,0,1,1
-Total,36,39,37,112
+Sport,Event,Gender,Athlete,Medal,Year
+Archery,Individual,Men,Vic Wunderle,None,2008
+Archery,Individual,Men,Brady Ellison,None,2008
+Archery,Individual,Men,Butch Johnson,None,2008
+Archery,Team,Men,Brady Ellison•Butch Johnson•Vic Wunderle,None,2008
+Archery,Individual,Women,Khatuna Lorig,None,2008
+Archery,Individual,Women,Jennifer Nichols,None,2008
+Artistic Gymnastics,Individual All-Around,Men,Jonathan Horton,None,2008
+Artistic Gymnastics,Individual All-Around,Men,Sasha Artemev,None,2008
+Artistic Gymnastics,Individual All-Around,Men,Joey Hagerty,None,2008
+Artistic Gymnastics,Individual All-Around,Men,Justin Spring,None,2008
+Artistic Gymnastics,Individual All-Around,Men,Raj Bhavsar,None,2008
+Artistic Gymnastics,Individual All-Around,Men,Kevin Tan,None,2008
+Artistic Gymnastics,Team All-Around,Men,Raj Bhavsar•Joey Hagerty•Jonathan Horton•Justin Spring•Kevin Tan•Sasha Artemev,None,2008
+Artistic Gymnastics,Floor Exercise,Men,Jonathan Horton,None,2008
+Artistic Gymnastics,Floor Exercise,Men,Joey Hagerty,None,2008
+Artistic Gymnastics,Floor Exercise,Men,Sasha Artemev,None,2008
+Artistic Gymnastics,Floor Exercise,Men,Justin Spring,None,2008
+Artistic Gymnastics,Floor Exercise,Men,Raj Bhavsar,None,2008
+Artistic Gymnastics,Parallel Bars,Men,Justin Spring,None,2008
+Artistic Gymnastics,Parallel Bars,Men,Raj Bhavsar,None,2008
+Artistic Gymnastics,Parallel Bars,Men,Jonathan Horton,None,2008
+Artistic Gymnastics,Parallel Bars,Men,Joey Hagerty,None,2008
+Artistic Gymnastics,Parallel Bars,Men,Sasha Artemev,None,2008
+Artistic Gymnastics,Horizontal Bar,Men,Jonathan Horton,Silver,2008
+Artistic Gymnastics,Horizontal Bar,Men,Joey Hagerty,None,2008
+Artistic Gymnastics,Horizontal Bar,Men,Justin Spring,None,2008
+Artistic Gymnastics,Horizontal Bar,Men,Sasha Artemev,None,2008
+Artistic Gymnastics,Horizontal Bar,Men,Kevin Tan,None,2008
+Artistic Gymnastics,Rings,Men,Kevin Tan,None,2008
+Artistic Gymnastics,Rings,Men,Raj Bhavsar,None,2008
+Artistic Gymnastics,Rings,Men,Jonathan Horton,None,2008
+Artistic Gymnastics,Rings,Men,Justin Spring,None,2008
+Artistic Gymnastics,Rings,Men,Sasha Artemev,None,2008
+Artistic Gymnastics,Pommelled Horse,Men,Sasha Artemev,None,2008
+Artistic Gymnastics,Pommelled Horse,Men,Kevin Tan,None,2008
+Artistic Gymnastics,Pommelled Horse,Men,Raj Bhavsar,None,2008
+Artistic Gymnastics,Pommelled Horse,Men,Jonathan Horton,None,2008
+Artistic Gymnastics,Pommelled Horse,Men,Joey Hagerty,None,2008
+Artistic Gymnastics,Individual All-Around,Women,Nastia Liukin,Gold,2008
+Artistic Gymnastics,Individual All-Around,Women,Shawn Johnson,Silver,2008
+Artistic Gymnastics,Individual All-Around,Women,Bridget Sloan,None,2008
+Artistic Gymnastics,Individual All-Around,Women,Alicia Sacramone,None,2008
+Artistic Gymnastics,Individual All-Around,Women,Chellsie Memmel,None,2008
+Artistic Gymnastics,Individual All-Around,Women,Samantha Peszek,None,2008
+Artistic Gymnastics,Team All-Around,Women,Shawn Johnson•Nastia Liukin•Chellsie Memmel•Samantha Peszek•Alicia Sacramone•Bridget Sloan,None,2008
+Artistic Gymnastics,Floor Exercise,Women,Shawn Johnson,Silver,2008
+Artistic Gymnastics,Floor Exercise,Women,Nastia Liukin,Bronze,2008
+Artistic Gymnastics,Floor Exercise,Women,Bridget Sloan,None,2008
+Artistic Gymnastics,Floor Exercise,Women,Alicia Sacramone,None,2008
+Artistic Gymnastics,Horse Vault,Women,Alicia Sacramone,None,2008
+Artistic Gymnastics,Uneven Bars,Women,Nastia Liukin,Silver,2008
+Artistic Gymnastics,Uneven Bars,Women,Shawn Johnson,None,2008
+Artistic Gymnastics,Uneven Bars,Women,Chellsie Memmel,None,2008
+Artistic Gymnastics,Uneven Bars,Women,Samantha Peszek,None,2008
+Artistic Gymnastics,Uneven Bars,Women,Bridget Sloan,None,2008
+Artistic Gymnastics,Balance Beam,Women,Shawn Johnson,Gold,2008
+Artistic Gymnastics,Balance Beam,Women,Nastia Liukin,Silver,2008
+Artistic Gymnastics,Balance Beam,Women,Alicia Sacramone,None,2008
+Artistic Gymnastics,Balance Beam,Women,Bridget Sloan,None,2008
+Artistic Swimming,Duet,Women,Christina Jones•Andrea Nott,None,2008
+Artistic Swimming,Team,Women,Brooke Abel•Janet Culp•Kate Hooven•Christina Jones•Andrea Nott•Annabelle Orme•Jill Penner•Kim Probst•Becky Kim,None,2008
+Athletics,100 metres,Men,Walter Dix,Bronze,2008
+Athletics,100 metres,Men,Darvis Patton,None,2008
+Athletics,100 metres,Men,Tyson Gay,None,2008
+Athletics,200 metres,Men,Shawn Crawford,Silver,2008
+Athletics,200 metres,Men,Walter Dix,Bronze,2008
+Athletics,200 metres,Men,"Wallace Spearmon, Jr.",None,2008
+Athletics,400 metres,Men,LaShawn Merritt,Gold,2008
+Athletics,400 metres,Men,Jeremy Wariner,Silver,2008
+Athletics,400 metres,Men,David Neville,Bronze,2008
+Athletics,800 metres,Men,Nick Symmonds,None,2008
+Athletics,800 metres,Men,Christian Smith,None,2008
+Athletics,800 metres,Men,Andrew Wheating,None,2008
+Athletics,"1,500 metres",Men,Bernard Lagat,None,2008
+Athletics,"1,500 metres",Men,Leo Manzano,None,2008
+Athletics,"1,500 metres",Men,Lopez Lomong,None,2008
+Athletics,"5,000 metres",Men,Bernard Lagat,None,2008
+Athletics,"5,000 metres",Men,Matt Tegenkamp,None,2008
+Athletics,"5,000 metres",Men,Ian Dobson,None,2008
+Athletics,"10,000 metres",Men,Galen Rupp,None,2008
+Athletics,"10,000 metres",Men,Abdi Abdirahman,None,2008
+Athletics,"10,000 metres",Men,Jorge Torres,None,2008
+Athletics,Marathon,Men,Dathan Ritzenhein,None,2008
+Athletics,Marathon,Men,Ryan Hall,None,2008
+Athletics,Marathon,Men,Brian Sell,None,2008
+Athletics,110 metres Hurdles,Men,David Payne,Silver,2008
+Athletics,110 metres Hurdles,Men,David Oliver,Bronze,2008
+Athletics,110 metres Hurdles,Men,Terrence Trammell,None,2008
+Athletics,400 metres Hurdles,Men,Angelo Taylor,Gold,2008
+Athletics,400 metres Hurdles,Men,Kerron Clement,Silver,2008
+Athletics,400 metres Hurdles,Men,Bershawn Jackson,Bronze,2008
+Athletics,"3,000 metres Steeplechase",Men,Anthony Famiglietti,None,2008
+Athletics,"3,000 metres Steeplechase",Men,Josh McAdams,None,2008
+Athletics,"3,000 metres Steeplechase",Men,Billy Nelson,None,2008
+Athletics,4 × 100 metres Relay,Men,Rodney Martin•Travis Padgett•Darvis Patton•Tyson Gay•Leroy Dixon(DNS),None,2008
+Athletics,4 × 400 metres Relay,Men,LaShawn Merritt•Angelo Taylor•David Neville•Jeremy Wariner•Kerron Clement•Reggie Witherspoon•Calvin Smith(DNS)•Darold Williamson(DNS),None,2008
+Athletics,20 kilometres Race Walk,Men,Kevin Eastler,None,2008
+Athletics,50 kilometres Race Walk,Men,Philip Dunn,None,2008
+Athletics,High Jump,Men,Andra Manson,None,2008
+Athletics,High Jump,Men,Jesse Williams,None,2008
+Athletics,High Jump,Men,Dusty Jonas,None,2008
+Athletics,Pole Vault,Men,Derek Miles,Bronze,2008
+Athletics,Pole Vault,Men,Jeff Hartwig,None,2008
+Athletics,Pole Vault,Men,Brad Walker,None,2008
+Athletics,Long Jump,Men,Trevell Quinley,None,2008
+Athletics,Long Jump,Men,Brian Johnson,None,2008
+Athletics,Long Jump,Men,Miguel Pate,None,2008
+Athletics,Triple Jump,Men,Rafeeq Curry,None,2008
+Athletics,Triple Jump,Men,Kenta Bell,None,2008
+Athletics,Triple Jump,Men,Aarik Wilson,None,2008
+Athletics,Shot Put,Men,Christian Cantwell,Silver,2008
+Athletics,Shot Put,Men,Reese Hoffa,None,2008
+Athletics,Shot Put,Men,Adam Nelson,None,2008
+Athletics,Discus Throw,Men,Michael Robertson,None,2008
+Athletics,Discus Throw,Men,Casey Malone,None,2008
+Athletics,Discus Throw,Men,Ian Waltz,None,2008
+Athletics,Hammer Throw,Men,A. G. Kruger,None,2008
+Athletics,Javelin Throw,Men,Leigh Smith,None,2008
+Athletics,Javelin Throw,Men,Breaux Greer,None,2008
+Athletics,Javelin Throw,Men,Mike Hazle,None,2008
+Athletics,Decathlon,Men,Bryan Clay,Gold,2008
+Athletics,Decathlon,Men,Trey Hardee,None,2008
+Athletics,Decathlon,Men,Tom Pappas,None,2008
+Athletics,100 metres,Women,Lauryn Williams,None,2008
+Athletics,100 metres,Women,Muna Lee,None,2008
+Athletics,100 metres,Women,Torri Edwards,None,2008
+Athletics,200 metres,Women,Allyson Felix,Silver,2008
+Athletics,200 metres,Women,Muna Lee,None,2008
+Athletics,200 metres,Women,Marshevet Hooker,None,2008
+Athletics,400 metres,Women,Sanya Richards-Ross,Bronze,2008
+Athletics,400 metres,Women,Mary Wineberg,None,2008
+Athletics,400 metres,Women,DeeDee Trotter,None,2008
+Athletics,800 metres,Women,Alice Schmidt,None,2008
+Athletics,800 metres,Women,Hazel Clark-Riley,None,2008
+Athletics,800 metres,Women,Nicole Teter,None,2008
+Athletics,"1,500 metres",Women,Shannon Rowbury,None,2008
+Athletics,"1,500 metres",Women,Christy Wurth-Thomas,None,2008
+Athletics,"1,500 metres",Women,Erin Donohue,None,2008
+Athletics,"5,000 metres",Women,Kara Goucher,None,2008
+Athletics,"5,000 metres",Women,Shalane Flanagan,None,2008
+Athletics,"5,000 metres",Women,Jen Rhines,None,2008
+Athletics,"10,000 metres",Women,Shalane Flanagan,Silver,2008
+Athletics,"10,000 metres",Women,Kara Goucher,None,2008
+Athletics,"10,000 metres",Women,Amy Yoder Begley,None,2008
+Athletics,Marathon,Women,Blake Russell,None,2008
+Athletics,Marathon,Women,Magda Lewy-Boulet,None,2008
+Athletics,Marathon,Women,Deena Kastor,None,2008
+Athletics,100 metres Hurdles,Women,Dawn Harper,Gold,2008
+Athletics,100 metres Hurdles,Women,Damu Cherry,None,2008
+Athletics,100 metres Hurdles,Women,Lolo Jones,None,2008
+Athletics,400 metres Hurdles,Women,Sheena Tosta,Silver,2008
+Athletics,400 metres Hurdles,Women,Tiffany Ross-Williams,None,2008
+Athletics,400 metres Hurdles,Women,Queen Harrison,None,2008
+Athletics,"3,000 metres Steeplechase",Women,Jenny Barringer,None,2008
+Athletics,"3,000 metres Steeplechase",Women,Anna Willard,None,2008
+Athletics,"3,000 metres Steeplechase",Women,Lindsey Anderson,None,2008
+Athletics,4 × 100 metres Relay,Women,Angela Williams•Mechelle Lewis•Torri Edwards•Lauryn Williams•LaShauntea Moore(DNS),None,2008
+Athletics,4 × 400 metres Relay,Women,Mary Wineberg•Allyson Felix•Monique Henderson•Sanya Richards-Ross•Natasha Hastings•Ebonie Floyd(DNS),None,2008
+Athletics,20 kilometres Race Walk,Women,Joanne Dow,None,2008
+Athletics,High Jump,Women,Chaunté Howard,Bronze,2008
+Athletics,High Jump,Women,Amy Acuff,None,2008
+Athletics,High Jump,Women,Sharon Day,None,2008
+Athletics,Pole Vault,Women,Jenn Stuczynski,Silver,2008
+Athletics,Pole Vault,Women,April Steiner-Bennett,None,2008
+Athletics,Pole Vault,Women,Erica Bartolina,None,2008
+Athletics,Long Jump,Women,Brittney Reese,None,2008
+Athletics,Long Jump,Women,Grace Upshaw,None,2008
+Athletics,Long Jump,Women,Funmi Jimoh,None,2008
+Athletics,Triple Jump,Women,Erica McLain,None,2008
+Athletics,Triple Jump,Women,Shani Marks,None,2008
+Athletics,Shot Put,Women,Jill Camarena,None,2008
+Athletics,Shot Put,Women,Michelle Carter,None,2008
+Athletics,Shot Put,Women,Kristin Heaston,None,2008
+Athletics,Discus Throw,Women,Stephanie Brown-Trafton,Gold,2008
+Athletics,Discus Throw,Women,Aretha Thurmond,None,2008
+Athletics,Discus Throw,Women,Suzy Powell-Roos,None,2008
+Athletics,Hammer Throw,Women,Amber Campbell,None,2008
+Athletics,Hammer Throw,Women,Loree Smith,None,2008
+Athletics,Hammer Throw,Women,Jessica Cosby,None,2008
+Athletics,Javelin Throw,Women,Kim Kreiner,None,2008
+Athletics,Javelin Throw,Women,Kara Patterson,None,2008
+Athletics,Heptathlon,Women,Hyleas Fountain,Silver,2008
+Athletics,Heptathlon,Women,Jackie Johnson,None,2008
+Athletics,Heptathlon,Women,Diana Pickler,None,2008
+Badminton,Singles,Men,Raju Rai,None,2008
+Badminton,Doubles,Men,Howard Bach•Bob Malaythong,None,2008
+Badminton,Singles,Women,Eva Lee,None,2008
+Badminton,Doubles,Women,Eva Lee•May Mangkalakiri,None,2008
+Baseball,Baseball,Men,Brett Anderson•Jake Arrieta•Brian Barden•Matt Brown•Trevor Cahill•Jeremy Cummings•Jason Donald•Brian Duensing•Dexter Fowler•John Gall•Mike Hessman•Kevin Jepsen•Brandon Knight•Mike Koplove•Matt LaPorta•Lou Marson•Blaine Neal•Jayson Nix•Nate Schierholtz•Jeff Stevens•Stephen Strasburg•Taylor Teagarden•Terry Tiffee•Casey Weathers,None,2008
+Basketball,Basketball,Men,"Carmelo Anthony•Carlos Boozer•Chris Bosh•Kobe Bryant•Dwight Howard•LeBron James•Jason Kidd•Chris Paul•Tayshaun Prince•Michael Redd•Dwyane Wade, Jr.•Deron Williams",None,2008
+Basketball,Basketball,Women,Seimone Augustus•Sue Bird•Tamika Catchings•Sylvia Fowles•Kara Lawson•Lisa Leslie•DeLisha Milton-Jones•Candace Parker•Cappie Pondexter•Katie Smith•Diana Taurasi•Tina Thompson,None,2008
+Beach Volleyball,Beach Volleyball,Men,Todd Rogers•Phil Dalhausser,None,2008
+Beach Volleyball,Beach Volleyball,Men,Jake Gibb•Sean Rosenthal,None,2008
+Beach Volleyball,Beach Volleyball,Women,Misty May-Treanor•Kerri Walsh Jennings,None,2008
+Beach Volleyball,Beach Volleyball,Women,Nicole Branagh•Elaine Youngs,None,2008
+Boxing,Light-Flyweight,Men,Luis Yanez,None,2008
+Boxing,Flyweight,Men,Rau'Shee Warren,None,2008
+Boxing,Bantamweight,Men,"Gary Russell, Jr.",None,2008
+Boxing,Featherweight,Men,Raynell Williams,None,2008
+Boxing,Lightweight,Men,Sadam Ali,None,2008
+Boxing,Light-Welterweight,Men,Javier Molina,None,2008
+Boxing,Welterweight,Men,Demetrius Andrade,None,2008
+Boxing,Middleweight,Men,Shawn Estrada,None,2008
+Boxing,Heavyweight,Men,Deontay Wilder,Bronze,2008
+Canoe Slalom,"Kayak Singles, Slalom",Men,Scott Parsons,None,2008
+Canoe Slalom,"Canadian Singles, Slalom",Men,Benn Fraker,None,2008
+Canoe Slalom,"Canadian Doubles, Slalom",Men,Rick Powell•Casey Eichfeld,None,2008
+Canoe Slalom,"Kayak Singles, Slalom",Women,Heather Corrie,None,2008
+Canoe Sprint,"Kayak Singles, 500 metres",Men,Rami Zur,None,2008
+Canoe Sprint,"Kayak Singles, 1,000 metres",Men,Rami Zur,None,2008
+Canoe Sprint,"Kayak Singles, 500 metres",Women,Carrie Johnson,None,2008
+Cycling BMX Racing,BMX,Men,Mike Day,Silver,2008
+Cycling BMX Racing,BMX,Men,Donny Robinson,Bronze,2008
+Cycling BMX Racing,BMX,Men,Kyle Bennett,None,2008
+Cycling BMX Racing,BMX,Women,Jill Kintner,Bronze,2008
+Cycling Mountain Bike,Cross-Country,Men,Adam Craig,None,2008
+Cycling Mountain Bike,Cross-Country,Men,Todd Wells,None,2008
+Cycling Mountain Bike,Cross-Country,Women,Mary McConneloug,None,2008
+Cycling Mountain Bike,Cross-Country,Women,Georgia Gould,None,2008
+Cycling Road,"Road Race, Individual",Men,Levi Leipheimer,None,2008
+Cycling Road,"Road Race, Individual",Men,Christian Vande Velde,None,2008
+Cycling Road,"Road Race, Individual",Men,George Hincapie,None,2008
+Cycling Road,"Road Race, Individual",Men,Jason McCartney,None,2008
+Cycling Road,"Road Race, Individual",Men,David Zabriskie,None,2008
+Cycling Road,Individual Time Trial,Men,Levi Leipheimer,Bronze,2008
+Cycling Road,Individual Time Trial,Men,David Zabriskie,None,2008
+Cycling Road,"Road Race, Individual",Women,Kristin Armstrong,None,2008
+Cycling Road,"Road Race, Individual",Women,Amber Neben,None,2008
+Cycling Road,"Road Race, Individual",Women,Christine Thorburn,None,2008
+Cycling Road,Individual Time Trial,Women,Kristin Armstrong,Gold,2008
+Cycling Road,Individual Time Trial,Women,Christine Thorburn,None,2008
+Cycling Track,Sprint,Men,Michael Blatchford,None,2008
+Cycling Track,Keirin,Men,Giddeon Massie,None,2008
+Cycling Track,Team Sprint,Men,Michael Blatchford•Adam Duvendeck•Giddeon Massie,None,2008
+Cycling Track,"Individual Pursuit, 4,000 metres",Men,Taylor Phinney,None,2008
+Cycling Track,Points Race,Men,Bobby Lea,None,2008
+Cycling Track,Madison,Men,Mike Friedman•Bobby Lea,None,2008
+Cycling Track,Sprint,Women,Jennie Reed,None,2008
+Cycling Track,Individual Pursuit,Women,Sarah Hammer,None,2008
+Cycling Track,Points Race,Women,Sarah Hammer,None,2008
+Diving,Springboard,Men,Troy Dumais,None,2008
+Diving,Springboard,Men,Chris Colwill,None,2008
+Diving,Platform,Men,David Boudia,None,2008
+Diving,Platform,Men,Thomas Finchum,None,2008
+Diving,Synchronized Springboard,Men,Chris Colwill•Jevon Tarantino,None,2008
+Diving,Synchronized Platform,Men,David Boudia•Thomas Finchum,None,2008
+Diving,Springboard,Women,Nancilea Foster,None,2008
+Diving,Springboard,Women,Christina Loukas,None,2008
+Diving,Platform,Women,Laura Wilkinson,None,2008
+Diving,Platform,Women,Haley Ishimatsu,None,2008
+Diving,Synchronized Springboard,Women,Kelci Bryant•Ariel Rittenhouse,None,2008
+Diving,Synchronized Platform,Women,Mary Beth Dunnichay•Haley Ishimatsu,None,2008
+Equestrian Dressage,Individual,Open,Steffen Peters,None,2008
+Equestrian Dressage,Individual,Open,Debbie McDonald,None,2008
+Equestrian Dressage,Individual,Open,Courtney King-Dye,None,2008
+Equestrian Dressage,Team,Open,Courtney King-Dye•Debbie McDonald•Steffen Peters,None,2008
+Equestrian Eventing,Individual,Open,Gina Miles,Silver,2008
+Equestrian Eventing,Individual,Open,Becky Holder,None,2008
+Equestrian Eventing,Individual,Open,Karen O'Connor,None,2008
+Equestrian Eventing,Individual,Open,Amy Tryon,None,2008
+Equestrian Eventing,Individual,Open,Phillip Dutton,None,2008
+Equestrian Eventing,Team,Open,Amy Tryon•Karen O'Connor•Becky Holder•Phillip Dutton•Gina Miles,None,2008
+Equestrian Jumping,Individual,Open,Beezie Madden,Bronze,2008
+Equestrian Jumping,Individual,Open,McLain Ward,None,2008
+Equestrian Jumping,Individual,Open,Laura Kraut,None,2008
+Equestrian Jumping,Individual,Open,Will Simpson,None,2008
+Equestrian Jumping,Team,Open,McLain Ward•Laura Kraut•Will Simpson•Beezie Madden,None,2008
+Fencing,"Foil, Individual",Men,Gerek Meinhardt,None,2008
+Fencing,"Épée, Individual",Men,Seth Kelsey,None,2008
+Fencing,"Sabre, Individual",Men,Keeth Smart,None,2008
+Fencing,"Sabre, Individual",Men,Tim Morehouse,None,2008
+Fencing,"Sabre, Individual",Men,Jason Rogers,None,2008
+Fencing,"Sabre, Team",Men,Tim Morehouse•Jason Rogers•Keeth Smart•James Williams,None,2008
+Fencing,"Foil, Individual",Women,Emily Cross,None,2008
+Fencing,"Foil, Individual",Women,Erinn Smart,None,2008
+Fencing,"Foil, Individual",Women,Hanna Thompson,None,2008
+Fencing,"Foil, Team",Women,Emily Cross•Erinn Smart•Hanna Thompson,None,2008
+Fencing,"Épée, Individual",Women,Kelley Hurley,None,2008
+Fencing,"Sabre, Individual",Women,Mariel Zagunis,Gold,2008
+Fencing,"Sabre, Individual",Women,Sada Jacobson,Silver,2008
+Fencing,"Sabre, Individual",Women,Becca Ward,Bronze,2008
+Fencing,"Sabre, Team",Women,Sada Jacobson•Becca Ward•Mariel Zagunis,None,2008
+Football,Football,Men,Freddy Adu•Jozy Altidore•Michael Bradley•Charlie Davies•Mo Edu•Benny Feilhaber•Brad Guzan•Stuart Holden•Sacha Kljestan•Brian McBride•Dax McCarty•Michael Orozco Fiscal•Michael Parkhurst•Robbie Rogers•Danny Szetela•Marvell Wynne•Patrick Ianni(DNS)•Chris Seitz(DNS),None,2008
+Football,Football,Women,Shannon Boxx•Rachel Buehler•Lori Chalupny•Lauren Cheney•Stephanie Cox•Tobin Heath•Angela Hucles•Tasha Kai•Carli Lloyd•Kate Markgraf•Heather Mitts•Heather O'Reilly•Christie Rampone•Amy Rodriguez•Hope Solo•Lindsay Tarpley•Aly Wagner•Nicole Barnhart(DNS),None,2008
+Hockey,Hockey,Women,Kate Barber•Kayla Bashore•Lauren Crandall•Rachel Dawson•Kelly Doton•Katelyn Falgowski•Jesse Gey•Carrie Lingo•Angie Loy•Caroline Nichols•Lauren Powley•Dina Rizzo•Dana Sensenig•Keli Smith•Tiffany Snow•Amy Tran•Sara Silvetti(DNS)•Barb Weinberg(DNS),None,2008
+Judo,Extra-Lightweight,Men,Taraje Williams-Murray,None,2008
+Judo,Half-Lightweight,Men,Taylor Takata,None,2008
+Judo,Lightweight,Men,Ryan Reser,None,2008
+Judo,Half-Middleweight,Men,Travis Stevens,None,2008
+Judo,Middleweight,Men,Brian Olson,None,2008
+Judo,Half-Heavyweight,Men,Adler Volmar,None,2008
+Judo,Heavyweight,Men,Dan McCormick,None,2008
+Judo,Extra-Lightweight,Women,Sayaka Matsumoto,None,2008
+Judo,Lightweight,Women,Valerie Gotay,None,2008
+Judo,Middleweight,Women,Ronda Rousey,Bronze,2008
+Marathon Swimming,10 kilometres Open Water,Men,Mark Warkentin,None,2008
+Marathon Swimming,10 kilometres Open Water,Women,Chloe Sutton,None,2008
+Modern Pentathlon,Individual,Men,Sam Sacksen,None,2008
+Modern Pentathlon,Individual,Men,Eli Bremer,None,2008
+Modern Pentathlon,Individual,Women,Sheila Taormina,None,2008
+Modern Pentathlon,Individual,Women,Margaux Isaksen,None,2008
+Rowing,Single Sculls,Men,Ken Jurkowski,None,2008
+Rowing,Double Sculls,Men,Wes Piermarini•Elliot Hovey,None,2008
+Rowing,Coxless Pairs,Men,Tyler Winklevoss•Cameron Winklevoss,None,2008
+Rowing,Quadruple Sculls,Men,Matt Hughes•Sam Stitt•Jamie Schroeder•Scott Gault,None,2008
+Rowing,Coxless Fours,Men,David Banks•Paul Teti•Giuseppe Lanzone•Brett Newlin,None,2008
+Rowing,Eights,Men,Beau Hoopman•Matt Schnobrich•Micah Boyd•Wyatt Allen•Daniel Walsh•Steven Coppola•Josh Inman•Bryan Volpenhein•Marcus McElhenney,None,2008
+Rowing,Lightweight Coxless Fours,Men,Mike Altman•Pat Todd•Will Daly•Tom Paradiso,None,2008
+Rowing,Single Sculls,Women,Michelle Guerette,Silver,2008
+Rowing,Double Sculls,Women,Megan Kalmoe•Ellen Tomek,None,2008
+Rowing,Coxless Pairs,Women,Portia McGee•Anna Cummins,None,2008
+Rowing,Quadruple Sculls,Women,Lia Pernell•Lindsay Meyer•Jen Kaido•Margot Shumway,None,2008
+Rowing,Eights,Women,Erin Cafaro•Lindsay Shoop•Anna Goodale•Elle Logan•Anna Cummins•Susan Francia•Caroline Lind•Caryn Davies•Mary Whipple,None,2008
+Rowing,Lightweight Double Sculls,Women,Renee Hykel•Jen Goldsack,None,2008
+Sailing,Windsurfer,Men,Ben Barger,None,2008
+Sailing,One Person Dinghy,Men,Andrew Campbell,None,2008
+Sailing,Two Person Dinghy,Men,Stu McNay•Graham Biehl,None,2008
+Sailing,Two Person Keelboat,Men,"John Dane, III•Austin Sperry",None,2008
+Sailing,One Person Dinghy,Open,Zach Railey,Silver,2008
+Sailing,Skiff,Open,Tim Wadlow•Chris Rast,None,2008
+Sailing,Multihull,Open,John Lovell•Charlie Ogletree,None,2008
+Sailing,Windsurfer,Women,Nancy Rios,None,2008
+Sailing,One Person Dinghy,Women,Anna Tunnicliffe,Gold,2008
+Sailing,Two Person Dinghy,Women,Amanda Clark•Sarah Mergenthaler,None,2008
+Sailing,Three Person Keelboat,Women,Sally Barkow•Carrie Howe•Debbie Capozzi,None,2008
+Shooting,"Air Pistol, 10 metres",Men,Jason Turner,Bronze,2008
+Shooting,"Air Pistol, 10 metres",Men,Brian Beaman,None,2008
+Shooting,"Rapid-Fire Pistol, 25 metres",Men,Keith Sanderson,None,2008
+Shooting,"Free Pistol, 50 metres",Men,Daryl Szarenski,None,2008
+Shooting,"Free Pistol, 50 metres",Men,Jason Turner,None,2008
+Shooting,"Air Rifle, 10 metres",Men,Jason Parker,None,2008
+Shooting,"Air Rifle, 10 metres",Men,Stephen Scherer,None,2008
+Shooting,"Small-Bore Rifle, Three Positions, 50 metres",Men,Matt Emmons,None,2008
+Shooting,"Small-Bore Rifle, Three Positions, 50 metres",Men,Jason Parker,None,2008
+Shooting,"Small-Bore Rifle, Prone, 50 metres",Men,Matt Emmons,Silver,2008
+Shooting,"Small-Bore Rifle, Prone, 50 metres",Men,Mike Anti,None,2008
+Shooting,Trap,Men,Bret Erickson,None,2008
+Shooting,Trap,Men,Dominic Grazioli,None,2008
+Shooting,Double Trap,Men,Glenn Eller,Gold,2008
+Shooting,Double Trap,Men,Jeff Holguin,None,2008
+Shooting,Skeet,Men,Vincent Hancock,Gold,2008
+Shooting,Skeet,Men,Sean Mclelland,None,2008
+Shooting,"Air Pistol, 10 metres",Women,Brenda Shinn,None,2008
+Shooting,"Air Pistol, 10 metres",Women,Beki Snyder,None,2008
+Shooting,"Sporting Pistol, 25 metres",Women,Libby Callahan,None,2008
+Shooting,"Sporting Pistol, 25 metres",Women,Beki Snyder,None,2008
+Shooting,"Air Rifle, 10 metres",Women,Jamie Beyerle,None,2008
+Shooting,"Air Rifle, 10 metres",Women,Emily Caruso,None,2008
+Shooting,"Small-Bore Rifle, Three Positions, 50 metres",Women,Jamie Beyerle,None,2008
+Shooting,"Small-Bore Rifle, Three Positions, 50 metres",Women,Sandra Fong,None,2008
+Shooting,Trap,Women,Corey Cogdell,Bronze,2008
+Shooting,Skeet,Women,Kim Rhode,Silver,2008
+Softball,Softball,Women,Monica Abbott•Laura Berg•Crystl Bustos•Andrea Duran•Jennie Finch•Tairia Flowers•Vicky Galindo•Lovie Jung•Kelly Kretschman•Lauren Lappin•Caitlin Lowe•Jessica Mendoza•Stacey Nuveman•Cat Osterman•Natasha Watley,None,2008
+Swimming,50 metres Freestyle,Men,Ben Wildman-Tobriner,None,2008
+Swimming,50 metres Freestyle,Men,Garrett Weber-Gale,None,2008
+Swimming,100 metres Freestyle,Men,Jason Lezak,Bronze,2008
+Swimming,100 metres Freestyle,Men,Garrett Weber-Gale,None,2008
+Swimming,200 metres Freestyle,Men,Michael Phelps,Gold,2008
+Swimming,200 metres Freestyle,Men,Peter Vanderkaay,Bronze,2008
+Swimming,400 metres Freestyle,Men,Larsen Jensen,Bronze,2008
+Swimming,400 metres Freestyle,Men,Peter Vanderkaay,None,2008
+Swimming,"1,500 metres Freestyle",Men,Larsen Jensen,None,2008
+Swimming,"1,500 metres Freestyle",Men,Peter Vanderkaay,None,2008
+Swimming,4 × 100 metres Freestyle Relay,Men,Michael Phelps•Garrett Weber-Gale•Cullen Jones•Jason Lezak•Nathan Adrian•Ben Wildman-Tobriner•Matt Grevers,None,2008
+Swimming,4 × 200 metres Freestyle Relay,Men,Michael Phelps•Ryan Lochte•Ricky Berens•Peter Vanderkaay•Dave Walters•Erik Vendt•Klete Keller,None,2008
+Swimming,100 metres Backstroke,Men,Aaron Peirsol,Gold,2008
+Swimming,100 metres Backstroke,Men,Matt Grevers,Silver,2008
+Swimming,200 metres Backstroke,Men,Ryan Lochte,Gold,2008
+Swimming,200 metres Backstroke,Men,Aaron Peirsol,Silver,2008
+Swimming,100 metres Breaststroke,Men,Brendan Hansen,None,2008
+Swimming,100 metres Breaststroke,Men,Mark Gangloff,None,2008
+Swimming,200 metres Breaststroke,Men,Scott Spann,None,2008
+Swimming,200 metres Breaststroke,Men,Eric Shanteau,None,2008
+Swimming,100 metres Butterfly,Men,Michael Phelps,Gold,2008
+Swimming,100 metres Butterfly,Men,Ian Crocker,None,2008
+Swimming,200 metres Butterfly,Men,Michael Phelps,Gold,2008
+Swimming,200 metres Butterfly,Men,Gil Stovall,None,2008
+Swimming,200 metres Individual Medley,Men,Michael Phelps,Gold,2008
+Swimming,200 metres Individual Medley,Men,Ryan Lochte,Bronze,2008
+Swimming,400 metres Individual Medley,Men,Michael Phelps,Gold,2008
+Swimming,400 metres Individual Medley,Men,Ryan Lochte,Bronze,2008
+Swimming,4 × 100 metres Medley Relay,Men,Aaron Peirsol•Brendan Hansen•Michael Phelps•Jason Lezak•Matt Grevers•Mark Gangloff•Ian Crocker•Garrett Weber-Gale,None,2008
+Swimming,50 metres Freestyle,Women,Dara Torres,Silver,2008
+Swimming,50 metres Freestyle,Women,Kara Lynn Joyce,None,2008
+Swimming,100 metres Freestyle,Women,Natalie Coughlin,Bronze,2008
+Swimming,100 metres Freestyle,Women,Lacey Nymeyer,None,2008
+Swimming,200 metres Freestyle,Women,Katie Hoff,None,2008
+Swimming,200 metres Freestyle,Women,Allison Schmitt,None,2008
+Swimming,400 metres Freestyle,Women,Katie Hoff,Silver,2008
+Swimming,400 metres Freestyle,Women,Kate Ziegler,None,2008
+Swimming,800 metres Freestyle,Women,Kate Ziegler,None,2008
+Swimming,800 metres Freestyle,Women,Katie Hoff,None,2008
+Swimming,4 × 100 metres Freestyle Relay,Women,Natalie Coughlin•Lacey Nymeyer•Kara Lynn Joyce•Dara Torres•Julia Smit•Emily Silver,None,2008
+Swimming,4 × 200 metres Freestyle Relay,Women,Allison Schmitt•Natalie Coughlin•Caroline Burckle•Katie Hoff•Christine Marshall•Kim Vandenberg•Julia Smit,None,2008
+Swimming,100 metres Backstroke,Women,Natalie Coughlin,Gold,2008
+Swimming,100 metres Backstroke,Women,Margaret Hoelzer,Bronze,2008
+Swimming,200 metres Backstroke,Women,Margaret Hoelzer,Silver,2008
+Swimming,200 metres Backstroke,Women,Elizabeth Beisel,None,2008
+Swimming,100 metres Breaststroke,Women,Rebecca Soni,Silver,2008
+Swimming,100 metres Breaststroke,Women,Megan Jendrick,None,2008
+Swimming,200 metres Breaststroke,Women,Rebecca Soni,Gold,2008
+Swimming,200 metres Breaststroke,Women,Amanda Beard,None,2008
+Swimming,100 metres Butterfly,Women,Christine Magnuson,Silver,2008
+Swimming,100 metres Butterfly,Women,Elaine Breeden,None,2008
+Swimming,200 metres Butterfly,Women,Elaine Breeden,None,2008
+Swimming,200 metres Butterfly,Women,Kathleen Hersey,None,2008
+Swimming,200 metres Individual Medley,Women,Natalie Coughlin,Bronze,2008
+Swimming,200 metres Individual Medley,Women,Katie Hoff,None,2008
+Swimming,400 metres Individual Medley,Women,Katie Hoff,Bronze,2008
+Swimming,400 metres Individual Medley,Women,Elizabeth Beisel,None,2008
+Swimming,4 × 100 metres Medley Relay,Women,Natalie Coughlin•Rebecca Soni•Christine Magnuson•Dara Torres•Margaret Hoelzer•Megan Jendrick•Elaine Breeden•Kara Lynn Joyce,None,2008
+Table Tennis,Singles,Men,David Zhuang,None,2008
+Table Tennis,Singles,Women,Chen Wang,None,2008
+Table Tennis,Singles,Women,Jun Gao,None,2008
+Table Tennis,Singles,Women,Crystal Huang,None,2008
+Table Tennis,Team,Women,Jun Gao•Crystal Huang•Chen Wang,None,2008
+Taekwondo,Featherweight,Men,Mark Lopez,Silver,2008
+Taekwondo,Welterweight,Men,Steven Lopez,Bronze,2008
+Taekwondo,Flyweight,Women,Charlotte Craig,None,2008
+Taekwondo,Featherweight,Women,Diana Lopez,Bronze,2008
+Tennis,Singles,Men,James Blake,None,2008
+Tennis,Singles,Men,Robby Ginepri,None,2008
+Tennis,Singles,Men,Sam Querrey,None,2008
+Tennis,Doubles,Men,Bob Bryan•Mike Bryan,None,2008
+Tennis,Doubles,Men,James Blake•Sam Querrey,None,2008
+Tennis,Singles,Women,Serena Williams,None,2008
+Tennis,Singles,Women,Venus Williams,None,2008
+Tennis,Singles,Women,Jill Craybas,None,2008
+Tennis,Singles,Women,Lindsay Davenport,None,2008
+Tennis,Doubles,Women,Serena Williams•Venus Williams,None,2008
+Tennis,Doubles,Women,Lindsay Davenport•Liezel Huber,None,2008
+Trampolining,Individual,Men,Chris Estrada,None,2008
+Trampolining,Individual,Women,Erin Blanchard,None,2008
+Triathlon,Olympic Distance,Men,Hunter Kemper,None,2008
+Triathlon,Olympic Distance,Men,Jarrod Shoemaker,None,2008
+Triathlon,Olympic Distance,Men,Matty Reed,None,2008
+Triathlon,Olympic Distance,Women,Laura Bennett,None,2008
+Triathlon,Olympic Distance,Women,Sarah Haskins,None,2008
+Triathlon,Olympic Distance,Women,Julie Swail-Ertel,None,2008
+Volleyball,Volleyball,Men,Scott Touzinsky•Clay Stanley•Riley Salmon•Sean Rooney•Reid Priddy•Ryan Millar•David Lee•Rich Lambourne•Tom Hoff•Kevin Hansen•Gabe Gardner•Lloy Ball,None,2008
+Volleyball,Volleyball,Women,Kim Willoughby•Logan Tom•Stacy Sykora•Danielle Scott-Arruda•Ogonna Nnamani•Jennifer Joines•Tayyiba Haneef•Kim Glass•Nicole Davis•Heather Bown•Lindsey Berg•Robyn Ah Mow-Santos,None,2008
+Water Polo,Water Polo,Men,Tony Azevedo•Ryan Bailey•Layne Beaubien•Brandon Brooks•Peter Hudnut•Tim Hutten•J. W. Krumpholz•Rick Merlo•Merrill Moses•Jeff Powers•Jesse Smith•Peter Varellas•Adam Wright,None,2008
+Water Polo,Water Polo,Women,Betsey Armstrong•Patty Cardenas•Kami Craig•Natalie Golda•Alison Gregorka•Brittany Hayes•Jaime Hipp•Heather Petri•Jessica Steffens•Moriah Van Norman•Brenda Villa•Lauren Wenger•Elsie Windes,None,2008
+Weightlifting,Middleweight,Men,Chad Vaughn,None,2008
+Weightlifting,Light-Heavyweight,Men,Kendrick Farris,None,2008
+Weightlifting,Featherweight,Women,Melanie Roach,None,2008
+Weightlifting,Middleweight,Women,Natalie Woolfolk,None,2008
+Weightlifting,Middleweight,Women,Carissa Gump,None,2008
+Weightlifting,Super-Heavyweight,Women,Cheryl Haworth,None,2008
+Wrestling,"Featherweight, Greco-Roman",Men,Spenser Mango,None,2008
+Wrestling,"Welterweight, Greco-Roman",Men,Jake Deitchler,None,2008
+Wrestling,"Middleweight, Greco-Roman",Men,T. C. Dantzler,None,2008
+Wrestling,"Light-Heavyweight, Greco-Roman",Men,Brad Vering,None,2008
+Wrestling,"Heavyweight, Greco-Roman",Men,Adam Wheeler,Bronze,2008
+Wrestling,"Super-Heavyweight, Greco-Roman",Men,Dremiel Byers,None,2008
+Wrestling,"Featherweight, Freestyle",Men,Henry Cejudo,Gold,2008
+Wrestling,"Lightweight, Freestyle",Men,Mike Zadick,None,2008
+Wrestling,"Welterweight, Freestyle",Men,Doug Schwab,None,2008
+Wrestling,"Middleweight, Freestyle",Men,Ben Askren,None,2008
+Wrestling,"Light-Heavyweight, Freestyle",Men,Andy Hrovat,None,2008
+Wrestling,"Super-Heavyweight, Freestyle",Men,Steve Mocco,None,2008
+Wrestling,"Flyweight, Freestyle",Women,Clarissa Chun,None,2008
+Wrestling,"Lightweight, Freestyle",Women,Marcie Van Dusen,None,2008
+Wrestling,"Middleweight, Freestyle",Women,Randi Miller,Bronze,2008
+Wrestling,"Heavyweight, Freestyle",Women,Ali Bernard,None,2008
+Wushu,Jianshu & Qiangshu,Men,Colvin Wang,None,2008
+Wushu,Sanshou (≤70 kilograms),Men,Max Chen,None,2008
+Wushu,Nanquan & Nandao,Women,Rachel Margalit,None,2008
+Wushu,Jianshu & Qiangshu,Women,Tenyia Lee,None,2008
+Wushu,Sanshou (≤60 kilograms),Women,Sarah Ponce,None,2008

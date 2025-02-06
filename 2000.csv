@@ -1,24 +1,484 @@
-Sport,"1st place, gold medalist(s)","2nd place, silver medalist(s)","3rd place, bronze medalist(s)",Total
-Swimming,14,8,11,33
-Athletics,7,4,5,16
-Wrestling,2,2,3,7
-Tennis,2,0,1,3
-Basketball,2,0,0,2
-Sailing,1,2,1,4
-Cycling,1,1,0,2
-Equestrian,1,0,2,3
-Shooting,1,0,2,3
-Weightlifting,1,0,1,2
-Baseball,1,0,0,1
-Diving,1,0,0,1
-Softball,1,0,0,1
-Taekwondo,1,0,0,1
-Volleyball,1,0,0,1
-Boxing,0,2,2,4
-Modern pentathlon,0,1,0,1
-Soccer,0,1,0,1
-Water polo,0,1,0,1
-Rowing,0,1,2,3
-Archery,0,1,1,2
-Gymnastics,0,0,1,1
-Total,37,24,32,93
+Sport,Event,Gender,Athlete,Medal,Year
+Archery,Individual,Men,Vic Wunderle,Silver,2000
+Archery,Individual,Men,Butch Johnson,None,2000
+Archery,Individual,Men,Rod White,None,2000
+Archery,Team,Men,Rod White•Vic Wunderle•Butch Johnson,None,2000
+Archery,Individual,Women,Karen Scavotto,None,2000
+Archery,Individual,Women,Denise Parker,None,2000
+Archery,Individual,Women,Janet Dykman,None,2000
+Archery,Team,Women,Janet Dykman•Karen Scavotto•Denise Parker,None,2000
+Artistic Gymnastics,Individual All-Around,Men,Blaine Wilson,None,2000
+Artistic Gymnastics,Individual All-Around,Men,Paul Hamm,None,2000
+Artistic Gymnastics,Individual All-Around,Men,Stephen McCain,None,2000
+Artistic Gymnastics,Individual All-Around,Men,Morgan Hamm,None,2000
+Artistic Gymnastics,Individual All-Around,Men,Sean Townsend,None,2000
+Artistic Gymnastics,Individual All-Around,Men,John Roethlisberger,None,2000
+Artistic Gymnastics,Team All-Around,Men,Paul Hamm•Blaine Wilson•Stephen McCain•Morgan Hamm•Sean Townsend•John Roethlisberger,None,2000
+Artistic Gymnastics,Floor Exercise,Men,Morgan Hamm,None,2000
+Artistic Gymnastics,Floor Exercise,Men,Paul Hamm,None,2000
+Artistic Gymnastics,Floor Exercise,Men,Sean Townsend,None,2000
+Artistic Gymnastics,Floor Exercise,Men,Stephen McCain,None,2000
+Artistic Gymnastics,Floor Exercise,Men,Blaine Wilson,None,2000
+Artistic Gymnastics,Horse Vault,Men,Blaine Wilson,None,2000
+Artistic Gymnastics,Horse Vault,Men,Paul Hamm,None,2000
+Artistic Gymnastics,Horse Vault,Men,Sean Townsend,None,2000
+Artistic Gymnastics,Horse Vault,Men,Morgan Hamm,None,2000
+Artistic Gymnastics,Horse Vault,Men,Stephen McCain,None,2000
+Artistic Gymnastics,Parallel Bars,Men,Sean Townsend,None,2000
+Artistic Gymnastics,Parallel Bars,Men,Paul Hamm,None,2000
+Artistic Gymnastics,Parallel Bars,Men,Stephen McCain,None,2000
+Artistic Gymnastics,Parallel Bars,Men,Morgan Hamm,None,2000
+Artistic Gymnastics,Parallel Bars,Men,Blaine Wilson,None,2000
+Artistic Gymnastics,Horizontal Bar,Men,Sean Townsend,None,2000
+Artistic Gymnastics,Horizontal Bar,Men,Stephen McCain,None,2000
+Artistic Gymnastics,Horizontal Bar,Men,Blaine Wilson,None,2000
+Artistic Gymnastics,Horizontal Bar,Men,Paul Hamm,None,2000
+Artistic Gymnastics,Horizontal Bar,Men,John Roethlisberger,None,2000
+Artistic Gymnastics,Rings,Men,John Roethlisberger,None,2000
+Artistic Gymnastics,Rings,Men,Blaine Wilson,None,2000
+Artistic Gymnastics,Rings,Men,Paul Hamm,None,2000
+Artistic Gymnastics,Rings,Men,Stephen McCain,None,2000
+Artistic Gymnastics,Rings,Men,Morgan Hamm,None,2000
+Artistic Gymnastics,Pommelled Horse,Men,John Roethlisberger,None,2000
+Artistic Gymnastics,Pommelled Horse,Men,Paul Hamm,None,2000
+Artistic Gymnastics,Pommelled Horse,Men,Blaine Wilson,None,2000
+Artistic Gymnastics,Pommelled Horse,Men,Morgan Hamm,None,2000
+Artistic Gymnastics,Pommelled Horse,Men,Stephen McCain,None,2000
+Artistic Gymnastics,Individual All-Around,Women,Elise Ray,None,2000
+Artistic Gymnastics,Individual All-Around,Women,Amy Chow,None,2000
+Artistic Gymnastics,Individual All-Around,Women,Kristen Maloney,None,2000
+Artistic Gymnastics,Individual All-Around,Women,Dominique Dawes,None,2000
+Artistic Gymnastics,Individual All-Around,Women,Tasha Schwikert-Warren,None,2000
+Artistic Gymnastics,Individual All-Around,Women,Jamie Dantzscher,None,2000
+Artistic Gymnastics,Team All-Around,Women,Elise Ray•Amy Chow•Kristen Maloney•Dominique Dawes•Tasha Schwikert-Warren•Jamie Dantzscher,None,2000
+Artistic Gymnastics,Floor Exercise,Women,Amy Chow,None,2000
+Artistic Gymnastics,Floor Exercise,Women,Kristen Maloney,None,2000
+Artistic Gymnastics,Floor Exercise,Women,Elise Ray,None,2000
+Artistic Gymnastics,Floor Exercise,Women,Dominique Dawes,None,2000
+Artistic Gymnastics,Floor Exercise,Women,Jamie Dantzscher,None,2000
+Artistic Gymnastics,Horse Vault,Women,Amy Chow,None,2000
+Artistic Gymnastics,Horse Vault,Women,Elise Ray,None,2000
+Artistic Gymnastics,Horse Vault,Women,Dominique Dawes,None,2000
+Artistic Gymnastics,Horse Vault,Women,Jamie Dantzscher,None,2000
+Artistic Gymnastics,Horse Vault,Women,Kristen Maloney,None,2000
+Artistic Gymnastics,Uneven Bars,Women,Elise Ray,None,2000
+Artistic Gymnastics,Uneven Bars,Women,Dominique Dawes,None,2000
+Artistic Gymnastics,Uneven Bars,Women,Tasha Schwikert-Warren,None,2000
+Artistic Gymnastics,Uneven Bars,Women,Kristen Maloney,None,2000
+Artistic Gymnastics,Uneven Bars,Women,Amy Chow,None,2000
+Artistic Gymnastics,Balance Beam,Women,Elise Ray,None,2000
+Artistic Gymnastics,Balance Beam,Women,Amy Chow,None,2000
+Artistic Gymnastics,Balance Beam,Women,Kristen Maloney,None,2000
+Artistic Gymnastics,Balance Beam,Women,Tasha Schwikert-Warren,None,2000
+Artistic Gymnastics,Balance Beam,Women,Dominique Dawes,None,2000
+Artistic Swimming,Duet,Women,Anna Kozlova•Tuesday Middaugh,None,2000
+Artistic Swimming,Team,Women,Carrie Barton•Tammy Cleland-McGregor•Anna Kozlova•Kristina Lum•Elicia Marshall•Tuesday Middaugh•Heather Pease Olson•Kim Wurzel•Bridget Finn,None,2000
+Athletics,100 metres,Men,Maurice Greene,Gold,2000
+Athletics,100 metres,Men,Jon Drummond,None,2000
+Athletics,100 metres,Men,Curtis Johnson,None,2000
+Athletics,200 metres,Men,Coby Miller,None,2000
+Athletics,200 metres,Men,"John Capel, Jr.",None,2000
+Athletics,200 metres,Men,Floyd Heard,None,2000
+Athletics,400 metres,Men,Michael Johnson,Gold,2000
+Athletics,400 metres,Men,Alvin Harrison,Silver,2000
+Athletics,400 metres,Men,Antonio Pettigrew,None,2000
+Athletics,800 metres,Men,Bryan Woodward,None,2000
+Athletics,800 metres,Men,Mark Everett,None,2000
+Athletics,800 metres,Men,Rich Kenah,None,2000
+Athletics,"1,500 metres",Men,Jason Pyrah,None,2000
+Athletics,"1,500 metres",Men,Michael Stember,None,2000
+Athletics,"1,500 metres",Men,Gabe Jennings,None,2000
+Athletics,"5,000 metres",Men,Adam Goucher,None,2000
+Athletics,"5,000 metres",Men,Brad Hauser,None,2000
+Athletics,"5,000 metres",Men,Nick Rogers,None,2000
+Athletics,"10,000 metres",Men,Abdi Abdirahman,None,2000
+Athletics,"10,000 metres",Men,Meb Keflezighi,None,2000
+Athletics,"10,000 metres",Men,Alan Culpepper,None,2000
+Athletics,Marathon,Men,Rod DeHaven,None,2000
+Athletics,110 metres Hurdles,Men,Terrence Trammell,Silver,2000
+Athletics,110 metres Hurdles,Men,Mark Crear,Bronze,2000
+Athletics,110 metres Hurdles,Men,Allen Johnson,None,2000
+Athletics,400 metres Hurdles,Men,Angelo Taylor,Gold,2000
+Athletics,400 metres Hurdles,Men,James Carter,None,2000
+Athletics,400 metres Hurdles,Men,Eric Thomas,None,2000
+Athletics,"3,000 metres Steeplechase",Men,Mark Croghan,None,2000
+Athletics,"3,000 metres Steeplechase",Men,Pascal Dobert,None,2000
+Athletics,"3,000 metres Steeplechase",Men,Tony Cosey,None,2000
+Athletics,4 × 100 metres Relay,Men,"Jon Drummond•Bernard Williams, III•Brian Lewis•Maurice Greene•Tim Montgomery•Kenny Brokenburr",None,2000
+Athletics,4 × 400 metres Relay,Men,Alvin Harrison•Antonio Pettigrew•Calvin Harrison•Michael Johnson•Angelo Taylor•Jerome Young,None,2000
+Athletics,20 kilometres Race Walk,Men,Tim Seaman,None,2000
+Athletics,50 kilometres Race Walk,Men,Curt Clausen,None,2000
+Athletics,50 kilometres Race Walk,Men,Philip Dunn,None,2000
+Athletics,50 kilometres Race Walk,Men,Andrew Hermann,None,2000
+Athletics,High Jump,Men,Nathan Leeper,None,2000
+Athletics,High Jump,Men,Kenny Evans,None,2000
+Athletics,High Jump,Men,Charles Austin,None,2000
+Athletics,Pole Vault,Men,Nick Hysong,Gold,2000
+Athletics,Pole Vault,Men,Lawrence Johnson,Silver,2000
+Athletics,Pole Vault,Men,Chad Harting,None,2000
+Athletics,Long Jump,Men,Dwight Phillips,None,2000
+Athletics,Long Jump,Men,Savanté Stringfellow,None,2000
+Athletics,Long Jump,Men,Mel Lister,None,2000
+Athletics,Triple Jump,Men,Robert Howard,None,2000
+Athletics,Triple Jump,Men,Walter Davis,None,2000
+Athletics,Triple Jump,Men,LaMark Carter,None,2000
+Athletics,Shot Put,Men,Adam Nelson,Silver,2000
+Athletics,Shot Put,Men,John Godina,Bronze,2000
+Athletics,Shot Put,Men,Andy Bloom,None,2000
+Athletics,Discus Throw,Men,Adam Setliff,None,2000
+Athletics,Discus Throw,Men,Tony Washington,None,2000
+Athletics,Discus Throw,Men,John Godina,None,2000
+Athletics,Hammer Throw,Men,Lance Deal,None,2000
+Athletics,Hammer Throw,Men,Kevin McMahon,None,2000
+Athletics,Hammer Throw,Men,Jud Logan,None,2000
+Athletics,Javelin Throw,Men,Breaux Greer,None,2000
+Athletics,Decathlon,Men,Chris Huffins,Bronze,2000
+Athletics,Decathlon,Men,Tom Pappas,None,2000
+Athletics,Decathlon,Men,Kip Janvrin,None,2000
+Athletics,"1,500 metres Wheelchair",Men,Scot Hollonbeck,None,2000
+Athletics,100 metres,Women,Chryste Gaines,None,2000
+Athletics,100 metres,Women,Torri Edwards,None,2000
+Athletics,100 metres,Women,Marion Jones,None,2000
+Athletics,200 metres,Women,Torri Edwards,None,2000
+Athletics,200 metres,Women,Nanceen Perry,None,2000
+Athletics,200 metres,Women,Marion Jones,None,2000
+Athletics,400 metres,Women,LaTasha Colander-Richardson,None,2000
+Athletics,400 metres,Women,Monique Hennagan,None,2000
+Athletics,400 metres,Women,Michelle Collins,None,2000
+Athletics,800 metres,Women,Hazel Clark-Riley,None,2000
+Athletics,800 metres,Women,Jearl Miles-Clark,None,2000
+Athletics,800 metres,Women,Joetta Clark-Diggs,None,2000
+Athletics,"1,500 metres",Women,Marla Runyan,None,2000
+Athletics,"1,500 metres",Women,Suzy Favor-Hamilton,None,2000
+Athletics,"1,500 metres",Women,Shayne Culpepper,None,2000
+Athletics,"5,000 metres",Women,Elva Dryer,None,2000
+Athletics,"5,000 metres",Women,Amy Rudolph,None,2000
+Athletics,"5,000 metres",Women,Anne Marie Lauck,None,2000
+Athletics,"10,000 metres",Women,Libbie Hickman,None,2000
+Athletics,"10,000 metres",Women,Jen Rhines,None,2000
+Athletics,"10,000 metres",Women,Deena Drossin,None,2000
+Athletics,Marathon,Women,Chris Clark,None,2000
+Athletics,100 metres Hurdles,Women,Melissa Morrison,Bronze,2000
+Athletics,100 metres Hurdles,Women,Sharon Couch-Jewell,None,2000
+Athletics,100 metres Hurdles,Women,Gail Devers,None,2000
+Athletics,400 metres Hurdles,Women,Kim Batten,None,2000
+Athletics,400 metres Hurdles,Women,Sandra Glover,None,2000
+Athletics,400 metres Hurdles,Women,Tonja Buford-Bailey,None,2000
+Athletics,4 × 100 metres Relay,Women,Chryste Gaines•Torri Edwards•Nanceen Perry•Marion Jones•Passion Richardson,None,2000
+Athletics,4 × 400 metres Relay,Women,Jearl Miles-Clark•Monique Hennagan•Marion Jones•LaTasha Colander-Richardson•Andrea Anderson,None,2000
+Athletics,20 kilometres Race Walk,Women,Michelle Rohl,None,2000
+Athletics,20 kilometres Race Walk,Women,Chen Yueling,None,2000
+Athletics,20 kilometres Race Walk,Women,Debbi Lawrence,None,2000
+Athletics,High Jump,Women,Karol Damon,None,2000
+Athletics,High Jump,Women,Erin Aldrich,None,2000
+Athletics,High Jump,Women,Amy Acuff,None,2000
+Athletics,Pole Vault,Women,Stacy Dragila,Gold,2000
+Athletics,Pole Vault,Women,Kellie Suttle,None,2000
+Athletics,Pole Vault,Women,Mel Mueller,None,2000
+Athletics,Long Jump,Women,Dawn Burrell,None,2000
+Athletics,Long Jump,Women,Shana Williams,None,2000
+Athletics,Long Jump,Women,Marion Jones,None,2000
+Athletics,Triple Jump,Women,Nicole Gamble,None,2000
+Athletics,Shot Put,Women,Connie Price-Smith,None,2000
+Athletics,Shot Put,Women,Jesseca Cross,None,2000
+Athletics,Shot Put,Women,Teri Tunks,None,2000
+Athletics,Discus Throw,Women,Seilala Sua,None,2000
+Athletics,Discus Throw,Women,Suzy Powell,None,2000
+Athletics,Discus Throw,Women,Kris Kuehl,None,2000
+Athletics,Hammer Throw,Women,Dawn Ellerbe,None,2000
+Athletics,Hammer Throw,Women,Amy Palmer,None,2000
+Athletics,Hammer Throw,Women,Jesseca Cross,None,2000
+Athletics,Javelin Throw,Women,Lynda Blutreich,None,2000
+Athletics,Heptathlon,Women,DeDee Nathan,None,2000
+Athletics,Heptathlon,Women,Shelia Burrell,None,2000
+Athletics,800 metres Wheelchair,Women,Cheri Becerra,None,2000
+Badminton,Singles,Men,Kevin Han,None,2000
+Baseball,Baseball,Men,Brent Abernathy•Kurt Ainsworth•Pat Borders•Sean Burroughs•John Cotton•Travis Dawkins•Adam Everett•Ryan Franklin•Chris George•Shane Heams•Marcus Jensen•Mike Kinkade•Rick Krivda•Doug Mientkiewicz•Mike Neill•Roy Oswalt•Jon Rauch•Anthony Sanders•Bobby Seay•Ben Sheets•Brad Wilkerson•Todd Williams•Ernie Young•Tim Young,None,2000
+Basketball,Basketball,Men,Allan Houston•Alonzo Mourning•Antonio McDyess•Gary Payton•Jason Kidd•Kevin Garnett•Ray Allen•Shareef Abdur-Rahim•Steve Smith•Tim Hardaway•Vin Baker•Vince Carter,None,2000
+Basketball,Basketball,Women,Ruthie Bolton-Holifield•Teresa Edwards•Yolanda Griffith•Lisa Leslie•Nikki McCray•DeLisha Milton-Jones•Katie Smith•Dawn Staley•Sheryl Swoopes•Natalie Williams•Kara Wolters•Chamique Holdsclaw(DNS),None,2000
+Beach Volleyball,Beach Volleyball,Men,Dain Blanton•Eric Fonoimoana,None,2000
+Beach Volleyball,Beach Volleyball,Men,"Kevin Wong•Rob Heidger, Jr.",None,2000
+Beach Volleyball,Beach Volleyball,Women,Holly McPeak•Misty May,None,2000
+Beach Volleyball,Beach Volleyball,Women,Jenny Johnson-Jordan•Nettie Davis,None,2000
+Boxing,Light-Flyweight,Men,Brian Viloria,None,2000
+Boxing,Flyweight,Men,José Navarro,None,2000
+Boxing,Bantamweight,Men,Clarence Vinson,Bronze,2000
+Boxing,Featherweight,Men,Rocky Juárez,Silver,2000
+Boxing,Lightweight,Men,David Jackson,None,2000
+Boxing,Light-Welterweight,Men,"Ricardo Williams, Jr.",Silver,2000
+Boxing,Welterweight,Men,Dante Craig,None,2000
+Boxing,Light-Middleweight,Men,Jermain Taylor,Bronze,2000
+Boxing,Middleweight,Men,Jeff Lacy,None,2000
+Boxing,Light-Heavyweight,Men,Olanda Anderson,None,2000
+Boxing,Heavyweight,Men,Michael Bennett,None,2000
+Boxing,Super-Heavyweight,Men,Calvin Brock,None,2000
+Canoe Slalom,"Kayak Singles, Slalom",Men,Scott Shipley,None,2000
+Canoe Slalom,"Canadian Singles, Slalom",Men,Davey Hearn,None,2000
+Canoe Slalom,"Canadian Doubles, Slalom",Men,Matt Taylor•Lecky Haller,None,2000
+Canoe Slalom,"Kayak Singles, Slalom",Women,Rebecca Giddens,None,2000
+Canoe Sprint,"Kayak Singles, 500 metres",Men,Stein Jorgensen,None,2000
+Canoe Sprint,"Kayak Doubles, 500 metres",Men,Peter Newton•Ángel Pérez,None,2000
+Canoe Sprint,"Kayak Doubles, 1,000 metres",Men,Philippe Boccara•Cliff Meidl,None,2000
+Canoe Sprint,"Kayak Fours, 1,000 metres",Men,Stein Jorgensen•John Mooney•Peter Newton•Ángel Pérez,None,2000
+Canoe Sprint,"Canadian Singles, 500 metres",Men,Jordan Malloch,None,2000
+Canoe Sprint,"Canadian Singles, 1,000 metres",Men,Jordan Malloch,None,2000
+Canoe Sprint,"Kayak Singles, 500 metres",Women,Kathy Colin,None,2000
+Canoe Sprint,"Kayak Doubles, 500 metres",Women,Tamara Jenkins•Kathy Colin,None,2000
+Cycling Mountain Bike,Cross-Country,Men,Tinker Juarez,None,2000
+Cycling Mountain Bike,Cross-Country,Men,Travis Brown,None,2000
+Cycling Mountain Bike,Cross-Country,Women,Alison Dunlap,None,2000
+Cycling Mountain Bike,Cross-Country,Women,Ruthie Matthes,None,2000
+Cycling Mountain Bike,Cross-Country,Women,Ann Trombley,None,2000
+Cycling Road,"Road Race, Individual",Men,George Hincapie,None,2000
+Cycling Road,"Road Race, Individual",Men,Fred Rodriguez,None,2000
+Cycling Road,"Road Race, Individual",Men,Tyler Hamilton,None,2000
+Cycling Road,"Road Race, Individual",Men,Antonio Cruz,None,2000
+Cycling Road,"Road Race, Individual",Men,Lance Armstrong,None,2000
+Cycling Road,Individual Time Trial,Men,Tyler Hamilton,None,2000
+Cycling Road,Individual Time Trial,Men,Lance Armstrong,None,2000
+Cycling Road,"Road Race, Individual",Women,Nicole Freedman,None,2000
+Cycling Road,"Road Race, Individual",Women,Karen Kurreck,None,2000
+Cycling Road,"Road Race, Individual",Women,Mari Holden,None,2000
+Cycling Road,Individual Time Trial,Women,Mari Holden,Silver,2000
+Cycling Road,Individual Time Trial,Women,Karen Kurreck,None,2000
+Cycling Track,Sprint,Men,Marty Nothstein,Gold,2000
+Cycling Track,Sprint,Men,Chelly Arrue,None,2000
+Cycling Track,"1,000 metres Time Trial",Men,Jonas Carney,None,2000
+Cycling Track,Keirin,Men,Marty Nothstein,None,2000
+Cycling Track,Keirin,Men,Chelly Arrue,None,2000
+Cycling Track,Team Sprint,Men,Chelly Arrue•Johnny Bairos•Jonas Carney,None,2000
+Cycling Track,"Individual Pursuit, 4,000 metres",Men,Mariano Friedick,None,2000
+Cycling Track,"Individual Pursuit, 4,000 metres",Men,Christian Vande Velde,None,2000
+Cycling Track,"Team Pursuit, 4,000 metres",Men,Derek Bouchard-Hall•Mariano Friedick•Tommy Mulkey•Erin Hartwell,None,2000
+Cycling Track,Points Race,Men,J'me Carney,None,2000
+Cycling Track,Sprint,Women,Tanya Lindenmuth,None,2000
+Cycling Track,500 metres Time Trial,Women,Chris Witty,None,2000
+Cycling Track,Individual Pursuit,Women,Erin Mirabella,None,2000
+Cycling Track,Points Race,Women,Erin Mirabella,None,2000
+Diving,Springboard,Men,Troy Dumais,None,2000
+Diving,Springboard,Men,Mark Ruiz,None,2000
+Diving,Platform,Men,Mark Ruiz,None,2000
+Diving,Platform,Men,David Pichler,None,2000
+Diving,Synchronized Springboard,Men,Troy Dumais•David Pichler,None,2000
+Diving,Synchronized Platform,Men,David Pichler•Mark Ruiz,None,2000
+Diving,Springboard,Women,Jenny Keim,None,2000
+Diving,Springboard,Women,Michelle Davison,None,2000
+Diving,Platform,Women,Laura Wilkinson,Gold,2000
+Diving,Platform,Women,Sara Reiling,None,2000
+Diving,Synchronized Platform,Women,Jenny Keim•Laura Wilkinson,None,2000
+Equestrian Dressage,Individual,Open,Sue Blinks,None,2000
+Equestrian Dressage,Individual,Open,Christine Traurig,None,2000
+Equestrian Dressage,Individual,Open,Robert Dover,None,2000
+Equestrian Dressage,Individual,Open,Guenter Seidel,None,2000
+Equestrian Dressage,Team,Open,Christine Traurig•Sue Blinks•Guenter Seidel•Robert Dover,None,2000
+Equestrian Eventing,Individual,Open,David O'Connor,Gold,2000
+Equestrian Eventing,Individual,Open,Robert Costello,None,2000
+Equestrian Eventing,Individual,Open,Julie Black-Burns,None,2000
+Equestrian Eventing,Team,Open,Karen O'Connor•David O'Connor•Nina Fout•Linden Wiesman,None,2000
+Equestrian Jumping,Individual,Open,Margie Goldstein-Engle,None,2000
+Equestrian Jumping,Individual,Open,Lauren Hough,None,2000
+Equestrian Jumping,Individual,Open,Laura Kraut,None,2000
+Equestrian Jumping,Individual,Open,Nona Garson,None,2000
+Equestrian Jumping,Team,Open,Margie Goldstein-Engle•Laura Kraut•Lauren Hough•Nona Garson,None,2000
+Fencing,"Foil, Individual",Men,Cliff Bayer,None,2000
+Fencing,"Épée, Individual",Men,Tamir Bloom,None,2000
+Fencing,"Sabre, Individual",Men,Keeth Smart,None,2000
+Fencing,"Sabre, Individual",Men,Akhi Spencer-El,None,2000
+Fencing,"Foil, Individual",Women,Iris Zimmermann,None,2000
+Fencing,"Foil, Individual",Women,Ann Marsh,None,2000
+Fencing,"Foil, Individual",Women,Felicia Zimmermann,None,2000
+Fencing,"Foil, Team",Women,Ann Marsh•Iris Zimmermann•Felicia Zimmermann,None,2000
+Fencing,"Épée, Individual",Women,Arlene Stevens,None,2000
+Football,Football,Men,Josh Wolff•Ben Olsen•Brad Friedel•Brian Dunseth•Chad McCarty•Chris Albright•Conor Casey•Danny Califf•Evan Whitfield•Frankie Hejduk•Jeff Agoos•Joey DiGiamarino•John O'Brien•Landon Donovan•Pete Vagenas•Ramiro Corrales•Sasha Victorine•DaMarcus Beasley(DNS)•Chris Brown(DNS)•Tim Howard(DNS)•Matt Napoleon(DNS)•Brian Winters(DNS),None,2000
+Football,Football,Women,Brandi Chastain•Christie Pearce•Cindy Parlow•Joy Fawcett•Julie Foudy•Kate Sobrero•Kristine Lilly•Lorrie Fair•Mia Hamm•Nikki Serlenga•Shannon MacMillan•Siri Mullinix•Tiffeny Milbrett•Carla Overbeck(DNS)•Briana Scurry(DNS)•Aly Wagner(DNS)•Jenni Branam(DNS)•Susan Bush(DNS)•Michelle French(DNS)•Danielle Slaton(DNS)•Christie Welsh(DNS)•Sara Whalen(DNS),None,2000
+Judo,Extra-Lightweight,Men,Brandan Greczkowski,None,2000
+Judo,Half-Lightweight,Men,Alex Ottiano,None,2000
+Judo,Lightweight,Men,Jimmy Pedro,None,2000
+Judo,Half-Middleweight,Men,Jason Morris,None,2000
+Judo,Middleweight,Men,Brian Olson,None,2000
+Judo,Half-Heavyweight,Men,Ato Hand,None,2000
+Judo,Heavyweight,Men,Martin Boonzaayer,None,2000
+Judo,Extra-Lightweight,Women,Lauren Meece,None,2000
+Judo,Half-Lightweight,Women,Hillary Wolf,None,2000
+Judo,Lightweight,Women,Ellen Wilson,None,2000
+Judo,Half-Middleweight,Women,Celita Schutz,None,2000
+Judo,Middleweight,Women,Sandy Bacher,None,2000
+Judo,Half-Heavyweight,Women,Amy Tong,None,2000
+Judo,Heavyweight,Women,Colleen Rosensteel,None,2000
+Modern Pentathlon,Individual,Men,Chad Senior,None,2000
+Modern Pentathlon,Individual,Men,Velizar Iliev,None,2000
+Modern Pentathlon,Individual,Women,Emily deRiel,Silver,2000
+Modern Pentathlon,Individual,Women,Mary Beth Iagorashvili,None,2000
+Rowing,Single Sculls,Men,Don Smith,None,2000
+Rowing,Double Sculls,Men,Henry Nuzum•Mike Ferry,None,2000
+Rowing,Coxless Pairs,Men,Ted Murphy•Sebastian Bea,None,2000
+Rowing,Quadruple Sculls,Men,Sean Hall•Nick Peterson•Ian McGowan•Jake Wetzel,None,2000
+Rowing,Coxless Fours,Men,Mike Wherley•Eric Mueller•Jamie Koven•Wolf Moser,None,2000
+Rowing,Eights,Men,Bryan Volpenhein•Bob Kaehler•Porter Collins•Thomas Welsh•Dave Simon•Chris Ahrens•Garrett Miller•Jeff Klepacki•Pete Cipollone,None,2000
+Rowing,Lightweight Double Sculls,Men,Steve Tucker•Conal Groom,None,2000
+Rowing,Lightweight Coxless Fours,Men,Marc Schneider•Greg Ruckman•Paul Teti•Tom Auth,None,2000
+Rowing,Single Sculls,Women,Monica Tranel Michini,None,2000
+Rowing,Double Sculls,Women,Carol Skricki•Ruth Davidon,None,2000
+Rowing,Coxless Pairs,Women,Missy Ryan•Karen Kraft,None,2000
+Rowing,Quadruple Sculls,Women,Hilary Gehman•Jennifer Dore•Laurel Korholz•Kelly Salchow,None,2000
+Rowing,Eights,Women,Katie Maloney•Linda Miller•Amy Martin•Betsy McCagg•Torrey Folk•Amy Fuller•Sarah Jones•Lianne Nelson•Raj Shah,None,2000
+Rowing,Lightweight Double Sculls,Women,Christine Collins•Sarah Garner,None,2000
+Sailing,Windsurfer,Men,Mike Gebhardt,None,2000
+Sailing,One Person Dinghy,Men,Russ Silvestri,None,2000
+Sailing,Two Person Dinghy,Men,Paul Foerster•Bob Merrick,None,2000
+Sailing,One Person Dinghy,Open,John Myrdal,None,2000
+Sailing,Two Person Keelboat,Open,Mark Reynolds•Magnus Liljedahl,None,2000
+Sailing,Skiff,Open,Jonathan McKee•Charlie McKee,None,2000
+Sailing,Multihull,Open,John Lovell•Charlie Ogletree,None,2000
+Sailing,Three Person Keelboat,Open,Jeff Madrigali•Craig Healy•Hartwell Jordan,None,2000
+Sailing,Windsurfer,Women,Lanee Butler,None,2000
+Sailing,One Person Dinghy,Women,Courtenay Becker-Dey,None,2000
+Sailing,Two Person Dinghy,Women,JJ Isler•Pease Glaser,None,2000
+Shooting,"Air Pistol, 10 metres",Men,Michael Douglass,None,2000
+Shooting,"Air Pistol, 10 metres",Men,Bill Demarest,None,2000
+Shooting,"Rapid-Fire Pistol, 25 metres",Men,John McNally,None,2000
+Shooting,"Free Pistol, 50 metres",Men,Bill Demarest,None,2000
+Shooting,"Free Pistol, 50 metres",Men,Daryl Szarenski,None,2000
+Shooting,"Air Rifle, 10 metres",Men,Jason Parker,None,2000
+Shooting,"Air Rifle, 10 metres",Men,Ken Johnson,None,2000
+Shooting,"Small-Bore Rifle, Three Positions, 50 metres",Men,Mike Anti,None,2000
+Shooting,"Small-Bore Rifle, Three Positions, 50 metres",Men,Glenn Dubis,None,2000
+Shooting,"Small-Bore Rifle, Prone, 50 metres",Men,Glenn Dubis,None,2000
+Shooting,"Small-Bore Rifle, Prone, 50 metres",Men,Tom Tamas,None,2000
+Shooting,"Running Target, 10 metres",Men,Adam Saathoff,None,2000
+Shooting,"Running Target, 10 metres",Men,Lance Dement,None,2000
+Shooting,Trap,Men,Lance Bade,None,2000
+Shooting,Trap,Men,Josh Lakatos,None,2000
+Shooting,Double Trap,Men,Lance Bade,None,2000
+Shooting,Double Trap,Men,Glenn Eller,None,2000
+Shooting,Double Trap,Men,Bill Keever,None,2000
+Shooting,Skeet,Men,Todd Graves,Bronze,2000
+Shooting,Skeet,Men,"Michael Schmidt, Jr.",None,2000
+Shooting,"Air Pistol, 10 metres",Women,Beki Snyder,None,2000
+Shooting,"Air Pistol, 10 metres",Women,Christina Cassidy,None,2000
+Shooting,"Sporting Pistol, 25 metres",Women,Beki Snyder,None,2000
+Shooting,"Sporting Pistol, 25 metres",Women,Janine Bowman,None,2000
+Shooting,"Air Rifle, 10 metres",Women,Nancy Napolski-Johnson,Gold,2000
+Shooting,"Air Rifle, 10 metres",Women,Jayme Dickman,None,2000
+Shooting,"Small-Bore Rifle, Three Positions, 50 metres",Women,Melissa Mulloy,None,2000
+Shooting,"Small-Bore Rifle, Three Positions, 50 metres",Women,Jean Foster,None,2000
+Shooting,"Small-Bore Rifle, Three Positions, 50 metres",Women,Thrine Kane,None,2000
+Shooting,Trap,Women,Cindy Gentry,None,2000
+Shooting,Double Trap,Women,Kim Rhode,Bronze,2000
+Shooting,Double Trap,Women,Cindy Gentry,None,2000
+Shooting,Skeet,Women,Cindy Shenberger,None,2000
+Shooting,Skeet,Women,Kim Rhode,None,2000
+Softball,Softball,Women,Dot Richardson•Laura Berg•Lisa Fernandez•Crystl Bustos•Sheila Douty•Jennifer McFalls•Jennifer Brundage•Stacey Nuveman•Leah O'Brien-Amico•Christie Ambrosi•Lori Harrigan•Danielle Henderson•Christa Williams•Michelle Venturella•Michele Smith,None,2000
+Swimming,50 metres Freestyle,Men,"Gary Hall, Jr.",Gold,2000
+Swimming,50 metres Freestyle,Men,Anthony Ervin,Gold,2000
+Swimming,100 metres Freestyle,Men,"Gary Hall, Jr.",Bronze,2000
+Swimming,100 metres Freestyle,Men,Neil Walker,None,2000
+Swimming,200 metres Freestyle,Men,Josh Davis,None,2000
+Swimming,200 metres Freestyle,Men,Scott Goldblatt,None,2000
+Swimming,400 metres Freestyle,Men,Klete Keller,Bronze,2000
+Swimming,400 metres Freestyle,Men,Chad Carvin,None,2000
+Swimming,"1,500 metres Freestyle",Men,Chris Thompson,Bronze,2000
+Swimming,"1,500 metres Freestyle",Men,Erik Vendt,None,2000
+Swimming,4 × 100 metres Freestyle Relay,Men,"Anthony Ervin•Neil Walker•Jason Lezak•Gary Hall, Jr.•Josh Davis•Scott Tucker",None,2000
+Swimming,4 × 200 metres Freestyle Relay,Men,Scott Goldblatt•Josh Davis•Jamie Rauch•Klete Keller•Chad Carvin•Nate Dusing,None,2000
+Swimming,100 metres Backstroke,Men,Lenny Krayzelburg,Gold,2000
+Swimming,100 metres Backstroke,Men,Neil Walker,None,2000
+Swimming,200 metres Backstroke,Men,Lenny Krayzelburg,Gold,2000
+Swimming,200 metres Backstroke,Men,Aaron Peirsol,Silver,2000
+Swimming,100 metres Breaststroke,Men,Ed Moses,Silver,2000
+Swimming,100 metres Breaststroke,Men,Pat Calhoun,None,2000
+Swimming,200 metres Breaststroke,Men,Kyle Salyards,None,2000
+Swimming,200 metres Breaststroke,Men,Tom Wilkens,None,2000
+Swimming,100 metres Butterfly,Men,Ian Crocker,None,2000
+Swimming,100 metres Butterfly,Men,Tommy Hannan,None,2000
+Swimming,200 metres Butterfly,Men,Tom Malchow,Gold,2000
+Swimming,200 metres Butterfly,Men,Michael Phelps,None,2000
+Swimming,200 metres Individual Medley,Men,Tom Dolan,Silver,2000
+Swimming,200 metres Individual Medley,Men,Tom Wilkens,Bronze,2000
+Swimming,400 metres Individual Medley,Men,Tom Dolan,Gold,2000
+Swimming,400 metres Individual Medley,Men,Erik Vendt,Silver,2000
+Swimming,4 × 100 metres Medley Relay,Men,"Lenny Krayzelburg•Ed Moses•Ian Crocker•Gary Hall, Jr.•Tommy Hannan•Jason Lezak•Neil Walker",None,2000
+Swimming,50 metres Freestyle,Women,Dara Torres,Bronze,2000
+Swimming,50 metres Freestyle,Women,Amy Van Dyken,None,2000
+Swimming,100 metres Freestyle,Women,Jenny Thompson,Bronze,2000
+Swimming,100 metres Freestyle,Women,Dara Torres,Bronze,2000
+Swimming,200 metres Freestyle,Women,Lindsay Benko,None,2000
+Swimming,200 metres Freestyle,Women,Rada Owen,None,2000
+Swimming,400 metres Freestyle,Women,Brooke Bennett,Gold,2000
+Swimming,400 metres Freestyle,Women,Diana Munz,Silver,2000
+Swimming,800 metres Freestyle,Women,Brooke Bennett,Gold,2000
+Swimming,800 metres Freestyle,Women,Kaitlin Sandeno,Bronze,2000
+Swimming,4 × 100 metres Freestyle Relay,Women,Amy Van Dyken•Dara Torres•Courtney Shealy•Jenny Thompson•Erin Phenix•Ashley Tappin,None,2000
+Swimming,4 × 200 metres Freestyle Relay,Women,Sam Arsenault•Diana Munz•Lindsay Benko•Jenny Thompson•Kim Black•Julia Stowers,None,2000
+Swimming,100 metres Backstroke,Women,B. J. Bedford,None,2000
+Swimming,100 metres Backstroke,Women,Courtney Shealy,None,2000
+Swimming,200 metres Backstroke,Women,Amanda Adkins,None,2000
+Swimming,200 metres Backstroke,Women,Lindsay Benko,None,2000
+Swimming,100 metres Breaststroke,Women,Megan Quann,Gold,2000
+Swimming,100 metres Breaststroke,Women,Staciana Stitts,None,2000
+Swimming,200 metres Breaststroke,Women,Kristy Kowal,Silver,2000
+Swimming,200 metres Breaststroke,Women,Amanda Beard,Bronze,2000
+Swimming,100 metres Butterfly,Women,Dara Torres,Bronze,2000
+Swimming,100 metres Butterfly,Women,Jenny Thompson,None,2000
+Swimming,200 metres Butterfly,Women,Misty Hyman,Gold,2000
+Swimming,200 metres Butterfly,Women,Kaitlin Sandeno,None,2000
+Swimming,200 metres Individual Medley,Women,Cristina Teuscher,Bronze,2000
+Swimming,200 metres Individual Medley,Women,Gabrielle Rose,None,2000
+Swimming,400 metres Individual Medley,Women,Kaitlin Sandeno,None,2000
+Swimming,400 metres Individual Medley,Women,Maddy Crippen,None,2000
+Swimming,4 × 100 metres Medley Relay,Women,B. J. Bedford•Megan Quann•Jenny Thompson•Dara Torres•Courtney Shealy•Staciana Stitts•Ashley Tappin•Amy Van Dyken,None,2000
+Table Tennis,Singles,Men,Yinghua Cheng,None,2000
+Table Tennis,Singles,Men,David Zhuang,None,2000
+Table Tennis,Doubles,Men,David Zhuang•Todd Sweeris,None,2000
+Table Tennis,Doubles,Men,Yinghua Cheng•Khoa Dinh Nguyen,None,2000
+Table Tennis,Singles,Women,Jun Gao,None,2000
+Table Tennis,Singles,Women,Jasna Reed,None,2000
+Table Tennis,Singles,Women,Tawny Banh,None,2000
+Table Tennis,Doubles,Women,Jun Gao•Michelle Do,None,2000
+Table Tennis,Doubles,Women,Jasna Reed•Tawny Banh,None,2000
+Taekwondo,Flyweight,Men,Juan Miguel Moreno,None,2000
+Taekwondo,Featherweight,Men,Steven Lopez,Gold,2000
+Taekwondo,Flyweight,Women,Kay Poe,None,2000
+Taekwondo,Welterweight,Women,Barbara Kunkel,None,2000
+Tennis,Singles,Men,Jeff Tarango,None,2000
+Tennis,Singles,Men,Michael Chang,None,2000
+Tennis,Singles,Men,Todd Martin,None,2000
+Tennis,Singles,Men,Vince Spadea,None,2000
+Tennis,Doubles,Men,Alex O'Brien•Jared Palmer,None,2000
+Tennis,Singles,Women,Venus Williams,Gold,2000
+Tennis,Singles,Women,Monica Seles,Bronze,2000
+Tennis,Singles,Women,Lindsay Davenport,None,2000
+Tennis,Doubles,Women,Serena Williams•Venus Williams,None,2000
+Trampolining,Individual,Women,Jennifer Parilla,None,2000
+Triathlon,Olympic Distance,Men,Hunter Kemper,None,2000
+Triathlon,Olympic Distance,Men,Ryan Bolton,None,2000
+Triathlon,Olympic Distance,Men,Nick Radkewich,None,2000
+Triathlon,Olympic Distance,Women,Joanna Zeiger,None,2000
+Triathlon,Olympic Distance,Women,Sheila Taormina,None,2000
+Triathlon,Olympic Distance,Women,Jennifer Gutierrez,None,2000
+Volleyball,Volleyball,Men,Andy Witt•Chip McCaw•Dan Landry•Erik Sullivan•George Roumain•Jeff Nygaard•John Hyden•Kevin Barnett•Lloy Ball•Mike Lambert•Ryan Millar•Tom Hoff,None,2000
+Volleyball,Volleyball,Women,Allison Weston•Charlene Tagaloa•Danielle Scott•Demetria Sance•Heather Bown•Kerri Walsh•Logan Tom•Mickisha Hurley•Robyn Ah Mow•Sarah Noriega•Stacy Sykora•Tara Cross-Battle,None,2000
+Water Polo,Water Polo,Men,Brad Schumacher•Chi Kredell•Chris Humbert•Chris Oeding•Dan Hackett•Gavin Arroyo•Kyle Kopp•Robert Lynn•Ryan Bailey•Sean Kern•Sean Nolan•Tony Azevedo•Wolf Wigo,None,2000
+Water Polo,Water Polo,Women,Robin Beauregard•Ellen Estes•Courtney Johnson•Ericka Lorenz•Heather Moody•Mo O'Toole•Bernice Orwig•Nicolle Payne•Heather Petri•Kathy Sheehy•Coralie Simmons•Julie Swail•Brenda Villa,None,2000
+Weightlifting,Middleweight,Men,"Oscar Chaplin, III",None,2000
+Weightlifting,Super-Heavyweight,Men,Shane Hamman,None,2000
+Weightlifting,Flyweight,Women,Tara Nott,Gold,2000
+Weightlifting,Flyweight,Women,Robin Goad,None,2000
+Weightlifting,Heavyweight,Women,Cara Heads-Lane,None,2000
+Weightlifting,Super-Heavyweight,Women,Cheryl Haworth,Bronze,2000
+Wrestling,"Bantamweight, Greco-Roman",Men,Steven Mays,None,2000
+Wrestling,"Featherweight, Greco-Roman",Men,Jim Gruenwald,None,2000
+Wrestling,"Lightweight, Greco-Roman",Men,Kevin Bracken,None,2000
+Wrestling,"Welterweight, Greco-Roman",Men,Heath Sims,None,2000
+Wrestling,"Middleweight, Greco-Roman",Men,Matt Lindland,Silver,2000
+Wrestling,"Light-Heavyweight, Greco-Roman",Men,Quincey Clark,None,2000
+Wrestling,"Heavyweight, Greco-Roman",Men,Garrett Lowney,Bronze,2000
+Wrestling,"Super-Heavyweight, Greco-Roman",Men,Rulon Gardner,Gold,2000
+Wrestling,"Bantamweight, Freestyle",Men,Sammie Henson,Silver,2000
+Wrestling,"Featherweight, Freestyle",Men,Terry Brands,Bronze,2000
+Wrestling,"Lightweight, Freestyle",Men,Cary Kolat,None,2000
+Wrestling,"Welterweight, Freestyle",Men,Lincoln McIlravy,Bronze,2000
+Wrestling,"Middleweight, Freestyle",Men,Brandon Slay,Gold,2000
+Wrestling,"Light-Heavyweight, Freestyle",Men,Charles Burton,None,2000
+Wrestling,"Heavyweight, Freestyle",Men,Melvin Douglas,None,2000
+Wrestling,"Super-Heavyweight, Freestyle",Men,Kerry McCoy,None,2000

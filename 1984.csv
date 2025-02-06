@@ -1,24 +1,449 @@
-Sport,Gold,Silver,Bronze,Total
-Swimming,21,13,0,34
-Athletics,16,15,9,40
-Wrestling,9,3,1,13
-Boxing,9,1,1,11
-Gymnastics,5,5,6,16
-Cycling,4,3,2,9
-Sailing,3,4,0,7
-Equestrian,3,2,0,5
-Shooting,3,1,2,6
-Rowing,2,5,1,8
-Diving,2,3,3,8
-Basketball,2,0,0,2
-Synchronized swimming,2,0,0,2
-Archery,1,1,0,2
-Volleyball,1,1,0,2
-Judo,0,1,1,2
-Weightlifting,0,1,1,2
-Modern pentathlon,0,1,0,1
-Water polo,0,1,0,1
-Canoeing,0,0,1,1
-Fencing,0,0,1,1
-Field hockey,0,0,1,1
-Total,83,61,30,174
+Sport,Event,Gender,Athlete,Medal,Year
+Archery,Individual,Men,Darrell Pace,Gold,1984
+Archery,Individual,Men,Rick McKinney,Silver,1984
+Archery,Individual,Men,Glenn Meyers,None,1984
+Archery,Individual,Women,Trena King,None,1984
+Archery,Individual,Women,Ruth Rowe,None,1984
+Archery,Individual,Women,Benita Edds,None,1984
+Artistic Gymnastics,Individual All-Around,Men,Peter Vidmar,Silver,1984
+Artistic Gymnastics,Individual All-Around,Men,Mitch Gaylord,None,1984
+Artistic Gymnastics,Individual All-Around,Men,Bart Conner,None,1984
+Artistic Gymnastics,Individual All-Around,Men,Tim Daggett,None,1984
+Artistic Gymnastics,Individual All-Around,Men,Jim Hartung,None,1984
+Artistic Gymnastics,Individual All-Around,Men,Scott Johnson,None,1984
+Artistic Gymnastics,Team All-Around,Men,Peter Vidmar•Bart Conner•Mitch Gaylord•Tim Daggett•Jim Hartung•Scott Johnson,None,1984
+Artistic Gymnastics,Floor Exercise,Men,Bart Conner,None,1984
+Artistic Gymnastics,Floor Exercise,Men,Peter Vidmar,None,1984
+Artistic Gymnastics,Floor Exercise,Men,Jim Hartung,None,1984
+Artistic Gymnastics,Floor Exercise,Men,Scott Johnson,None,1984
+Artistic Gymnastics,Floor Exercise,Men,Mitch Gaylord,None,1984
+Artistic Gymnastics,Floor Exercise,Men,Tim Daggett,None,1984
+Artistic Gymnastics,Horse Vault,Men,Mitch Gaylord,Silver,1984
+Artistic Gymnastics,Horse Vault,Men,Jim Hartung,None,1984
+Artistic Gymnastics,Horse Vault,Men,Scott Johnson,None,1984
+Artistic Gymnastics,Horse Vault,Men,Bart Conner,None,1984
+Artistic Gymnastics,Horse Vault,Men,Peter Vidmar,None,1984
+Artistic Gymnastics,Horse Vault,Men,Tim Daggett,None,1984
+Artistic Gymnastics,Parallel Bars,Men,Bart Conner,Gold,1984
+Artistic Gymnastics,Parallel Bars,Men,Mitch Gaylord,Bronze,1984
+Artistic Gymnastics,Parallel Bars,Men,Peter Vidmar,None,1984
+Artistic Gymnastics,Parallel Bars,Men,Tim Daggett,None,1984
+Artistic Gymnastics,Parallel Bars,Men,Jim Hartung,None,1984
+Artistic Gymnastics,Parallel Bars,Men,Scott Johnson,None,1984
+Artistic Gymnastics,Horizontal Bar,Men,Tim Daggett,None,1984
+Artistic Gymnastics,Horizontal Bar,Men,Peter Vidmar,None,1984
+Artistic Gymnastics,Horizontal Bar,Men,Bart Conner,None,1984
+Artistic Gymnastics,Horizontal Bar,Men,Jim Hartung,None,1984
+Artistic Gymnastics,Horizontal Bar,Men,Mitch Gaylord,None,1984
+Artistic Gymnastics,Horizontal Bar,Men,Scott Johnson,None,1984
+Artistic Gymnastics,Rings,Men,Mitch Gaylord,Bronze,1984
+Artistic Gymnastics,Rings,Men,Peter Vidmar,None,1984
+Artistic Gymnastics,Rings,Men,Tim Daggett,None,1984
+Artistic Gymnastics,Rings,Men,Jim Hartung,None,1984
+Artistic Gymnastics,Rings,Men,Bart Conner,None,1984
+Artistic Gymnastics,Rings,Men,Scott Johnson,None,1984
+Artistic Gymnastics,Pommelled Horse,Men,Peter Vidmar,Gold,1984
+Artistic Gymnastics,Pommelled Horse,Men,Tim Daggett,Bronze,1984
+Artistic Gymnastics,Pommelled Horse,Men,Mitch Gaylord,None,1984
+Artistic Gymnastics,Pommelled Horse,Men,Bart Conner,None,1984
+Artistic Gymnastics,Pommelled Horse,Men,Jim Hartung,None,1984
+Artistic Gymnastics,Pommelled Horse,Men,Scott Johnson,None,1984
+Artistic Gymnastics,Individual All-Around,Women,Mary Lou Retton,Gold,1984
+Artistic Gymnastics,Individual All-Around,Women,Julianne McNamara,None,1984
+Artistic Gymnastics,Individual All-Around,Women,Kathy Johnson,None,1984
+Artistic Gymnastics,Individual All-Around,Women,Michelle Dusserre,None,1984
+Artistic Gymnastics,Individual All-Around,Women,Tracee Talavera,None,1984
+Artistic Gymnastics,Individual All-Around,Women,Pam Bileck,None,1984
+Artistic Gymnastics,Team All-Around,Women,Mary Lou Retton•Julianne McNamara•Kathy Johnson•Michelle Dusserre•Tracee Talavera•Pam Bileck,None,1984
+Artistic Gymnastics,Floor Exercise,Women,Julianne McNamara,Silver,1984
+Artistic Gymnastics,Floor Exercise,Women,Mary Lou Retton,Bronze,1984
+Artistic Gymnastics,Floor Exercise,Women,Michelle Dusserre,None,1984
+Artistic Gymnastics,Floor Exercise,Women,Pam Bileck,None,1984
+Artistic Gymnastics,Floor Exercise,Women,Kathy Johnson,None,1984
+Artistic Gymnastics,Floor Exercise,Women,Tracee Talavera,None,1984
+Artistic Gymnastics,Horse Vault,Women,Mary Lou Retton,Silver,1984
+Artistic Gymnastics,Horse Vault,Women,Tracee Talavera,None,1984
+Artistic Gymnastics,Horse Vault,Women,Kathy Johnson,None,1984
+Artistic Gymnastics,Horse Vault,Women,Julianne McNamara,None,1984
+Artistic Gymnastics,Horse Vault,Women,Michelle Dusserre,None,1984
+Artistic Gymnastics,Horse Vault,Women,Pam Bileck,None,1984
+Artistic Gymnastics,Uneven Bars,Women,Julianne McNamara,Gold,1984
+Artistic Gymnastics,Uneven Bars,Women,Mary Lou Retton,Bronze,1984
+Artistic Gymnastics,Uneven Bars,Women,Michelle Dusserre,None,1984
+Artistic Gymnastics,Uneven Bars,Women,Kathy Johnson,None,1984
+Artistic Gymnastics,Uneven Bars,Women,Tracee Talavera,None,1984
+Artistic Gymnastics,Uneven Bars,Women,Pam Bileck,None,1984
+Artistic Gymnastics,Balance Beam,Women,Kathy Johnson,Bronze,1984
+Artistic Gymnastics,Balance Beam,Women,Mary Lou Retton,None,1984
+Artistic Gymnastics,Balance Beam,Women,Pam Bileck,None,1984
+Artistic Gymnastics,Balance Beam,Women,Julianne McNamara,None,1984
+Artistic Gymnastics,Balance Beam,Women,Tracee Talavera,None,1984
+Artistic Gymnastics,Balance Beam,Women,Michelle Dusserre,None,1984
+Artistic Swimming,Solo,Women,Tracie Ruiz,Gold,1984
+Artistic Swimming,Solo,Women,Candy Costie,None,1984
+Artistic Swimming,Solo,Women,Sarah Josephson,None,1984
+Artistic Swimming,Duet,Women,Tracie Ruiz•Candy Costie,None,1984
+Athletics,100 metres,Men,Carl Lewis,Gold,1984
+Athletics,100 metres,Men,Sam Graddy,Silver,1984
+Athletics,100 metres,Men,Ron Brown,None,1984
+Athletics,200 metres,Men,Carl Lewis,Gold,1984
+Athletics,200 metres,Men,Kirk Baptiste,Silver,1984
+Athletics,200 metres,Men,Thomas Jefferson,Bronze,1984
+Athletics,400 metres,Men,Alonzo Babers,Gold,1984
+Athletics,400 metres,Men,Antonio McKay,Bronze,1984
+Athletics,400 metres,Men,Sunder Nix,None,1984
+Athletics,800 metres,Men,Earl Jones,Bronze,1984
+Athletics,800 metres,Men,Johnny Gray,None,1984
+Athletics,800 metres,Men,John Marshall,None,1984
+Athletics,"1,500 metres",Men,Jim Spivey,None,1984
+Athletics,"1,500 metres",Men,Steve Scott,None,1984
+Athletics,"1,500 metres",Men,Sydney Maree,None,1984
+Athletics,"5,000 metres",Men,Doug Padilla,None,1984
+Athletics,"5,000 metres",Men,Steve Lacy,None,1984
+Athletics,"5,000 metres",Men,Don Clary,None,1984
+Athletics,"10,000 metres",Men,Pat Porter,None,1984
+Athletics,"10,000 metres",Men,Craig Virgin,None,1984
+Athletics,"10,000 metres",Men,Paul Cummings,None,1984
+Athletics,Marathon,Men,Pete Pfitzinger,None,1984
+Athletics,Marathon,Men,Alberto Salazar,None,1984
+Athletics,Marathon,Men,John Tuttle,None,1984
+Athletics,110 metres Hurdles,Men,Roger Kingdom,Gold,1984
+Athletics,110 metres Hurdles,Men,Greg Foster,Silver,1984
+Athletics,110 metres Hurdles,Men,Tonie Campbell,None,1984
+Athletics,400 metres Hurdles,Men,Edwin Moses,Gold,1984
+Athletics,400 metres Hurdles,Men,Danny Harris,Silver,1984
+Athletics,400 metres Hurdles,Men,Tranel Hawkins,None,1984
+Athletics,"3,000 metres Steeplechase",Men,Brian Diemer,Bronze,1984
+Athletics,"3,000 metres Steeplechase",Men,Henry Marsh,None,1984
+Athletics,"3,000 metres Steeplechase",Men,"John Gregorek, Sr.",None,1984
+Athletics,4 × 100 metres Relay,Men,Sam Graddy•Ron Brown•Calvin Smith•Carl Lewis•Harvey Glance(DNS)•Emmit King(DNS),None,1984
+Athletics,4 × 400 metres Relay,Men,Sunder Nix•Ray Armstead•Alonzo Babers•Antonio McKay•Walter McCoy•Willie Smith,None,1984
+Athletics,20 kilometres Race Walk,Men,Marco Evoniuk,None,1984
+Athletics,20 kilometres Race Walk,Men,Jim Heiring,None,1984
+Athletics,20 kilometres Race Walk,Men,Dan O'Connor,None,1984
+Athletics,50 kilometres Race Walk,Men,Carl Schueler,None,1984
+Athletics,50 kilometres Race Walk,Men,Vince O'Sullivan,None,1984
+Athletics,50 kilometres Race Walk,Men,Marco Evoniuk,None,1984
+Athletics,High Jump,Men,Dwight Stones,None,1984
+Athletics,High Jump,Men,Doug Nordquist,None,1984
+Athletics,High Jump,Men,Milton Goode,None,1984
+Athletics,Pole Vault,Men,Mike Tully,Silver,1984
+Athletics,Pole Vault,Men,Earl Bell,Bronze,1984
+Athletics,Pole Vault,Men,Doug Lytle,None,1984
+Athletics,Long Jump,Men,Carl Lewis,Gold,1984
+Athletics,Long Jump,Men,Larry Myricks,None,1984
+Athletics,Long Jump,Men,Mike McRae,None,1984
+Athletics,Triple Jump,Men,Al Joyner,Gold,1984
+Athletics,Triple Jump,Men,Mike Conley,Silver,1984
+Athletics,Triple Jump,Men,Willie Banks,None,1984
+Athletics,Shot Put,Men,Mike Carter,Silver,1984
+Athletics,Shot Put,Men,Dave Laut,Bronze,1984
+Athletics,Shot Put,Men,Augie Wolf,None,1984
+Athletics,Discus Throw,Men,Mac Wilkins,Silver,1984
+Athletics,Discus Throw,Men,John Powell,Bronze,1984
+Athletics,Discus Throw,Men,Art Burns,None,1984
+Athletics,Hammer Throw,Men,Bill Green,None,1984
+Athletics,Hammer Throw,Men,Jud Logan,None,1984
+Athletics,Hammer Throw,Men,Ed Burke,None,1984
+Athletics,Javelin Throw,Men,Tom Petranoff,None,1984
+Athletics,Javelin Throw,Men,Duncan Atwood,None,1984
+Athletics,Javelin Throw,Men,Steve Roller,None,1984
+Athletics,Decathlon,Men,John Crist,None,1984
+Athletics,Decathlon,Men,Jim Wooding,None,1984
+Athletics,Decathlon,Men,Tim Bright,None,1984
+Athletics,"1,500 metres Wheelchair",Men,Randy Snow,None,1984
+Athletics,"1,500 metres Wheelchair",Men,Jim Martinson,None,1984
+Athletics,100 metres,Women,Evelyn Ashford,Gold,1984
+Athletics,100 metres,Women,Alice Brown,Silver,1984
+Athletics,100 metres,Women,Jeanette Bolden,None,1984
+Athletics,200 metres,Women,Valerie Brisco-Hooks,Gold,1984
+Athletics,200 metres,Women,Florence Griffith,Silver,1984
+Athletics,200 metres,Women,Randy Givens,None,1984
+Athletics,400 metres,Women,Valerie Brisco-Hooks,Gold,1984
+Athletics,400 metres,Women,Chandra Cheeseborough,Silver,1984
+Athletics,400 metres,Women,Lillie Leatherwood,None,1984
+Athletics,800 metres,Women,Kim Gallagher,Silver,1984
+Athletics,800 metres,Women,Ruth Wysocki,None,1984
+Athletics,800 metres,Women,Robin Campbell,None,1984
+Athletics,"1,500 metres",Women,Ruth Wysocki,None,1984
+Athletics,"1,500 metres",Women,Missy Kane,None,1984
+Athletics,"1,500 metres",Women,Diana Richburg,None,1984
+Athletics,"3,000 metres",Women,Cindy Bremser,None,1984
+Athletics,"3,000 metres",Women,Joan Hansen,None,1984
+Athletics,"3,000 metres",Women,Mary Decker,None,1984
+Athletics,Marathon,Women,Joan Benoit,Gold,1984
+Athletics,Marathon,Women,Julie Brown,None,1984
+Athletics,Marathon,Women,Julie Isphording,None,1984
+Athletics,100 metres Hurdles,Women,Benita Fitzgerald-Brown,Gold,1984
+Athletics,100 metres Hurdles,Women,Kim Turner,Bronze,1984
+Athletics,100 metres Hurdles,Women,Pam Page,None,1984
+Athletics,400 metres Hurdles,Women,Judi Brown,Silver,1984
+Athletics,400 metres Hurdles,Women,Sharrieffa Barksdale,None,1984
+Athletics,400 metres Hurdles,Women,Angie Wright-Scott,None,1984
+Athletics,4 × 100 metres Relay,Women,Alice Brown•Jeanette Bolden•Chandra Cheeseborough•Evelyn Ashford•Brenda Cliette(DNS)•Wendy Vereen(DNS)•Jacky Washington(DNS)•Diane Williams(DNS),None,1984
+Athletics,4 × 400 metres Relay,Women,Lillie Leatherwood•Sherri Howard•Valerie Brisco-Hooks•Chandra Cheeseborough•Diane Dixon•Denean Howard•Roberta Belle(DNS),None,1984
+Athletics,High Jump,Women,Joni Huntley,Bronze,1984
+Athletics,High Jump,Women,Louise Ritter,None,1984
+Athletics,High Jump,Women,Pam Spencer,None,1984
+Athletics,Long Jump,Women,Angie Thacker,None,1984
+Athletics,Long Jump,Women,Jackie Joyner,None,1984
+Athletics,Long Jump,Women,Carol Lewis,None,1984
+Athletics,Shot Put,Women,Carol Cady,None,1984
+Athletics,Shot Put,Women,Lorna Griffin,None,1984
+Athletics,Shot Put,Women,Ramona Pagel,None,1984
+Athletics,Discus Throw,Women,Leslie Deniz,Silver,1984
+Athletics,Discus Throw,Women,Laura DeSnoo,None,1984
+Athletics,Discus Throw,Women,Lorna Griffin,None,1984
+Athletics,Javelin Throw,Women,Karin Smith,None,1984
+Athletics,Javelin Throw,Women,Cathy Sulinski,None,1984
+Athletics,Javelin Throw,Women,Lynda Hughes Sutfin,None,1984
+Athletics,Heptathlon,Women,Jackie Joyner,Silver,1984
+Athletics,Heptathlon,Women,Cindy Greiner,None,1984
+Athletics,Heptathlon,Women,Jodi Anderson,None,1984
+Athletics,800 metres Wheelchair,Women,Sharon Hedrick,None,1984
+Athletics,800 metres Wheelchair,Women,Candace Cable,None,1984
+Athletics,800 metres Wheelchair,Women,Sacajuwea Hunter,None,1984
+Baseball,Baseball,Men,Flavio Alfaro•Bob Caffrey•Will Clark•Gary Green•Chris Gwynn•Barry Larkin•Shane Mack•John Marzano•Oddibe McDowell•Mark McGwire•Cory Snyder•B. J. Surhoff•Sid Akins•Don August•Scott Bankhead•Mike Dunne•John Hoover•Pat Pacillo•Bill Swift•Bobby Witt,None,1984
+Basketball,Basketball,Men,Steve Alford•Leon Wood•Patrick Ewing•Vern Fleming•Alvin Robertson•Michael Jordan•Joe Kleine•Jon Koncak•Wayman Tisdale•Chris Mullin•Sam Perkins•Jeff Turner,None,1984
+Basketball,Basketball,Women,Teresa Edwards•Lea Henry•Lynette Woodard•Anne Donovan•Cathy Boswell•Cheryl Miller•Janice Lawrence•Cindy Noble•Kim Mulkey•Denise Curry•Pamela McGee•Carol Menken-Schaudt,None,1984
+Boxing,Light-Flyweight,Men,"Paul Gonzales, Jr.",Gold,1984
+Boxing,Flyweight,Men,Steve McCrory,Gold,1984
+Boxing,Bantamweight,Men,Robert Shannon,None,1984
+Boxing,Featherweight,Men,Meldrick Taylor,Gold,1984
+Boxing,Lightweight,Men,Pernell Whitaker,Gold,1984
+Boxing,Light-Welterweight,Men,Jerry Page,Gold,1984
+Boxing,Welterweight,Men,Mark Breland,Gold,1984
+Boxing,Light-Middleweight,Men,Frank Tate,Gold,1984
+Boxing,Middleweight,Men,Virgil Hill,Silver,1984
+Boxing,Light-Heavyweight,Men,Evander Holyfield,Bronze,1984
+Boxing,Heavyweight,Men,Henry Tillman,Gold,1984
+Boxing,Super-Heavyweight,Men,Tyrell Biggs,Gold,1984
+Canoe Sprint,"Kayak Singles, 500 metres",Men,Terry White,None,1984
+Canoe Sprint,"Kayak Singles, 1,000 metres",Men,Greg Barton,Bronze,1984
+Canoe Sprint,"Kayak Doubles, 500 metres",Men,David Halpern•Terry Kent,None,1984
+Canoe Sprint,"Kayak Doubles, 1,000 metres",Men,Terry Kent•Terry White,None,1984
+Canoe Sprint,"Kayak Fours, 1,000 metres",Men,Norm Bellingham•David Gilman•Dan Schnurrenberger•Chris Spelius,None,1984
+Canoe Sprint,"Canadian Singles, 500 metres",Men,Rob Plankenhorn,None,1984
+Canoe Sprint,"Canadian Singles, 1,000 metres",Men,Bruce Merritt,None,1984
+Canoe Sprint,"Canadian Doubles, 500 metres",Men,J. Bret Young•Bruce Merritt,None,1984
+Canoe Sprint,"Canadian Doubles, 1,000 metres",Men,Rob Plankenhorn•Rod McLain,None,1984
+Canoe Sprint,"Kayak Singles, 500 metres",Women,Sheila Conover,None,1984
+Canoe Sprint,"Kayak Doubles, 500 metres",Women,Shirley Dery•Leslie Klein,None,1984
+Canoe Sprint,"Kayak Fours, 500 metres",Women,Sheila Conover•Shirley Dery•Leslie Klein•Ann Turner,None,1984
+Cycling Road,"Road Race, Individual",Men,Alexi Grewal,Gold,1984
+Cycling Road,"Road Race, Individual",Men,Davis Phinney,None,1984
+Cycling Road,"Road Race, Individual",Men,Thurlow Rogers,None,1984
+Cycling Road,"Road Race, Individual",Men,Ron Kiefel,None,1984
+Cycling Road,100 kilometres Team Time Trial,Men,Ron Kiefel•Roy Knickman•Davis Phinney•Andrew Weaver,None,1984
+Cycling Road,"Road Race, Individual",Women,Connie Carpenter-Phinney,Gold,1984
+Cycling Road,"Road Race, Individual",Women,Rebecca Twigg,Silver,1984
+Cycling Road,"Road Race, Individual",Women,Janelle Parks,None,1984
+Cycling Road,"Road Race, Individual",Women,Inga Thompson,None,1984
+Cycling Track,Sprint,Men,Mark Gorski,Gold,1984
+Cycling Track,Sprint,Men,Nelson Vails,Silver,1984
+Cycling Track,"1,000 metres Time Trial",Men,Rory O'Reilly,None,1984
+Cycling Track,"Individual Pursuit, 4,000 metres",Men,Steve Hegg,Gold,1984
+Cycling Track,"Individual Pursuit, 4,000 metres",Men,Leonard Harvey Nitz,Bronze,1984
+Cycling Track,"Team Pursuit, 4,000 metres",Men,Dave Grylls•Steve Hegg•Pat McDonough•Leonard Harvey Nitz•Brent Emery,None,1984
+Cycling Track,Points Race,Men,Mark Whitehead,None,1984
+Cycling Track,Points Race,Men,Danny Van Haute,None,1984
+Diving,Springboard,Men,Greg Louganis,Gold,1984
+Diving,Springboard,Men,Ron Merriott,Bronze,1984
+Diving,Platform,Men,Greg Louganis,Gold,1984
+Diving,Platform,Men,Bruce Kimball,Silver,1984
+Diving,Springboard,Women,Kelly McCormick,Silver,1984
+Diving,Springboard,Women,Christina Seufert,Bronze,1984
+Diving,Platform,Women,Michele Mitchell,Silver,1984
+Diving,Platform,Women,Wendy Wyland,Bronze,1984
+Equestrian Dressage,Individual,Open,Hilda Gurney,None,1984
+Equestrian Dressage,Individual,Open,Sandy Pflueger-Clarke,None,1984
+Equestrian Dressage,Individual,Open,Robert Dover,None,1984
+Equestrian Dressage,Team,Open,Hilda Gurney•Sandy Pflueger-Clarke•Robert Dover,None,1984
+Equestrian Eventing,Individual,Open,Karen Stives,Silver,1984
+Equestrian Eventing,Individual,Open,Torrance Watkins Fleischmann,None,1984
+Equestrian Eventing,Individual,Open,J. Michael Plumb,None,1984
+Equestrian Eventing,Individual,Open,Bruce Davidson,None,1984
+Equestrian Eventing,Team,Open,Karen Stives•Torrance Watkins Fleischmann•J. Michael Plumb•Bruce Davidson,None,1984
+Equestrian Jumping,Individual,Open,Joe Fargis,Gold,1984
+Equestrian Jumping,Individual,Open,Conrad Homfeld,Silver,1984
+Equestrian Jumping,Individual,Open,Melanie Smith,None,1984
+Equestrian Jumping,Team,Open,Joe Fargis•Conrad Homfeld•Leslie Burr•Melanie Smith,None,1984
+Fencing,"Foil, Individual",Men,Peter Lewison,None,1984
+Fencing,"Foil, Individual",Men,Greg Massialas,None,1984
+Fencing,"Foil, Individual",Men,Mike McCahey,None,1984
+Fencing,"Foil, Team",Men,Mike Marx•Greg Massialas•Peter Lewison•Mark Smith•Mike McCahey,None,1984
+Fencing,"Épée, Individual",Men,Stephen Trevor,None,1984
+Fencing,"Épée, Individual",Men,Robert Marx,None,1984
+Fencing,"Épée, Individual",Men,Lee Shelley,None,1984
+Fencing,"Épée, Team",Men,Robert Marx•John Moreau•Peter Schifrin•Lee Shelley•Stephen Trevor,None,1984
+Fencing,"Sabre, Individual",Men,Peter Westbrook,Bronze,1984
+Fencing,"Sabre, Individual",Men,Steve Mormando,None,1984
+Fencing,"Sabre, Individual",Men,Mike Lofton,None,1984
+Fencing,"Sabre, Team",Men,Peter Westbrook•Steve Mormando•Phil Reilly•Joel Glucksman•Mike Lofton,None,1984
+Fencing,"Foil, Individual",Women,Debra Waples,None,1984
+Fencing,"Foil, Individual",Women,Vinnie Bradford,None,1984
+Fencing,"Foil, Individual",Women,Jana Angelakis,None,1984
+Fencing,"Foil, Individual",Women,Sharon Monplaisir,None,1984
+Fencing,"Foil, Team",Women,Vinnie Bradford•Sharon Monplaisir•Sue Badders•Debra Waples•Jana Angelakis,None,1984
+Football,Football,Men,Chico Borja•David Brcic•Kevin Crow•Ricky Davis•Angelo DiBernardo•Jeff Durgan•Mike Fox•Jeff Hooker•Erhardt Kapp•Steve Moyers•Hugo Perez•Bruce Savage•Gregg Thompson•Jean Willrich•Amr Aly(DNS)•Jamie Swanner(DNS)•Kazbek Tambi(DNS),None,1984
+Handball,Handball,Men,"Jim Buehning•Bob Djokovich•Tim Dykstra•Craig Gilbert•Greg Morava•Steve Goss•Bill Kessler•Steve Kirk•Pete Lash, Jr.•Michael Lenard•Joe McVein•Rod Oshita•Tom Schneeberger•Joe Story•Tim Wayne Funk(DNS)",None,1984
+Handball,Handball,Women,Pam Boyd•Reita Clanton•Tess Contos•Sandra De La Riva•Mary Phyl Dwight•Carmen Forest•Sam Jones•Carol Lindsey•Cindy Stinger•Penny Stone•Jan Trombly•Sherry Winn•Melinda Hale•Dorothy Franco(DNS)•Kim Howard(DNS),None,1984
+Hockey,Hockey,Men,Mohammed Barakat•Ken Barrett•Rawle Cox•Trevor Fernandes•Scotty Gregg•Manzar Iqbal•Michael Kraus•Randy Lipscher•David McMichael•Gary Newton•Mike Newton•Brian Spencer•Bob Stiles•Drew Stone•Nigel Traverso•Morgan Stebbins(DNS),None,1984
+Hockey,Hockey,Women,Gwen Cheeseman•Beth Anders•Kathy McGahey•Anita Miller•Gina Buggy•Chris Larson Mason•Beth Beglin•Marcy Place•Julie Staver•Diane Moyer•Sheryl Johnson•Char Morett•Karen Shelton•Brenda Stauffer•Leslie Milne•Judy Strong,None,1984
+Judo,Extra-Lightweight,Men,Ed Liddie,Bronze,1984
+Judo,Half-Lightweight,Men,Craig Agena,None,1984
+Judo,Lightweight,Men,Mike Swain,None,1984
+Judo,Half-Middleweight,Men,Brett Barron,None,1984
+Judo,Middleweight,Men,Bob Berland,Silver,1984
+Judo,Half-Heavyweight,Men,Leo White,None,1984
+Judo,Heavyweight,Men,Doug Nelson,None,1984
+Judo,Open Class,Men,Dewey Mitchell,None,1984
+Modern Pentathlon,Individual,Men,Mike Storm,None,1984
+Modern Pentathlon,Individual,Men,Greg Losey,None,1984
+Modern Pentathlon,Individual,Men,Dean Glenesk,None,1984
+Modern Pentathlon,Team,Men,Mike Storm•Greg Losey•Dean Glenesk,None,1984
+Rhythmic Gymnastics,Individual,Women,Valerie Zimring,None,1984
+Rhythmic Gymnastics,Individual,Women,Michelle Berube,None,1984
+Rowing,Single Sculls,Men,John Biglow,None,1984
+Rowing,Double Sculls,Men,Bradley Lewis•Paul Enquist,None,1984
+Rowing,Coxless Pairs,Men,"Dave De Ruff•John Strotbeck, III",None,1984
+Rowing,Quadruple Sculls,Men,Curtis Fleming•Greg Montesi•Ridgely Johnson•Bruce Beall,None,1984
+Rowing,Coxed Pairs,Men,"Kevin Still•Bob Espeseth, Jr.•Doug Herland",None,1984
+Rowing,Coxless Fours,Men,David Clark•Jon Smith•Otto Stekl•Alan Forney,None,1984
+Rowing,Coxed Fours,Men,Tom Kiefer•Greg Springer•Michael Bach•Edward Ives•John Stillings,None,1984
+Rowing,Eights,Men,"Chip Lubsen•Andy Sudduth•John Terwilliger•Chris Penny•Tom Darling•Fred Borchelt•Charlie Clapp, III•Bruce Ibbetson•Bob Jaugstetter",None,1984
+Rowing,Single Sculls,Women,Carlie Geer,Silver,1984
+Rowing,Double Sculls,Women,Cathy Thaxton•Judy Geer,None,1984
+Rowing,Coxless Pairs,Women,Barbara Kirch•Chari Towne,None,1984
+Rowing,Coxed Fours,Women,Abby Peck•Patricia Spratlen•Jan Harville•Liz Miles•Valerie McClain-Ward,None,1984
+Rowing,Coxed Quadruple Sculls,Women,Anne Marden•Lisa Rohde•Joan Lind•Ginny Gilder•Kelly Rickon,None,1984
+Rowing,Eights,Women,Shyril O'Steen•Holly Metcalf•Carol Bower•Carie Graves•Jeanne Flanagan•Kristine Norelius•Kristen Thorsness•Kathy Keeler•Betsy Beard,None,1984
+Sailing,Windsurfer,Men,Scott Steele,Silver,1984
+Sailing,Windsurfer,Men,Darren Hamm,None,1984
+Sailing,Windsurfer,Men,Paul Eckert,None,1984
+Sailing,Windsurfer,Men,Karl Nelson,None,1984
+Sailing,Windsurfer,Men,Mike Gebhardt,None,1984
+Sailing,One Person Dinghy,Open,John Bertrand,Silver,1984
+Sailing,Two Person Dinghy,Open,Chris Steinfeld•Steve Benjamin,None,1984
+Sailing,Two Person Keelboat,Open,Steve Erickson•William Earl Buchan,None,1984
+Sailing,Multihull,Open,Jay Glaser•Randy Smyth,None,1984
+Sailing,Three Person Keelboat,Open,Ed Trevelyan•Robbie Haines•Rod Davis,None,1984
+Sailing,Two Person Heavyweight Dinghy,Open,Jonathan McKee•William Carl Buchan,None,1984
+Sailing,Windsurfer,Women,Anne Gardner-Nelson,None,1984
+Sailing,Windsurfer,Women,Andrea Livingston,None,1984
+Sailing,Windsurfer,Women,Cheri Swatek,None,1984
+Shooting,"Rapid-Fire Pistol, 25 metres",Men,Allyn Johnson,None,1984
+Shooting,"Rapid-Fire Pistol, 25 metres",Men,John McNally,None,1984
+Shooting,"Free Pistol, 50 metres",Men,Erich Buljung,None,1984
+Shooting,"Free Pistol, 50 metres",Men,Don Nygord,None,1984
+Shooting,"Air Rifle, 10 metres",Men,John Rost,None,1984
+Shooting,"Air Rifle, 10 metres",Men,Glenn Dubis,None,1984
+Shooting,"Small-Bore Rifle, Three Positions, 50 metres",Men,Glenn Dubis,None,1984
+Shooting,"Small-Bore Rifle, Three Positions, 50 metres",Men,Ed Etzel,None,1984
+Shooting,"Small-Bore Rifle, Prone, 50 metres",Men,Ed Etzel,Gold,1984
+Shooting,"Small-Bore Rifle, Prone, 50 metres",Men,Don Durbin,None,1984
+Shooting,"Running Target, 50 metres",Men,Randy Stewart,None,1984
+Shooting,"Running Target, 50 metres",Men,Todd Bensley,None,1984
+Shooting,Trap,Open,Dan Carlisle,Bronze,1984
+Shooting,Trap,Open,Wally Zobell,None,1984
+Shooting,Skeet,Open,Matt Dryke,Gold,1984
+Shooting,Skeet,Open,Michael Thompson,None,1984
+Shooting,"Sporting Pistol, 25 metres",Women,Ruby Fox,Silver,1984
+Shooting,"Sporting Pistol, 25 metres",Women,Kim Dyer,None,1984
+Shooting,"Air Rifle, 10 metres",Women,Pat Spurgin,Gold,1984
+Shooting,"Air Rifle, 10 metres",Women,Mary Anne Schweitzer,None,1984
+Shooting,"Small-Bore Rifle, Three Positions, 50 metres",Women,Wanda Jewell,Bronze,1984
+Shooting,"Small-Bore Rifle, Three Positions, 50 metres",Women,Gloria Parmentier,None,1984
+Swimming,100 metres Freestyle,Men,Rowdy Gaines,Gold,1984
+Swimming,100 metres Freestyle,Men,Mike Heath,None,1984
+Swimming,200 metres Freestyle,Men,Mike Heath,Silver,1984
+Swimming,200 metres Freestyle,Men,Jeff Float,None,1984
+Swimming,400 metres Freestyle,Men,George DiCarlo,Gold,1984
+Swimming,400 metres Freestyle,Men,John Mykkanen,Silver,1984
+Swimming,"1,500 metres Freestyle",Men,Mike O'Brien,Gold,1984
+Swimming,"1,500 metres Freestyle",Men,George DiCarlo,Silver,1984
+Swimming,4 × 100 metres Freestyle Relay,Men,Chris Cavanaugh•Mike Heath•Matt Biondi•Rowdy Gaines•Tom Jager•Robin Leamy,None,1984
+Swimming,4 × 200 metres Freestyle Relay,Men,Mike Heath•David Larson•Jeff Float•Bruce Hayes•Geoff Gaberino•Rich Saeger,None,1984
+Swimming,100 metres Backstroke,Men,Rick Carey,Gold,1984
+Swimming,100 metres Backstroke,Men,Dave Wilson,Silver,1984
+Swimming,200 metres Backstroke,Men,Rick Carey,Gold,1984
+Swimming,200 metres Backstroke,Men,Jesse Vassallo,None,1984
+Swimming,100 metres Breaststroke,Men,Steve Lundquist,Gold,1984
+Swimming,100 metres Breaststroke,Men,John Moffet,None,1984
+Swimming,200 metres Breaststroke,Men,Rich Schroeder,None,1984
+Swimming,200 metres Breaststroke,Men,John Moffet,None,1984
+Swimming,100 metres Butterfly,Men,Pablo Morales,Silver,1984
+Swimming,100 metres Butterfly,Men,Matt Gribble,None,1984
+Swimming,200 metres Butterfly,Men,Pablo Morales,None,1984
+Swimming,200 metres Butterfly,Men,Pat Kennedy,None,1984
+Swimming,200 metres Individual Medley,Men,Pablo Morales,Silver,1984
+Swimming,200 metres Individual Medley,Men,Steve Lundquist,None,1984
+Swimming,400 metres Individual Medley,Men,Jesse Vassallo,None,1984
+Swimming,400 metres Individual Medley,Men,Jeff Kostoff,None,1984
+Swimming,4 × 100 metres Medley Relay,Men,Rick Carey•Steve Lundquist•Pablo Morales•Rowdy Gaines•Dave Wilson•Rich Schroeder•Mike Heath•Tom Jager,None,1984
+Swimming,100 metres Freestyle,Women,Nancy Hogshead,Gold,1984
+Swimming,100 metres Freestyle,Women,Carrie Steinseifer,Gold,1984
+Swimming,200 metres Freestyle,Women,Mary Wayte,Gold,1984
+Swimming,200 metres Freestyle,Women,Sippy Woodhead,Silver,1984
+Swimming,400 metres Freestyle,Women,Tiffany Cohen,Gold,1984
+Swimming,400 metres Freestyle,Women,Kim Linehan,None,1984
+Swimming,800 metres Freestyle,Women,Tiffany Cohen,Gold,1984
+Swimming,800 metres Freestyle,Women,Michelle Richardson,Silver,1984
+Swimming,4 × 100 metres Freestyle Relay,Women,Jenna Johnson•Carrie Steinseifer•Dara Torres•Nancy Hogshead•Jill Sterkel•Mary Wayte,None,1984
+Swimming,100 metres Backstroke,Women,Theresa Andrews,Gold,1984
+Swimming,100 metres Backstroke,Women,Betsy Mitchell,Silver,1984
+Swimming,200 metres Backstroke,Women,Amy White,Silver,1984
+Swimming,200 metres Backstroke,Women,Tori Trees,None,1984
+Swimming,100 metres Breaststroke,Women,Tracy Caulkins,None,1984
+Swimming,100 metres Breaststroke,Women,Susan Rapp,None,1984
+Swimming,200 metres Breaststroke,Women,Susan Rapp,Silver,1984
+Swimming,200 metres Breaststroke,Women,Kim Rhodenbaugh,None,1984
+Swimming,100 metres Butterfly,Women,Mary T. Meagher,Gold,1984
+Swimming,100 metres Butterfly,Women,Jenna Johnson,Silver,1984
+Swimming,200 metres Butterfly,Women,Mary T. Meagher,Gold,1984
+Swimming,200 metres Butterfly,Women,Nancy Hogshead,None,1984
+Swimming,200 metres Individual Medley,Women,Tracy Caulkins,Gold,1984
+Swimming,200 metres Individual Medley,Women,Nancy Hogshead,Silver,1984
+Swimming,400 metres Individual Medley,Women,Tracy Caulkins,Gold,1984
+Swimming,400 metres Individual Medley,Women,Sue Heon,None,1984
+Swimming,4 × 100 metres Medley Relay,Women,Theresa Andrews•Tracy Caulkins•Mary T. Meagher•Nancy Hogshead•Betsy Mitchell•Susan Rapp•Jenna Johnson•Carrie Steinseifer,None,1984
+Tennis,Singles,Men,Jimmy Arias,None,1984
+Tennis,Singles,Men,Kelly Jones,None,1984
+Tennis,Singles,Men,Eric Amend,None,1984
+Tennis,Singles,Men,Derrick Rostagno,None,1984
+Tennis,Singles,Women,Kathy Horvath,None,1984
+Tennis,Singles,Women,Andrea Jaeger,None,1984
+Tennis,Singles,Women,Andrea Leand,None,1984
+Tennis,Singles,Women,Gretchen Rush,None,1984
+Volleyball,Volleyball,Men,Dusty Dvorak•Dave Saunders•Steve Salmons•Paul Sunderland•Rich Duwelius•Steve Timmons•Craig Buck•Marc Waldie•Chris Marlowe•Aldis Berzins•Pat Powers•Karch Kiraly,None,1984
+Volleyball,Volleyball,Women,Paula Weishoff•Sue Woodstra•Rita Crockett•Laurie Flachmeier•Carolyn Becker•Flo Hyman•Rose Magers•Julie Vollertsen•Debbie Green•Kim Ruddins•Jeanne Beauprey•Linda Chisholm,None,1984
+Water Polo,Water Polo,Men,Craig Wilson•Kevin Robertson•Gary Figueroa•Peter Campbell•Doug Burke•Joe Vargas•Jon Svendsen•John Siman•Drew McDonald•Terry Schroeder•Jody Campbell•Tim Shaw•Chris Dorst,None,1984
+Weightlifting,Bantamweight,Men,Albert Hood,None,1984
+Weightlifting,Lightweight,Men,Don Abrahamson,None,1984
+Weightlifting,Light-Heavyweight,Men,Arn Kritsky,None,1984
+Weightlifting,Middle-Heavyweight,Men,Tommy Calandro,None,1984
+Weightlifting,Middle-Heavyweight,Men,Derrick Crass,None,1984
+Weightlifting,Heavyweight I,Men,Ken Clark,None,1984
+Weightlifting,Heavyweight I,Men,Rich Shanko,None,1984
+Weightlifting,Heavyweight II,Men,Guy Carlton,Bronze,1984
+Weightlifting,Heavyweight II,Men,Ric Eaton,None,1984
+Weightlifting,Super-Heavyweight,Men,Mario Martinez,Silver,1984
+Wrestling,"Light-Flyweight, Greco-Roman",Men,Mark Fuller,None,1984
+Wrestling,"Bantamweight, Greco-Roman",Men,Frank Famiano,None,1984
+Wrestling,"Featherweight, Greco-Roman",Men,Abdurrahim Kuzu,None,1984
+Wrestling,"Lightweight, Greco-Roman",Men,Jim Martinez,Bronze,1984
+Wrestling,"Welterweight, Greco-Roman",Men,Chris Catalfo,None,1984
+Wrestling,"Middleweight, Greco-Roman",Men,Dan Chandler,None,1984
+Wrestling,"Light-Heavyweight, Greco-Roman",Men,Steve Fraser,Gold,1984
+Wrestling,"Heavyweight, Greco-Roman",Men,Greg Gibson,Silver,1984
+Wrestling,"Super-Heavyweight, Greco-Roman",Men,Jeff Blatnick,Gold,1984
+Wrestling,"Light-Flyweight, Freestyle",Men,Bobby Weaver,Gold,1984
+Wrestling,"Flyweight, Freestyle",Men,Joe Gonzales,None,1984
+Wrestling,"Bantamweight, Freestyle",Men,Barry Davis,Silver,1984
+Wrestling,"Featherweight, Freestyle",Men,Randy Lewis,Gold,1984
+Wrestling,"Lightweight, Freestyle",Men,Andrew Rein,Silver,1984
+Wrestling,"Welterweight, Freestyle",Men,Dave Schultz,Gold,1984
+Wrestling,"Middleweight, Freestyle",Men,Mark Schultz,Gold,1984
+Wrestling,"Light-Heavyweight, Freestyle",Men,Ed Banach,Gold,1984
+Wrestling,"Heavyweight, Freestyle",Men,Lou Banach,Gold,1984
+Wrestling,"Super-Heavyweight, Freestyle",Men,Bruce Baumgartner,Gold,1984

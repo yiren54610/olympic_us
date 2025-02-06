@@ -1,20 +1,444 @@
-Sport,"1st place, gold medalist(s)","2nd place, silver medalist(s)","3rd place, bronze medalist(s)",Total
-Swimming,16,9,6,31
-Athletics,11,10,8,29
-Gymnastics,3,1,2,6
-Shooting,3,0,1,4
-Tennis,3,0,1,4
-Wrestling,2,0,3,5
-Basketball,2,0,0,2
-Cycling,1,2,1,4
-Volleyball,1,2,0,3
-Diving,1,1,2,4
-Rowing,1,0,2,3
-Boxing,1,0,1,2
-Judo,1,0,1,2
-Football,1,0,0,1
-Water polo,1,0,0,1
-Archery,0,1,0,1
-Taekwondo,0,0,2,2
-Fencing,0,0,1,1
-Total,48,26,31,105
+Sport,Event,Gender,Athlete,Medal,Year
+Archery,Individual,Men,Jacob Wukie,None,2012
+Archery,Individual,Men,Brady Ellison,None,2012
+Archery,Individual,Men,Jake Kaminski,None,2012
+Archery,Team,Men,Jacob Wukie•Brady Ellison•Jake Kaminski,None,2012
+Archery,Individual,Women,Khatuna Lorig,None,2012
+Archery,Individual,Women,Miranda Leek,None,2012
+Archery,Individual,Women,Jennifer Nichols,None,2012
+Archery,Team,Women,Khatuna Lorig•Jennifer Nichols•Miranda Leek,None,2012
+Artistic Gymnastics,Individual All-Around,Men,Danell Leyva,Bronze,2012
+Artistic Gymnastics,Individual All-Around,Men,John Orozco,None,2012
+Artistic Gymnastics,Team All-Around,Men,Jake Dalton•Jonathan Horton•Danell Leyva•Sam Mikulak•John Orozco,None,2012
+Artistic Gymnastics,Floor Exercise,Men,Jake Dalton,None,2012
+Artistic Gymnastics,Floor Exercise,Men,Sam Mikulak,None,2012
+Artistic Gymnastics,Floor Exercise,Men,John Orozco,None,2012
+Artistic Gymnastics,Floor Exercise,Men,Danell Leyva,None,2012
+Artistic Gymnastics,Horse Vault,Men,Sam Mikulak,None,2012
+Artistic Gymnastics,Horse Vault,Men,Jake Dalton,None,2012
+Artistic Gymnastics,Parallel Bars,Men,Danell Leyva,None,2012
+Artistic Gymnastics,Parallel Bars,Men,Sam Mikulak,None,2012
+Artistic Gymnastics,Parallel Bars,Men,John Orozco,None,2012
+Artistic Gymnastics,Parallel Bars,Men,Jonathan Horton,None,2012
+Artistic Gymnastics,Horizontal Bar,Men,Danell Leyva,None,2012
+Artistic Gymnastics,Horizontal Bar,Men,Jonathan Horton,None,2012
+Artistic Gymnastics,Horizontal Bar,Men,John Orozco,None,2012
+Artistic Gymnastics,Horizontal Bar,Men,Sam Mikulak,None,2012
+Artistic Gymnastics,Rings,Men,Jonathan Horton,None,2012
+Artistic Gymnastics,Rings,Men,Jake Dalton,None,2012
+Artistic Gymnastics,Rings,Men,John Orozco,None,2012
+Artistic Gymnastics,Rings,Men,Danell Leyva,None,2012
+Artistic Gymnastics,Pommelled Horse,Men,Danell Leyva,None,2012
+Artistic Gymnastics,Pommelled Horse,Men,John Orozco,None,2012
+Artistic Gymnastics,Pommelled Horse,Men,Sam Mikulak,None,2012
+Artistic Gymnastics,Pommelled Horse,Men,Jonathan Horton,None,2012
+Artistic Gymnastics,Individual All-Around,Women,Gabby Douglas,Gold,2012
+Artistic Gymnastics,Individual All-Around,Women,Aly Raisman,None,2012
+Artistic Gymnastics,Individual All-Around,Women,Jordyn Wieber,None,2012
+Artistic Gymnastics,Team All-Around,Women,Gabby Douglas•McKayla Maroney•Aly Raisman•Kyla Ross•Jordyn Wieber,None,2012
+Artistic Gymnastics,Floor Exercise,Women,Aly Raisman,Gold,2012
+Artistic Gymnastics,Floor Exercise,Women,Jordyn Wieber,None,2012
+Artistic Gymnastics,Floor Exercise,Women,Gabby Douglas,None,2012
+Artistic Gymnastics,Floor Exercise,Women,Kyla Ross,None,2012
+Artistic Gymnastics,Horse Vault,Women,McKayla Maroney,Silver,2012
+Artistic Gymnastics,Uneven Bars,Women,Gabby Douglas,None,2012
+Artistic Gymnastics,Uneven Bars,Women,Kyla Ross,None,2012
+Artistic Gymnastics,Uneven Bars,Women,Jordyn Wieber,None,2012
+Artistic Gymnastics,Uneven Bars,Women,Aly Raisman,None,2012
+Artistic Gymnastics,Balance Beam,Women,Aly Raisman,Bronze,2012
+Artistic Gymnastics,Balance Beam,Women,Gabby Douglas,None,2012
+Artistic Gymnastics,Balance Beam,Women,Kyla Ross,None,2012
+Artistic Gymnastics,Balance Beam,Women,Jordyn Wieber,None,2012
+Artistic Swimming,Duet,Women,Mary Killman•Mariya Koroleva,None,2012
+Athletics,100 metres,Men,Justin Gatlin,Bronze,2012
+Athletics,100 metres,Men,Ryan Bailey,None,2012
+Athletics,100 metres,Men,Tyson Gay,None,2012
+Athletics,200 metres,Men,"Wallace Spearmon, Jr.",None,2012
+Athletics,200 metres,Men,Maurice Mitchell,None,2012
+Athletics,200 metres,Men,Isiah Young,None,2012
+Athletics,400 metres,Men,Bryshon Nellum,None,2012
+Athletics,400 metres,Men,Tony McQuay,None,2012
+Athletics,400 metres,Men,LaShawn Merritt,None,2012
+Athletics,800 metres,Men,Duane Solomon,None,2012
+Athletics,800 metres,Men,Nick Symmonds,None,2012
+Athletics,800 metres,Men,Khadevis Robinson,None,2012
+Athletics,"1,500 metres",Men,Leo Manzano,Silver,2012
+Athletics,"1,500 metres",Men,"Matthew Centrowitz, Jr.",None,2012
+Athletics,"1,500 metres",Men,Andrew Wheating,None,2012
+Athletics,"5,000 metres",Men,Bernard Lagat,None,2012
+Athletics,"5,000 metres",Men,Galen Rupp,None,2012
+Athletics,"5,000 metres",Men,Lopez Lomong,None,2012
+Athletics,"10,000 metres",Men,Galen Rupp,Silver,2012
+Athletics,"10,000 metres",Men,Dathan Ritzenhein,None,2012
+Athletics,"10,000 metres",Men,Matt Tegenkamp,None,2012
+Athletics,Marathon,Men,Meb Keflezighi,None,2012
+Athletics,Marathon,Men,Abdi Abdirahman,None,2012
+Athletics,Marathon,Men,Ryan Hall,None,2012
+Athletics,110 metres Hurdles,Men,Aries Merritt,Gold,2012
+Athletics,110 metres Hurdles,Men,Jason Richardson,Silver,2012
+Athletics,110 metres Hurdles,Men,Jeff Porter,None,2012
+Athletics,400 metres Hurdles,Men,Michael Tinsley,Silver,2012
+Athletics,400 metres Hurdles,Men,Angelo Taylor,None,2012
+Athletics,400 metres Hurdles,Men,Kerron Clement,None,2012
+Athletics,"3,000 metres Steeplechase",Men,Evan Jager,None,2012
+Athletics,"3,000 metres Steeplechase",Men,Donn Cabral,None,2012
+Athletics,"3,000 metres Steeplechase",Men,Kyle Alcorn,None,2012
+Athletics,4 × 100 metres Relay,Men,Trell Kimmons•Justin Gatlin•Tyson Gay•Ryan Bailey•Jeff Demps•Darvis Patton,None,2012
+Athletics,4 × 400 metres Relay,Men,Bryshon Nellum•Josh Mance•Tony McQuay•Angelo Taylor•Manteo Mitchell,None,2012
+Athletics,20 kilometres Race Walk,Men,Trevor Barron,None,2012
+Athletics,50 kilometres Race Walk,Men,John Nunn,None,2012
+Athletics,High Jump,Men,Erik Kynard,Gold,2012
+Athletics,High Jump,Men,Jamie Nieto,None,2012
+Athletics,High Jump,Men,Jesse Williams,None,2012
+Athletics,Pole Vault,Men,Brad Walker,None,2012
+Athletics,Pole Vault,Men,Jeremy Scott,None,2012
+Athletics,Pole Vault,Men,Derek Miles,None,2012
+Athletics,Long Jump,Men,Will Claye,Bronze,2012
+Athletics,Long Jump,Men,Marquise Goodwin,None,2012
+Athletics,Long Jump,Men,George Kitchens,None,2012
+Athletics,Triple Jump,Men,Christian Taylor,Gold,2012
+Athletics,Triple Jump,Men,Will Claye,Silver,2012
+Athletics,Shot Put,Men,Reese Hoffa,Bronze,2012
+Athletics,Shot Put,Men,Christian Cantwell,None,2012
+Athletics,Shot Put,Men,Ryan Whiting,None,2012
+Athletics,Discus Throw,Men,Jason Young,None,2012
+Athletics,Discus Throw,Men,Lance Brooks,None,2012
+Athletics,Discus Throw,Men,Jarred Rome,None,2012
+Athletics,Hammer Throw,Men,Kibwé Johnson,None,2012
+Athletics,Hammer Throw,Men,A. G. Kruger,None,2012
+Athletics,Javelin Throw,Men,Craig Kinsley,None,2012
+Athletics,Javelin Throw,Men,Cyrus Hostetler,None,2012
+Athletics,Javelin Throw,Men,Sean Furey,None,2012
+Athletics,Decathlon,Men,Ashton Eaton,Gold,2012
+Athletics,Decathlon,Men,Trey Hardee,Silver,2012
+Athletics,100 metres,Women,Carmelita Jeter,Silver,2012
+Athletics,100 metres,Women,Tianna Madison,None,2012
+Athletics,100 metres,Women,Allyson Felix,None,2012
+Athletics,200 metres,Women,Allyson Felix,Gold,2012
+Athletics,200 metres,Women,Carmelita Jeter,Bronze,2012
+Athletics,200 metres,Women,Sanya Richards-Ross,None,2012
+Athletics,400 metres,Women,Sanya Richards-Ross,Gold,2012
+Athletics,400 metres,Women,DeeDee Trotter,Bronze,2012
+Athletics,400 metres,Women,Francena McCorory,None,2012
+Athletics,800 metres,Women,Alysia Johnson-Montaño,None,2012
+Athletics,800 metres,Women,Alice Schmidt,None,2012
+Athletics,800 metres,Women,Geena Gall,None,2012
+Athletics,"1,500 metres",Women,Shannon Rowbury,None,2012
+Athletics,"1,500 metres",Women,Morgan Uceny,None,2012
+Athletics,"1,500 metres",Women,Jenny Simpson,None,2012
+Athletics,"5,000 metres",Women,Molly Huddle,None,2012
+Athletics,"5,000 metres",Women,Julie Culley,None,2012
+Athletics,"5,000 metres",Women,Kim Conley,None,2012
+Athletics,"10,000 metres",Women,Amy Hastings,None,2012
+Athletics,"10,000 metres",Women,Janet Cherobon-Bawcom,None,2012
+Athletics,"10,000 metres",Women,Lisa Uhl,None,2012
+Athletics,Marathon,Women,Shalane Flanagan,None,2012
+Athletics,Marathon,Women,Kara Goucher,None,2012
+Athletics,Marathon,Women,Des Davila,None,2012
+Athletics,100 metres Hurdles,Women,Dawn Harper,Silver,2012
+Athletics,100 metres Hurdles,Women,Kellie Wells,Bronze,2012
+Athletics,100 metres Hurdles,Women,Lolo Jones,None,2012
+Athletics,400 metres Hurdles,Women,Lashinda Demus,Gold,2012
+Athletics,400 metres Hurdles,Women,Georganne Moline,None,2012
+Athletics,400 metres Hurdles,Women,T'erea Brown,None,2012
+Athletics,"3,000 metres Steeplechase",Women,Emma Coburn,None,2012
+Athletics,"3,000 metres Steeplechase",Women,Bridget Franek,None,2012
+Athletics,"3,000 metres Steeplechase",Women,Shalaya Kipp,None,2012
+Athletics,4 × 100 metres Relay,Women,Tianna Madison•Allyson Felix•Bianca Knight•Carmelita Jeter•Jeneba Tarmoh•Lauryn Williams,None,2012
+Athletics,4 × 400 metres Relay,Women,DeeDee Trotter•Allyson Felix•Francena McCorory•Sanya Richards-Ross•Keshia Baker•Diamond Dixon,None,2012
+Athletics,20 kilometres Race Walk,Women,Maria Michta,None,2012
+Athletics,High Jump,Women,Brigetta Barrett,Silver,2012
+Athletics,High Jump,Women,Chaunté Lowe,None,2012
+Athletics,High Jump,Women,Amy Acuff,None,2012
+Athletics,Pole Vault,Women,Jenn Suhr,Gold,2012
+Athletics,Pole Vault,Women,Becky Holliday,None,2012
+Athletics,Pole Vault,Women,Lacy Janson,None,2012
+Athletics,Long Jump,Women,Brittney Reese,Gold,2012
+Athletics,Long Jump,Women,Janay DeLoach,Bronze,2012
+Athletics,Long Jump,Women,Chelsea Hayes,None,2012
+Athletics,Triple Jump,Women,Amanda Smock,None,2012
+Athletics,Shot Put,Women,Michelle Carter,None,2012
+Athletics,Shot Put,Women,Jill Camarena-Williams,None,2012
+Athletics,Shot Put,Women,Tia Brooks,None,2012
+Athletics,Discus Throw,Women,Stephanie Brown-Trafton,None,2012
+Athletics,Discus Throw,Women,Gia Lewis-Smallwood,None,2012
+Athletics,Discus Throw,Women,Aretha Thurmond,None,2012
+Athletics,Hammer Throw,Women,Amber Campbell,None,2012
+Athletics,Hammer Throw,Women,Jessica Cosby,None,2012
+Athletics,Hammer Throw,Women,Amanda Bingson,None,2012
+Athletics,Javelin Throw,Women,Brittany Borman,None,2012
+Athletics,Javelin Throw,Women,Rachel Yurkovich,None,2012
+Athletics,Javelin Throw,Women,Kara Patterson,None,2012
+Athletics,Heptathlon,Women,Sharon Day,None,2012
+Athletics,Heptathlon,Women,Chantae McMillan,None,2012
+Athletics,Heptathlon,Women,Hyleas Fountain,None,2012
+Badminton,Doubles,Men,Howard Bach•Tony Gunawan,None,2012
+Badminton,Singles,Women,Rena Wang,None,2012
+Basketball,Basketball,Men,Tyson Chandler•Kevin Durant•LeBron James•Russell Westbrook•Deron Williams•Andre Iguodala•Kobe Bryant•Kevin Love•James Harden•Chris Paul•Anthony Davis•Carmelo Anthony,None,2012
+Basketball,Basketball,Women,Lindsay Whalen•Seimone Augustus•Sue Bird•Maya Moore•Angel McCoughtry•Asjha Jones•Tamika Catchings•Swin Cash•Diana Taurasi•Sylvia Fowles•Tina Charles•Candace Parker,None,2012
+Beach Volleyball,Beach Volleyball,Men,Jake Gibb•Sean Rosenthal,None,2012
+Beach Volleyball,Beach Volleyball,Men,Todd Rogers•Phil Dalhausser,None,2012
+Beach Volleyball,Beach Volleyball,Women,Kerri Walsh Jennings•Misty May-Treanor,Silver,2012
+Beach Volleyball,Beach Volleyball,Women,April Ross•Jen Kessy,None,2012
+Boxing,Flyweight,Men,Rau'Shee Warren,None,2012
+Boxing,Bantamweight,Men,"Joseph Diaz, Jr.",None,2012
+Boxing,Lightweight,Men,Jose Ramirez,None,2012
+Boxing,Light-Welterweight,Men,Jamel Herring,None,2012
+Boxing,Welterweight,Men,Errol Spence,None,2012
+Boxing,Middleweight,Men,Terrell Gausha,None,2012
+Boxing,Light-Heavyweight,Men,Marcus Browne,None,2012
+Boxing,Heavyweight,Men,Michael Hunter,None,2012
+Boxing,Super-Heavyweight,Men,Dominic Breazeale,None,2012
+Boxing,Flyweight,Women,Marlen Esparza,Bronze,2012
+Boxing,Lightweight,Women,Queen Underwood,None,2012
+Boxing,Middleweight,Women,Claressa Shields,Gold,2012
+Canoe Slalom,"Kayak Singles, Slalom",Men,Scott Parsons,None,2012
+Canoe Slalom,"Canadian Singles, Slalom",Men,Casey Eichfeld,None,2012
+Canoe Slalom,"Canadian Doubles, Slalom",Men,Eric Hurd•Jeff Larimer,None,2012
+Canoe Slalom,"Kayak Singles, Slalom",Women,Caroline Queen,None,2012
+Canoe Sprint,"Kayak Singles, 200 metres",Men,Tim Hornsby,None,2012
+Canoe Sprint,"Kayak Singles, 200 metres",Women,Carrie Johnson,None,2012
+Canoe Sprint,"Kayak Singles, 500 metres",Women,Carrie Johnson,None,2012
+Cycling BMX Racing,BMX,Men,Connor Fields,None,2012
+Cycling BMX Racing,BMX,Men,David Herman,None,2012
+Cycling BMX Racing,BMX,Men,Nic Long,None,2012
+Cycling BMX Racing,BMX,Women,Brooke Crain,None,2012
+Cycling BMX Racing,BMX,Women,Alise Post,None,2012
+Cycling Mountain Bike,Cross-Country,Men,Todd Wells,None,2012
+Cycling Mountain Bike,Cross-Country,Men,Sam Schultz,None,2012
+Cycling Mountain Bike,Cross-Country,Women,Georgia Gould,Bronze,2012
+Cycling Mountain Bike,Cross-Country,Women,Lea Davison,None,2012
+Cycling Road,"Road Race, Individual",Men,Taylor Phinney,None,2012
+Cycling Road,"Road Race, Individual",Men,Tyler Farrar,None,2012
+Cycling Road,"Road Race, Individual",Men,Timmy Duggan,None,2012
+Cycling Road,"Road Race, Individual",Men,Chris Horner,None,2012
+Cycling Road,"Road Race, Individual",Men,Tejay van Garderen,None,2012
+Cycling Road,Individual Time Trial,Men,Taylor Phinney,None,2012
+Cycling Road,"Road Race, Individual",Women,Shelley Olds,None,2012
+Cycling Road,"Road Race, Individual",Women,Evelyn Stevens,None,2012
+Cycling Road,"Road Race, Individual",Women,Kristin Armstrong,None,2012
+Cycling Road,"Road Race, Individual",Women,Amber Neben,None,2012
+Cycling Road,Individual Time Trial,Women,Kristin Armstrong,Gold,2012
+Cycling Road,Individual Time Trial,Women,Amber Neben,None,2012
+Cycling Track,Sprint,Men,Jimmy Watkins,None,2012
+Cycling Track,Omnium,Men,Bobby Lea,None,2012
+Cycling Track,Team Pursuit,Women,Sarah Hammer•Dotsie Bausch•Lauren Tamayo•Jennie Reed,None,2012
+Cycling Track,Omnium,Women,Sarah Hammer,Silver,2012
+Diving,Springboard,Men,Troy Dumais,None,2012
+Diving,Springboard,Men,Chris Colwill,None,2012
+Diving,Platform,Men,David Boudia,Gold,2012
+Diving,Platform,Men,Nick McCrory,None,2012
+Diving,Synchronized Springboard,Men,Troy Dumais•Kristian Ipsen,None,2012
+Diving,Synchronized Platform,Men,David Boudia•Nick McCrory,None,2012
+Diving,Springboard,Women,Cassidy Krug,None,2012
+Diving,Springboard,Women,Christina Loukas,None,2012
+Diving,Platform,Women,Brittany Viola,None,2012
+Diving,Platform,Women,Katie Bell,None,2012
+Diving,Synchronized Springboard,Women,Kelci Bryant•Abby Johnston,None,2012
+Equestrian Dressage,Individual,Open,Steffen Peters,None,2012
+Equestrian Dressage,Individual,Open,Tina Konyot,None,2012
+Equestrian Dressage,Individual,Open,Jan Ebeling,None,2012
+Equestrian Dressage,Individual,Open,Adrienne Lyle,None,2012
+Equestrian Dressage,Team,Open,Jan Ebeling•Tina Konyot•Steffen Peters,None,2012
+Equestrian Eventing,Individual,Open,Karen O'Connor,None,2012
+Equestrian Eventing,Individual,Open,Phillip Dutton,None,2012
+Equestrian Eventing,Individual,Open,Will Coleman,None,2012
+Equestrian Eventing,Individual,Open,Tiana Coudray,None,2012
+Equestrian Eventing,Individual,Open,Boyd Martin,None,2012
+Equestrian Eventing,Team,Open,Boyd Martin•Will Coleman•Tiana Coudray•Karen O'Connor•Phillip Dutton,None,2012
+Equestrian Jumping,Individual,Open,Rich Fellers,None,2012
+Equestrian Jumping,Individual,Open,McLain Ward,None,2012
+Equestrian Jumping,Individual,Open,Reed Kessler,None,2012
+Equestrian Jumping,Individual,Open,Beezie Madden,None,2012
+Equestrian Jumping,Team,Open,McLain Ward•Beezie Madden•Reed Kessler•Rich Fellers,None,2012
+Fencing,"Foil, Individual",Men,Alexander Massialas,None,2012
+Fencing,"Foil, Individual",Men,Race Imboden,None,2012
+Fencing,"Foil, Individual",Men,Miles Chamley-Watson,None,2012
+Fencing,"Foil, Team",Men,Gerek Meinhardt•Miles Chamley-Watson•Race Imboden•Alexander Massialas,None,2012
+Fencing,"Épée, Individual",Men,Seth Kelsey,None,2012
+Fencing,"Épée, Individual",Men,Soren Thompson,None,2012
+Fencing,"Sabre, Individual",Men,Tim Morehouse,None,2012
+Fencing,"Sabre, Individual",Men,Daryl Homer,None,2012
+Fencing,"Sabre, Individual",Men,James Williams,None,2012
+Fencing,"Sabre, Team",Men,Tim Morehouse•James Williams•Daryl Homer•Jeff Spear,None,2012
+Fencing,"Foil, Individual",Women,Lee Kiefer,None,2012
+Fencing,"Foil, Individual",Women,Nzingha Prescod,None,2012
+Fencing,"Foil, Individual",Women,Nicole Ross,None,2012
+Fencing,"Foil, Team",Women,Lee Kiefer•Nicole Ross•Doris Willette•Nzingha Prescod,None,2012
+Fencing,"Épée, Individual",Women,Maya Lawrence,None,2012
+Fencing,"Épée, Individual",Women,Courtney Hurley,None,2012
+Fencing,"Épée, Individual",Women,Susie Scanlan,None,2012
+Fencing,"Épée, Team",Women,Kelley Hurley•Maya Lawrence•Susie Scanlan•Courtney Hurley,None,2012
+Fencing,"Sabre, Individual",Women,Mariel Zagunis,None,2012
+Fencing,"Sabre, Individual",Women,Dagmara Wozniak,None,2012
+Football,Football,Women,Heather Mitts•Kelley O'Hara•Tobin Heath•Megan Rapinoe•Heather O'Reilly•Becky Sauerbrunn•Christie Rampone•Carli Lloyd•Amy LePeilbet•Rachel Buehler•Sydney Leroux•Amy Rodriguez•Shannon Boxx•Lauren Cheney•Alex Morgan•Hope Solo•Abby Wambach•Nicole Barnhart(DNS)•Lori Lindsey(DNS)•Meghan Klingenberg(DNS)•Christen Press(DNS)•Jill Loyden(DNS),None,2012
+Hockey,Hockey,Women,Caroline Nichols•Katie O'Donnell•Michelle Kasold•Claire Laubach•Rachel Dawson•Katelyn Falgowski•Melissa Gonzalez•Kayla Smedley•Katie Reinprecht•Julia Reinprecht•Paige Selenski•Keli Smith-Puzo•Amy Swensen•Shannon Taylor•Lauren Crandall•Michelle Vittese•Michelle Cesan(DNS)•Jackie Kintzer(DNS),None,2012
+Judo,Lightweight,Men,Nick Delpopolo,None,2012
+Judo,Half-Middleweight,Men,Travis Stevens,None,2012
+Judo,Half-Heavyweight,Men,Kyle Vashkulat,None,2012
+Judo,Lightweight,Women,Marti Malloy,Bronze,2012
+Judo,Half-Heavyweight,Women,Kayla Harrison,Gold,2012
+Marathon Swimming,10 kilometres Open Water,Men,Alex Meyer,None,2012
+Marathon Swimming,10 kilometres Open Water,Women,Haley Anderson,Silver,2012
+Modern Pentathlon,Individual,Men,Dennis Bowsher,None,2012
+Modern Pentathlon,Individual,Women,Margaux Isaksen,None,2012
+Modern Pentathlon,Individual,Women,Suzanne Stettinius,None,2012
+Rhythmic Gymnastics,Individual,Women,Julie Zetlin,None,2012
+Rowing,Single Sculls,Men,Ken Jurkowski,None,2012
+Rowing,Coxless Pairs,Men,Tom Peszek•Silas Stafford,None,2012
+Rowing,Quadruple Sculls,Men,Wes Piermarini•Alex Osborne•Peter Graves•Elliot Hovey,None,2012
+Rowing,Coxless Fours,Men,Glenn Ochal•Henrik Rummel•Charlie Cole•Scott Gault,None,2012
+Rowing,Eights,Men,David Banks•Grant James•Ross James•Will Miller•Giuseppe Lanzone•Steve Kasprzyk•Jake Cornelius•Brett Newlin•Zach Vlahos,None,2012
+Rowing,Lightweight Coxless Fours,Men,Anthony Fahden•Will Newell•Nick LaCava•Robin Prendes,None,2012
+Rowing,Single Sculls,Women,Gevvie Stone,None,2012
+Rowing,Double Sculls,Women,Margot Shumway•Sarah Trowbridge,None,2012
+Rowing,Coxless Pairs,Women,Sara Hendershot•Sarah Zelenka,None,2012
+Rowing,Quadruple Sculls,Women,Natalie Dell•Kara Kohler•Megan Kalmoe•Adrienne Martelli,None,2012
+Rowing,Eights,Women,Erin Cafaro•Susan Francia•Esther Lofgren•Taylor Ritzel•Meghan Musnicki•Elle Logan•Caroline Lind•Caryn Davies•Mary Whipple,None,2012
+Rowing,Lightweight Double Sculls,Women,Kristin Hedstrom•Julie Nichols,None,2012
+Sailing,Windsurfer,Men,Bob Willis,None,2012
+Sailing,One Person Dinghy,Men,Rob Crane,None,2012
+Sailing,Two Person Dinghy,Men,Stu McNay•Graham Biehl,None,2012
+Sailing,Two Person Keelboat,Men,Mark Mendelblatt•Brian Fatih,None,2012
+Sailing,Skiff,Men,Erik Storck•Trevor Moore,None,2012
+Sailing,One Person Heavyweight Dinghy,Men,Zach Railey,None,2012
+Sailing,Windsurfer,Women,Farrah Hall,None,2012
+Sailing,One Person Dinghy,Women,Paige Railey,None,2012
+Sailing,Two Person Dinghy,Women,Sarah Lihan•Amanda Clark,None,2012
+Sailing,Three Person Keelboat,Women,Anna Tunnicliffe•Debbie Capozzi•Molly Vandemoer,None,2012
+Shooting,"Air Pistol, 10 metres",Men,Daryl Szarenski,None,2012
+Shooting,"Air Pistol, 10 metres",Men,Jason Turner,None,2012
+Shooting,"Rapid-Fire Pistol, 25 metres",Men,Emil Milev,None,2012
+Shooting,"Rapid-Fire Pistol, 25 metres",Men,Keith Sanderson,None,2012
+Shooting,"Free Pistol, 50 metres",Men,Nick Mowrer,None,2012
+Shooting,"Free Pistol, 50 metres",Men,Daryl Szarenski,None,2012
+Shooting,"Air Rifle, 10 metres",Men,Jonathan Hall,None,2012
+Shooting,"Air Rifle, 10 metres",Men,Matt Emmons,None,2012
+Shooting,"Small-Bore Rifle, Three Positions, 50 metres",Men,Matt Emmons,Bronze,2012
+Shooting,"Small-Bore Rifle, Three Positions, 50 metres",Men,Jason Parker,None,2012
+Shooting,"Small-Bore Rifle, Prone, 50 metres",Men,Michael McPhail,None,2012
+Shooting,"Small-Bore Rifle, Prone, 50 metres",Men,Eric Uptagrafft,None,2012
+Shooting,Double Trap,Men,Joshua Richmond,None,2012
+Shooting,Double Trap,Men,Glenn Eller,None,2012
+Shooting,Skeet,Men,Vincent Hancock,Gold,2012
+Shooting,Skeet,Men,Frank Thompson,None,2012
+Shooting,"Air Pistol, 10 metres",Women,Sandra Uptagrafft,None,2012
+Shooting,"Sporting Pistol, 25 metres",Women,Sandra Uptagrafft,None,2012
+Shooting,"Air Rifle, 10 metres",Women,Jamie Beyerle-Gray,None,2012
+Shooting,"Air Rifle, 10 metres",Women,Sarah Scherer,None,2012
+Shooting,"Small-Bore Rifle, Three Positions, 50 metres",Women,Jamie Beyerle-Gray,Gold,2012
+Shooting,"Small-Bore Rifle, Three Positions, 50 metres",Women,Amanda Furrer,None,2012
+Shooting,Trap,Women,Kim Rhode,None,2012
+Shooting,Trap,Women,Corey Cogdell,None,2012
+Shooting,Skeet,Women,Kim Rhode,Gold,2012
+Swimming,50 metres Freestyle,Men,Cullen Jones,Silver,2012
+Swimming,50 metres Freestyle,Men,Anthony Ervin,None,2012
+Swimming,100 metres Freestyle,Men,Nathan Adrian,Gold,2012
+Swimming,100 metres Freestyle,Men,Cullen Jones,None,2012
+Swimming,200 metres Freestyle,Men,Ryan Lochte,None,2012
+Swimming,200 metres Freestyle,Men,Ricky Berens,None,2012
+Swimming,400 metres Freestyle,Men,Peter Vanderkaay,Bronze,2012
+Swimming,400 metres Freestyle,Men,Conor Dwyer,None,2012
+Swimming,"1,500 metres Freestyle",Men,Connor Jaeger,None,2012
+Swimming,"1,500 metres Freestyle",Men,Andrew Gemmell,None,2012
+Swimming,4 × 100 metres Freestyle Relay,Men,Nathan Adrian•Michael Phelps•Cullen Jones•Ryan Lochte•Jimmy Feigen•Matt Grevers•Ricky Berens•Jason Lezak,None,2012
+Swimming,4 × 200 metres Freestyle Relay,Men,Ryan Lochte•Conor Dwyer•Ricky Berens•Michael Phelps•Charlie Houchin•Matt McLean•Davis Tarwater,None,2012
+Swimming,100 metres Backstroke,Men,Matt Grevers,Gold,2012
+Swimming,100 metres Backstroke,Men,Nick Thoman,Silver,2012
+Swimming,200 metres Backstroke,Men,Tyler Clary,Gold,2012
+Swimming,200 metres Backstroke,Men,Ryan Lochte,Bronze,2012
+Swimming,100 metres Breaststroke,Men,Brendan Hansen,Bronze,2012
+Swimming,100 metres Breaststroke,Men,Eric Shanteau,None,2012
+Swimming,200 metres Breaststroke,Men,Scott Weltz,None,2012
+Swimming,200 metres Breaststroke,Men,Clark Burckle,None,2012
+Swimming,100 metres Butterfly,Men,Michael Phelps,Gold,2012
+Swimming,100 metres Butterfly,Men,Tyler McGill,None,2012
+Swimming,200 metres Butterfly,Men,Michael Phelps,Silver,2012
+Swimming,200 metres Butterfly,Men,Tyler Clary,None,2012
+Swimming,200 metres Individual Medley,Men,Michael Phelps,Gold,2012
+Swimming,200 metres Individual Medley,Men,Ryan Lochte,Silver,2012
+Swimming,400 metres Individual Medley,Men,Ryan Lochte,Gold,2012
+Swimming,400 metres Individual Medley,Men,Michael Phelps,None,2012
+Swimming,4 × 100 metres Medley Relay,Men,Matt Grevers•Brendan Hansen•Michael Phelps•Nathan Adrian•Nick Thoman•Eric Shanteau•Tyler McGill•Cullen Jones,None,2012
+Swimming,50 metres Freestyle,Women,Jessica Hardy,None,2012
+Swimming,50 metres Freestyle,Women,Kara Lynn Joyce,None,2012
+Swimming,100 metres Freestyle,Women,Missy Franklin,None,2012
+Swimming,100 metres Freestyle,Women,Jessica Hardy,None,2012
+Swimming,200 metres Freestyle,Women,Allison Schmitt,Gold,2012
+Swimming,200 metres Freestyle,Women,Missy Franklin,None,2012
+Swimming,400 metres Freestyle,Women,Allison Schmitt,Silver,2012
+Swimming,400 metres Freestyle,Women,Chloe Sutton,None,2012
+Swimming,800 metres Freestyle,Women,Katie Ledecky,Gold,2012
+Swimming,800 metres Freestyle,Women,Kate Ziegler,None,2012
+Swimming,4 × 100 metres Freestyle Relay,Women,Missy Franklin•Jessica Hardy•Lia Neal•Allison Schmitt•Amanda Weir•Natalie Coughlin,None,2012
+Swimming,4 × 200 metres Freestyle Relay,Women,Missy Franklin•Dana Vollmer•Shannon Vreeland•Allison Schmitt•Lauren Perdue•Alyssa Anderson,None,2012
+Swimming,100 metres Backstroke,Women,Missy Franklin,Gold,2012
+Swimming,100 metres Backstroke,Women,Rachel Bootsma,None,2012
+Swimming,200 metres Backstroke,Women,Missy Franklin,Gold,2012
+Swimming,200 metres Backstroke,Women,Elizabeth Beisel,Bronze,2012
+Swimming,100 metres Breaststroke,Women,Rebecca Soni,Silver,2012
+Swimming,100 metres Breaststroke,Women,Breeja Larson,None,2012
+Swimming,200 metres Breaststroke,Women,Rebecca Soni,Gold,2012
+Swimming,200 metres Breaststroke,Women,Micah Lawrence,None,2012
+Swimming,100 metres Butterfly,Women,Dana Vollmer,Gold,2012
+Swimming,100 metres Butterfly,Women,Claire Donahue,None,2012
+Swimming,200 metres Butterfly,Women,Kathleen Hersey,None,2012
+Swimming,200 metres Butterfly,Women,Cammile Adams,None,2012
+Swimming,200 metres Individual Medley,Women,Caitlin Leverenz,Bronze,2012
+Swimming,200 metres Individual Medley,Women,Ariana Kukors,None,2012
+Swimming,400 metres Individual Medley,Women,Elizabeth Beisel,Silver,2012
+Swimming,400 metres Individual Medley,Women,Caitlin Leverenz,None,2012
+Swimming,4 × 100 metres Medley Relay,Women,Missy Franklin•Rebecca Soni•Dana Vollmer•Allison Schmitt•Rachel Bootsma•Breeja Larson•Claire Donahue•Jessica Hardy,None,2012
+Table Tennis,Singles,Men,Timothy Wang,None,2012
+Table Tennis,Singles,Women,Ariel Hsing,None,2012
+Table Tennis,Singles,Women,Lily Zhang,None,2012
+Table Tennis,Team,Women,Ariel Hsing•Lily Zhang•Erica Wu,None,2012
+Taekwondo,Featherweight,Men,Terrence Jennings,Bronze,2012
+Taekwondo,Welterweight,Men,Steven Lopez,None,2012
+Taekwondo,Featherweight,Women,Diana Lopez,None,2012
+Taekwondo,Welterweight,Women,Paige McPherson,Bronze,2012
+Tennis,Singles,Men,John Isner,None,2012
+Tennis,Singles,Men,Andy Roddick,None,2012
+Tennis,Singles,Men,Donald Young,None,2012
+Tennis,Singles,Men,Ryan Harrison,None,2012
+Tennis,Doubles,Men,Mike Bryan•Bob Bryan,None,2012
+Tennis,Doubles,Men,John Isner•Andy Roddick,None,2012
+Tennis,Singles,Women,Serena Williams,Gold,2012
+Tennis,Singles,Women,Venus Williams,None,2012
+Tennis,Singles,Women,Varvara Lepchenko,None,2012
+Tennis,Singles,Women,Christina McHale,None,2012
+Tennis,Doubles,Women,Serena Williams•Venus Williams,None,2012
+Tennis,Doubles,Women,Liezel Huber•Lisa Raymond,None,2012
+Tennis,Doubles,Mixed,Lisa Raymond•Mike Bryan,None,2012
+Tennis,Doubles,Mixed,Liezel Huber•Bob Bryan,None,2012
+Trampolining,Individual,Men,Steven Gluckstein,None,2012
+Trampolining,Individual,Women,Savannah Vinsant,None,2012
+Triathlon,Olympic Distance,Men,Hunter Kemper,None,2012
+Triathlon,Olympic Distance,Men,Manny Huerta,None,2012
+Triathlon,Olympic Distance,Women,Sarah Groff,None,2012
+Triathlon,Olympic Distance,Women,Laura Bennett,None,2012
+Triathlon,Olympic Distance,Women,Gwen Jorgensen,None,2012
+Volleyball,Volleyball,Men,Matt Anderson•Sean Rooney•David Lee•Rich Lambourne•Paul Lotman•Donald Suxho•Reid Priddy•Brian Thornton•Russell Holmes•Clay Stanley•David McKienzie•David Smith,None,2012
+Volleyball,Volleyball,Women,Danielle Scott-Arruda•Tayyiba Haneef-Park•Lindsey Berg•Tamari Miyashiro•Nicole Davis•Jordan Larson•Megan Hodge•Christa Harmotto•Logan Tom•Foluke Akinradewo•Courtney Thompson•Destinee Hooker,None,2012
+Water Polo,Water Polo,Men,Merrill Moses•Peter Varellas•Peter Hudnut•Jeff Powers•Adam Wright•Shea Buckner•Layne Beaubien•Tony Azevedo•Ryan Bailey•Tim Hutten•Jesse Smith•John Mann•Chay Lapin,None,2012
+Water Polo,Water Polo,Women,Betsey Armstrong•Heather Petri•Melissa Seidemann•Brenda Villa•Lauren Wenger•Maggie Steffens•Courtney Mathewson•Jessica Steffens•Elsie Windes•Kelly Rulon•Annika Dries•Kami Craig•Tumua Anae(DNS),None,2012
+Weightlifting,Light-Heavyweight,Men,Kendrick Farris,None,2012
+Weightlifting,Super-Heavyweight,Women,Sarah Robles,None,2012
+Weightlifting,Super-Heavyweight,Women,Holley Mangold,None,2012
+Wrestling,"Featherweight, Greco-Roman",Men,Spenser Mango,None,2012
+Wrestling,"Lightweight, Greco-Roman",Men,Ellis Coleman,None,2012
+Wrestling,"Welterweight, Greco-Roman",Men,Justin Lester,None,2012
+Wrestling,"Middleweight, Greco-Roman",Men,Ben Provisor,None,2012
+Wrestling,"Light-Heavyweight, Greco-Roman",Men,Chas Betts,None,2012
+Wrestling,"Super-Heavyweight, Greco-Roman",Men,Dremiel Byers,None,2012
+Wrestling,"Featherweight, Freestyle",Men,Sam Hazewinkel,None,2012
+Wrestling,"Lightweight, Freestyle",Men,Coleman Scott,Bronze,2012
+Wrestling,"Welterweight, Freestyle",Men,Jared Frayer,None,2012
+Wrestling,"Middleweight, Freestyle",Men,Jordan Burroughs,Gold,2012
+Wrestling,"Light-Heavyweight, Freestyle",Men,Jake Herbert,None,2012
+Wrestling,"Heavyweight, Freestyle",Men,Jake Varner,Gold,2012
+Wrestling,"Super-Heavyweight, Freestyle",Men,Tervel Dlagnev,Bronze,2012
+Wrestling,"Flyweight, Freestyle",Women,Clarissa Chun,Bronze,2012
+Wrestling,"Lightweight, Freestyle",Women,Kelsey Campbell,None,2012
+Wrestling,"Middleweight, Freestyle",Women,Elena Pirozhkova,None,2012
+Wrestling,"Heavyweight, Freestyle",Women,Ali Bernard,None,2012

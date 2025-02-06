@@ -1,18 +1,495 @@
-Sport,"1st place, gold medalist(s)","2nd place, silver medalist(s)","3rd place, bronze medalist(s)",Total
-Athletics,12,8,10,30
-Swimming,11,9,7,27
-Wrestling,3,3,2,8
-Tennis,2,0,1,3
-Synchronized swimming,2,0,0,2
-Sailing,1,6,2,9
-Gymnastics,1,2,3,6
-Boxing,1,1,1,3
-Diving,1,1,1,3
-Shooting,1,1,0,2
-Canoeing,1,0,2,3
-Basketball,1,0,1,2
-Rowing,0,2,1,3
-Judo,0,1,0,1
-Cycling,0,0,2,2
-Equestrian,0,0,2,2
-Volleyball,0,0,2,2
+Sport,Event,Gender,Athlete,Medal,Year
+Archery,Individual,Men,Jay Barrs,None,1992
+Archery,Individual,Men,Butch Johnson,None,1992
+Archery,Individual,Men,Rick McKinney,None,1992
+Archery,Team,Men,Butch Johnson•Rick McKinney•Jay Barrs,None,1992
+Archery,Individual,Women,Denise Parker,None,1992
+Archery,Individual,Women,Jennifer O'Donnell,None,1992
+Archery,Individual,Women,Sherry Block,None,1992
+Archery,Team,Women,Jennifer O'Donnell•Sherry Block•Denise Parker,None,1992
+Artistic Gymnastics,Individual All-Around,Men,Scott Keswick,None,1992
+Artistic Gymnastics,Individual All-Around,Men,John Roethlisberger,None,1992
+Artistic Gymnastics,Individual All-Around,Men,Chris Waller,None,1992
+Artistic Gymnastics,Individual All-Around,Men,Trent Dimas,None,1992
+Artistic Gymnastics,Individual All-Around,Men,"Dominick Minicucci, Jr.",None,1992
+Artistic Gymnastics,Individual All-Around,Men,Jair Lynch,None,1992
+Artistic Gymnastics,Team All-Around,Men,"Chris Waller•John Roethlisberger•Scott Keswick•Trent Dimas•Dominick Minicucci, Jr.•Jair Lynch",None,1992
+Artistic Gymnastics,Floor Exercise,Men,Scott Keswick,None,1992
+Artistic Gymnastics,Floor Exercise,Men,John Roethlisberger,None,1992
+Artistic Gymnastics,Floor Exercise,Men,Chris Waller,None,1992
+Artistic Gymnastics,Floor Exercise,Men,Trent Dimas,None,1992
+Artistic Gymnastics,Floor Exercise,Men,"Dominick Minicucci, Jr.",None,1992
+Artistic Gymnastics,Floor Exercise,Men,Jair Lynch,None,1992
+Artistic Gymnastics,Horse Vault,Men,Trent Dimas,None,1992
+Artistic Gymnastics,Horse Vault,Men,John Roethlisberger,None,1992
+Artistic Gymnastics,Horse Vault,Men,"Dominick Minicucci, Jr.",None,1992
+Artistic Gymnastics,Horse Vault,Men,Chris Waller,None,1992
+Artistic Gymnastics,Horse Vault,Men,Scott Keswick,None,1992
+Artistic Gymnastics,Horse Vault,Men,Jair Lynch,None,1992
+Artistic Gymnastics,Parallel Bars,Men,Jair Lynch,None,1992
+Artistic Gymnastics,Parallel Bars,Men,Chris Waller,None,1992
+Artistic Gymnastics,Parallel Bars,Men,Scott Keswick,None,1992
+Artistic Gymnastics,Parallel Bars,Men,Trent Dimas,None,1992
+Artistic Gymnastics,Parallel Bars,Men,"Dominick Minicucci, Jr.",None,1992
+Artistic Gymnastics,Parallel Bars,Men,John Roethlisberger,None,1992
+Artistic Gymnastics,Horizontal Bar,Men,Trent Dimas,Gold,1992
+Artistic Gymnastics,Horizontal Bar,Men,Jair Lynch,None,1992
+Artistic Gymnastics,Horizontal Bar,Men,Chris Waller,None,1992
+Artistic Gymnastics,Horizontal Bar,Men,John Roethlisberger,None,1992
+Artistic Gymnastics,Horizontal Bar,Men,Scott Keswick,None,1992
+Artistic Gymnastics,Horizontal Bar,Men,"Dominick Minicucci, Jr.",None,1992
+Artistic Gymnastics,Rings,Men,Scott Keswick,None,1992
+Artistic Gymnastics,Rings,Men,John Roethlisberger,None,1992
+Artistic Gymnastics,Rings,Men,Chris Waller,None,1992
+Artistic Gymnastics,Rings,Men,"Dominick Minicucci, Jr.",None,1992
+Artistic Gymnastics,Rings,Men,Jair Lynch,None,1992
+Artistic Gymnastics,Rings,Men,Trent Dimas,None,1992
+Artistic Gymnastics,Pommelled Horse,Men,Chris Waller,None,1992
+Artistic Gymnastics,Pommelled Horse,Men,Jair Lynch,None,1992
+Artistic Gymnastics,Pommelled Horse,Men,"Dominick Minicucci, Jr.",None,1992
+Artistic Gymnastics,Pommelled Horse,Men,John Roethlisberger,None,1992
+Artistic Gymnastics,Pommelled Horse,Men,Trent Dimas,None,1992
+Artistic Gymnastics,Pommelled Horse,Men,Scott Keswick,None,1992
+Artistic Gymnastics,Individual All-Around,Women,Shannon Miller,Silver,1992
+Artistic Gymnastics,Individual All-Around,Women,Kim Zmeskal,None,1992
+Artistic Gymnastics,Individual All-Around,Women,Betty Okino,None,1992
+Artistic Gymnastics,Individual All-Around,Women,Kerri Strug,None,1992
+Artistic Gymnastics,Individual All-Around,Women,Dominique Dawes,None,1992
+Artistic Gymnastics,Individual All-Around,Women,Wendy Bruce,None,1992
+Artistic Gymnastics,Team All-Around,Women,Shannon Miller•Betty Okino•Kim Zmeskal•Kerri Strug•Dominique Dawes•Wendy Bruce,None,1992
+Artistic Gymnastics,Floor Exercise,Women,Shannon Miller,Bronze,1992
+Artistic Gymnastics,Floor Exercise,Women,Kim Zmeskal,None,1992
+Artistic Gymnastics,Floor Exercise,Women,Dominique Dawes,None,1992
+Artistic Gymnastics,Floor Exercise,Women,Betty Okino,None,1992
+Artistic Gymnastics,Floor Exercise,Women,Kerri Strug,None,1992
+Artistic Gymnastics,Floor Exercise,Women,Wendy Bruce,None,1992
+Artistic Gymnastics,Horse Vault,Women,Shannon Miller,None,1992
+Artistic Gymnastics,Horse Vault,Women,Kim Zmeskal,None,1992
+Artistic Gymnastics,Horse Vault,Women,Betty Okino,None,1992
+Artistic Gymnastics,Horse Vault,Women,Kerri Strug,None,1992
+Artistic Gymnastics,Horse Vault,Women,Wendy Bruce,None,1992
+Artistic Gymnastics,Horse Vault,Women,Dominique Dawes,None,1992
+Artistic Gymnastics,Uneven Bars,Women,Shannon Miller,Bronze,1992
+Artistic Gymnastics,Uneven Bars,Women,Kim Zmeskal,None,1992
+Artistic Gymnastics,Uneven Bars,Women,Betty Okino,None,1992
+Artistic Gymnastics,Uneven Bars,Women,Kerri Strug,None,1992
+Artistic Gymnastics,Uneven Bars,Women,Wendy Bruce,None,1992
+Artistic Gymnastics,Uneven Bars,Women,Dominique Dawes,None,1992
+Artistic Gymnastics,Balance Beam,Women,Shannon Miller,Silver,1992
+Artistic Gymnastics,Balance Beam,Women,Betty Okino,None,1992
+Artistic Gymnastics,Balance Beam,Women,Kerri Strug,None,1992
+Artistic Gymnastics,Balance Beam,Women,Dominique Dawes,None,1992
+Artistic Gymnastics,Balance Beam,Women,Wendy Bruce,None,1992
+Artistic Gymnastics,Balance Beam,Women,Kim Zmeskal,None,1992
+Artistic Swimming,Solo,Women,Kristen Babb-Sprague,Gold,1992
+Artistic Swimming,Solo,Women,Karen Josephson,None,1992
+Artistic Swimming,Solo,Women,Sarah Josephson,None,1992
+Artistic Swimming,Duet,Women,Karen Josephson•Sarah Josephson,None,1992
+Athletics,100 metres,Men,Dennis Mitchell,Bronze,1992
+Athletics,100 metres,Men,Leroy Burrell,None,1992
+Athletics,100 metres,Men,Mark Witherspoon,None,1992
+Athletics,200 metres,Men,Mike Marsh,Gold,1992
+Athletics,200 metres,Men,Michael Bates,Bronze,1992
+Athletics,200 metres,Men,Michael Johnson,None,1992
+Athletics,400 metres,Men,Quincy Watts,Gold,1992
+Athletics,400 metres,Men,Steve Lewis,Silver,1992
+Athletics,400 metres,Men,Danny Everett,None,1992
+Athletics,800 metres,Men,Johnny Gray,Bronze,1992
+Athletics,800 metres,Men,Mark Everett,None,1992
+Athletics,800 metres,Men,Tony Parrilla,None,1992
+Athletics,"1,500 metres",Men,Jim Spivey,None,1992
+Athletics,"1,500 metres",Men,Steve Holman,None,1992
+Athletics,"1,500 metres",Men,Terrance Herrington,None,1992
+Athletics,"5,000 metres",Men,Bob Kennedy,None,1992
+Athletics,"5,000 metres",Men,Reuben Reina,None,1992
+Athletics,"5,000 metres",Men,John Trautmann,None,1992
+Athletics,"10,000 metres",Men,Todd Williams,None,1992
+Athletics,"10,000 metres",Men,Steve Plasencia,None,1992
+Athletics,"10,000 metres",Men,Aaron Ramirez,None,1992
+Athletics,Marathon,Men,Steve Spence,None,1992
+Athletics,Marathon,Men,Ed Eyestone,None,1992
+Athletics,Marathon,Men,Bob Kempainen,None,1992
+Athletics,110 metres Hurdles,Men,Tony Dees,Silver,1992
+Athletics,110 metres Hurdles,Men,Jack Pierce,Bronze,1992
+Athletics,110 metres Hurdles,Men,Arthur J. Blake,None,1992
+Athletics,400 metres Hurdles,Men,Kevin Young,Gold,1992
+Athletics,400 metres Hurdles,Men,David Patrick,None,1992
+Athletics,400 metres Hurdles,Men,McClinton Neal,None,1992
+Athletics,"3,000 metres Steeplechase",Men,Brian Diemer,None,1992
+Athletics,"3,000 metres Steeplechase",Men,Mark Croghan,None,1992
+Athletics,"3,000 metres Steeplechase",Men,Danny Lopez,None,1992
+Athletics,4 × 100 metres Relay,Men,Mike Marsh•Leroy Burrell•Dennis Mitchell•Carl Lewis•James Jett,None,1992
+Athletics,4 × 400 metres Relay,Men,Andrew Valmon•Quincy Watts•Michael Johnson•Steve Lewis•Darnell Hall•Chip Jenkins,None,1992
+Athletics,20 kilometres Race Walk,Men,Allen James,None,1992
+Athletics,50 kilometres Race Walk,Men,Carl Schueler,None,1992
+Athletics,50 kilometres Race Walk,Men,Herm Nelson,None,1992
+Athletics,50 kilometres Race Walk,Men,Marco Evoniuk,None,1992
+Athletics,High Jump,Men,Hollis Conway,Bronze,1992
+Athletics,High Jump,Men,Charles Austin,None,1992
+Athletics,High Jump,Men,Darrin Plab,None,1992
+Athletics,Pole Vault,Men,Kory Tarpenning,None,1992
+Athletics,Pole Vault,Men,Dave Volz,None,1992
+Athletics,Pole Vault,Men,Tim Bright,None,1992
+Athletics,Long Jump,Men,Carl Lewis,Gold,1992
+Athletics,Long Jump,Men,Mike Powell,Silver,1992
+Athletics,Long Jump,Men,Joe Greene,Bronze,1992
+Athletics,Triple Jump,Men,Mike Conley,Gold,1992
+Athletics,Triple Jump,Men,Charlie Simpkins,Silver,1992
+Athletics,Triple Jump,Men,John Tillman,None,1992
+Athletics,Shot Put,Men,Mike Stulce,Gold,1992
+Athletics,Shot Put,Men,Jim Doehring,Silver,1992
+Athletics,Shot Put,Men,Ron Backes,None,1992
+Athletics,Discus Throw,Men,Tony Washington,None,1992
+Athletics,Discus Throw,Men,Mike Buncic,None,1992
+Athletics,Discus Throw,Men,Brian Blutreich,None,1992
+Athletics,Hammer Throw,Men,Lance Deal,None,1992
+Athletics,Hammer Throw,Men,Jud Logan,None,1992
+Athletics,Hammer Throw,Men,Ken Flax,None,1992
+Athletics,Javelin Throw,Men,Mike Barnett,None,1992
+Athletics,Javelin Throw,Men,Tom Pukstys,None,1992
+Athletics,Javelin Throw,Men,Brian Crouser,None,1992
+Athletics,Decathlon,Men,Dave Johnson,Bronze,1992
+Athletics,Decathlon,Men,Rob Muzzio,None,1992
+Athletics,Decathlon,Men,Aric Long,None,1992
+Athletics,"1,500 metres Wheelchair",Men,Mike Noe,None,1992
+Athletics,"1,500 metres Wheelchair",Men,Scot Hollonbeck,None,1992
+Athletics,100 metres,Women,Gail Devers,Gold,1992
+Athletics,100 metres,Women,Gwen Torrence,None,1992
+Athletics,100 metres,Women,Evelyn Ashford,None,1992
+Athletics,200 metres,Women,Gwen Torrence,Gold,1992
+Athletics,200 metres,Women,Carlette Guidry,None,1992
+Athletics,200 metres,Women,Michelle Finn,None,1992
+Athletics,400 metres,Women,Rochelle Stevens,None,1992
+Athletics,400 metres,Women,Jearl Miles,None,1992
+Athletics,400 metres,Women,Natasha Kaiser-Brown,None,1992
+Athletics,800 metres,Women,Joetta Clark,None,1992
+Athletics,800 metres,Women,Julie Jenkins,None,1992
+Athletics,800 metres,Women,Meredith Rainey,None,1992
+Athletics,"1,500 metres",Women,PattiSue Plumer,None,1992
+Athletics,"1,500 metres",Women,Regina Jacobs,None,1992
+Athletics,"1,500 metres",Women,Suzy Hamilton,None,1992
+Athletics,"3,000 metres",Women,PattiSue Plumer,None,1992
+Athletics,"3,000 metres",Women,Shelly Steely,None,1992
+Athletics,"3,000 metres",Women,Annette Peters,None,1992
+Athletics,"10,000 metres",Women,Lynn Jennings,Bronze,1992
+Athletics,"10,000 metres",Women,Judi St. Hilaire,None,1992
+Athletics,"10,000 metres",Women,Gwyn Coogan,None,1992
+Athletics,Marathon,Women,Cathy O'Brien,None,1992
+Athletics,Marathon,Women,Francie Larrieu-Smith,None,1992
+Athletics,Marathon,Women,Janis Klecker,None,1992
+Athletics,100 metres Hurdles,Women,LaVonna Martin,Silver,1992
+Athletics,100 metres Hurdles,Women,Lynda Tolbert,None,1992
+Athletics,100 metres Hurdles,Women,Gail Devers,None,1992
+Athletics,400 metres Hurdles,Women,Sandra Farmer-Patrick,Silver,1992
+Athletics,400 metres Hurdles,Women,Janeene Vickers,Bronze,1992
+Athletics,400 metres Hurdles,Women,Tonja Buford,None,1992
+Athletics,4 × 100 metres Relay,Women,Evelyn Ashford•Esther Jones•Carlette Guidry•Gwen Torrence•Michelle Finn,None,1992
+Athletics,4 × 400 metres Relay,Women,Natasha Kaiser-Brown•Gwen Torrence•Jearl Miles•Rochelle Stevens•Denean Howard-Hill•Dannette Young,None,1992
+Athletics,10 kilometres Race Walk,Women,Michelle Rohl,None,1992
+Athletics,10 kilometres Race Walk,Women,Debbi Lawrence,None,1992
+Athletics,10 kilometres Race Walk,Women,Tori Herazo,None,1992
+Athletics,High Jump,Women,Tanya Hughes,None,1992
+Athletics,High Jump,Women,Sue Rembao,None,1992
+Athletics,High Jump,Women,Amber Welty,None,1992
+Athletics,Long Jump,Women,Jackie Joyner-Kersee,Bronze,1992
+Athletics,Long Jump,Women,Sharon Couch-Jewell,None,1992
+Athletics,Long Jump,Women,Sheila Echols,None,1992
+Athletics,Shot Put,Women,Ramona Pagel,None,1992
+Athletics,Shot Put,Women,Pam Dukes,None,1992
+Athletics,Shot Put,Women,Bonnie Dasse,None,1992
+Athletics,Discus Throw,Women,Connie Price-Smith,None,1992
+Athletics,Discus Throw,Women,Carla Garrett,None,1992
+Athletics,Discus Throw,Women,Penny Neer,None,1992
+Athletics,Javelin Throw,Women,Donna Mayhew,None,1992
+Athletics,Javelin Throw,Women,Paula Berry,None,1992
+Athletics,Heptathlon,Women,Jackie Joyner-Kersee,Gold,1992
+Athletics,Heptathlon,Women,Cindy Greiner,None,1992
+Athletics,Heptathlon,Women,Kym Carter,None,1992
+Athletics,800 metres Wheelchair,Women,Jean Driscoll,None,1992
+Athletics,800 metres Wheelchair,Women,Candace Cable,None,1992
+Athletics,800 metres Wheelchair,Women,Deanna Sodoma,None,1992
+Badminton,Singles,Men,Chris Jogis,None,1992
+Badminton,Singles,Men,Benny Lee,None,1992
+Badminton,Singles,Men,Tommy Reidy,None,1992
+Badminton,Doubles,Men,Benny Lee•Tommy Reidy,None,1992
+Badminton,Singles,Women,Linda French,None,1992
+Badminton,Singles,Women,Joy Kitzmiller,None,1992
+Badminton,Singles,Women,Erika Von Heiland,None,1992
+Badminton,Doubles,Women,Joy Kitzmiller•Linda French,None,1992
+Baseball,Baseball,Men,"Willie Adams•Jeff Alkire, II•Darren Dreifort•Nomar Garciaparra•Jason Giambi•Rick Greene•Jeffrey Hammonds•Rick Helling•Charles Johnson•Daron Kirkreit•Chad McConnell•Calvin Murray•Phil Nevin•Chris Roberts•Michael Tucker•Jason Varitek•Ron Villone, Jr.•B. J. Wallace•Craig Wilson•Chris Wimmer",None,1992
+Basketball,Basketball,Men,Charles Barkley•Larry Bird•Clyde Drexler•Patrick Ewing•Magic Johnson•Michael Jordan•Christian Laettner•Karl Malone•Chris Mullin•Scottie Pippen•David Robinson•John Stockton,None,1992
+Basketball,Basketball,Women,Vicky Bullett•Daedra Charles•Cynthia Cooper•Clarissa Davis•Medina Dixon•Teresa Edwards•Tammy Jackson•Carolyn Jones•Katrina McClain•Suzie McConnell•Vickie Orr•Teresa Weatherspoon,None,1992
+Boxing,Light-Flyweight,Men,Eric Griffin,None,1992
+Boxing,Flyweight,Men,Tim Austin,Bronze,1992
+Boxing,Bantamweight,Men,"Sergio Reyes, Jr.",None,1992
+Boxing,Featherweight,Men,Julian Wheeler,None,1992
+Boxing,Lightweight,Men,Oscar De La Hoya,Gold,1992
+Boxing,Light-Welterweight,Men,Vernon Forrest,None,1992
+Boxing,Welterweight,Men,Pepe Reilly,None,1992
+Boxing,Light-Middleweight,Men,Raul Marquez,None,1992
+Boxing,Middleweight,Men,Chris Byrd,Silver,1992
+Boxing,Light-Heavyweight,Men,Montell Griffin,None,1992
+Boxing,Heavyweight,Men,Danell Nicholson,None,1992
+Boxing,Super-Heavyweight,Men,Larry Donald,None,1992
+Canoe Slalom,"Kayak Singles, Slalom",Men,Eric Jackson,None,1992
+Canoe Slalom,"Kayak Singles, Slalom",Men,Rich Weiss,None,1992
+Canoe Slalom,"Kayak Singles, Slalom",Men,Scott Shipley,None,1992
+Canoe Slalom,"Canadian Singles, Slalom",Men,Jon Lugbill,None,1992
+Canoe Slalom,"Canadian Singles, Slalom",Men,Davey Hearn,None,1992
+Canoe Slalom,"Canadian Singles, Slalom",Men,Adam Clawson,None,1992
+Canoe Slalom,"Canadian Doubles, Slalom",Men,Scott Strausbaugh•Joe Jacobi,None,1992
+Canoe Slalom,"Canadian Doubles, Slalom",Men,Jamie McEwan•Lecky Haller,None,1992
+Canoe Slalom,"Canadian Doubles, Slalom",Men,Elliot Weintrob•Martin McCormick,None,1992
+Canoe Slalom,"Kayak Singles, Slalom",Women,Dana Chladek,Bronze,1992
+Canoe Slalom,"Kayak Singles, Slalom",Women,Cathy Hearn,None,1992
+Canoe Slalom,"Kayak Singles, Slalom",Women,Maylon Hanold,None,1992
+Canoe Sprint,"Kayak Singles, 500 metres",Men,Norm Bellingham,None,1992
+Canoe Sprint,"Kayak Singles, 1,000 metres",Men,Greg Barton,Bronze,1992
+Canoe Sprint,"Kayak Doubles, 500 metres",Men,Michael Harbold•Peter Newton,None,1992
+Canoe Sprint,"Kayak Doubles, 1,000 metres",Men,Greg Barton•Norm Bellingham,None,1992
+Canoe Sprint,"Kayak Fours, 1,000 metres",Men,Chris Barlow•Mark Hamilton•Mike Herbert•Terry Kent,None,1992
+Canoe Sprint,"Canadian Singles, 500 metres",Men,Fred Spaulding,None,1992
+Canoe Sprint,"Canadian Singles, 1,000 metres",Men,Fred Spaulding,None,1992
+Canoe Sprint,"Canadian Doubles, 500 metres",Men,Stewart Carr•Jim Terrell,None,1992
+Canoe Sprint,"Canadian Doubles, 1,000 metres",Men,Wyatt Jones•Gregory Steward,None,1992
+Canoe Sprint,"Kayak Singles, 500 metres",Women,Sheila Conover,None,1992
+Canoe Sprint,"Kayak Doubles, 500 metres",Women,Cathy Marino-Geers•Traci Phillips,None,1992
+Canoe Sprint,"Kayak Fours, 500 metres",Women,Sheila Conover•Alexandra Harbold•Cathy Marino-Geers•Traci Phillips,None,1992
+Cycling Road,"Road Race, Individual",Men,Lance Armstrong,None,1992
+Cycling Road,"Road Race, Individual",Men,Timm Peddie,None,1992
+Cycling Road,"Road Race, Individual",Men,Bob Mionske,None,1992
+Cycling Road,100 kilometres Team Time Trial,Men,George Hincapie•Nathan Sheafor•Scott Mercier•John Stenner,None,1992
+Cycling Road,"Road Race, Individual",Women,Jeanne Golay,None,1992
+Cycling Road,"Road Race, Individual",Women,Sally Zack,None,1992
+Cycling Road,"Road Race, Individual",Women,Inga Thompson,None,1992
+Cycling Track,Sprint,Men,Ken Carpenter,None,1992
+Cycling Track,"1,000 metres Time Trial",Men,Erin Hartwell,Bronze,1992
+Cycling Track,"Individual Pursuit, 4,000 metres",Men,Carl Sundquist,None,1992
+Cycling Track,"Team Pursuit, 4,000 metres",Men,Chris Coletta•Dirk Copeland•Matt Hamon•Jim Pollak,None,1992
+Cycling Track,Points Race,Men,J'me Carney,None,1992
+Cycling Track,Sprint,Women,Connie Paraskevin-Young,None,1992
+Cycling Track,Individual Pursuit,Women,Rebecca Twigg,Bronze,1992
+Diving,Springboard,Men,Mark Lenzi,Gold,1992
+Diving,Springboard,Men,Kent Ferguson,None,1992
+Diving,Platform,Men,Scott Donie,Silver,1992
+Diving,Platform,Men,Matt Scoggin,None,1992
+Diving,Springboard,Women,Julie Ovenhouse,None,1992
+Diving,Springboard,Women,Karen LaFace,None,1992
+Diving,Platform,Women,Mary Ellen Clark,Bronze,1992
+Diving,Platform,Women,Ellen Owen,None,1992
+Equestrian Dressage,Individual,Open,Carol Lavell,None,1992
+Equestrian Dressage,Individual,Open,Charlotte Bredahl,None,1992
+Equestrian Dressage,Individual,Open,Robert Dover,None,1992
+Equestrian Dressage,Individual,Open,Michael Poulin,None,1992
+Equestrian Dressage,Team,Open,Carol Lavell•Charlotte Bredahl•Robert Dover•Michael Poulin,None,1992
+Equestrian Eventing,Individual,Open,Jil Walton,None,1992
+Equestrian Eventing,Individual,Open,J. Michael Plumb,None,1992
+Equestrian Eventing,Individual,Open,Stephen Bradley,None,1992
+Equestrian Eventing,Individual,Open,Todd Trewin,None,1992
+Equestrian Eventing,Team,Open,Jil Walton•J. Michael Plumb•Stephen Bradley•Todd Trewin,None,1992
+Equestrian Jumping,Individual,Open,Norman Dello Joio,Bronze,1992
+Equestrian Jumping,Individual,Open,Michael Matz,None,1992
+Equestrian Jumping,Individual,Open,Lisa Jacquin,None,1992
+Equestrian Jumping,Individual,Open,Anne Kursinski,None,1992
+Equestrian Jumping,Team,Open,Michael Matz•Lisa Jacquin•Norman Dello Joio•Anne Kursinski,None,1992
+Fencing,"Foil, Individual",Men,Mike Marx,None,1992
+Fencing,"Foil, Individual",Men,Nick Bravin,None,1992
+Fencing,"Foil, Individual",Men,Zaddick Longenbach,None,1992
+Fencing,"Épée, Individual",Men,Robert Marx,None,1992
+Fencing,"Épée, Individual",Men,Jon Normile,None,1992
+Fencing,"Épée, Individual",Men,Chris O'Loughlin,None,1992
+Fencing,"Sabre, Individual",Men,Mike Lofton,None,1992
+Fencing,"Sabre, Individual",Men,Bob Cottingham,None,1992
+Fencing,"Sabre, Individual",Men,Steve Mormando,None,1992
+Fencing,"Sabre, Team",Men,Mike Lofton•Bob Cottingham•Steve Mormando•John Friedberg•Peter Westbrook,None,1992
+Fencing,"Foil, Individual",Women,Caitlin Bilodeaux-Banos,None,1992
+Fencing,"Foil, Individual",Women,Mary O'Neill,None,1992
+Fencing,"Foil, Individual",Women,Molly Sullivan,None,1992
+Fencing,"Foil, Team",Women,Caitlin Bilodeaux-Banos•Mary O'Neill•Molly Sullivan•Ann Marsh•Sharon Monplaisir,None,1992
+Football,Football,Men,Brad Friedel•Cam Rast•Alexi Lalas•Mike Burns•Erik Imler•Dario Brose•Dante Washington•Mike Lapper•Steve Snow•Claudio Reyna•Yari Allnutt•Troy Dayak•Joe-Max Moore•Cobi Jones•Manny Lagos•Mike Huwiler•Curt Onalfo•Ian Feuer(DNS)•Chris Henderson(DNS)•Zak Ibsen(DNS),None,1992
+Handball,Handball,Women,Sharon Cain•Kim Clarke•Laura Coenen•Laurie Fellner•Sam Jones•Portia Lack•Dannette Leininger•Pat Neder•Karyn Palgut•Carol Peterka•Angie Raynor•Barbara Schaaf•Cindy Stinger•Toni Jameson(DNS)•Lori Ogren(DNS)•Chryssandra Hires(DNS),None,1992
+Judo,Extra-Lightweight,Men,Tony Okada,None,1992
+Judo,Half-Lightweight,Men,Jimmy Pedro,None,1992
+Judo,Lightweight,Men,Mike Swain,None,1992
+Judo,Half-Middleweight,Men,Jason Morris,Silver,1992
+Judo,Middleweight,Men,Joseph Wanag,None,1992
+Judo,Half-Heavyweight,Men,Leo White,None,1992
+Judo,Heavyweight,Men,Damon Keeve,None,1992
+Judo,Half-Lightweight,Women,Jo Anne Quiring,None,1992
+Judo,Lightweight,Women,Kate Donahoo,None,1992
+Judo,Half-Middleweight,Women,Lynn Roethke,None,1992
+Judo,Middleweight,Women,Grace Jividen,None,1992
+Judo,Half-Heavyweight,Women,Sandy Bacher,None,1992
+Judo,Heavyweight,Women,Colleen Rosensteel,None,1992
+Modern Pentathlon,Individual,Men,Michael Gostigian,None,1992
+Modern Pentathlon,Individual,Men,Rob Stull,None,1992
+Modern Pentathlon,Individual,Men,James Haley,None,1992
+Modern Pentathlon,Team,Men,Michael Gostigian•Rob Stull•James Haley,None,1992
+Rhythmic Gymnastics,Individual,Women,Jenifer Lovell,None,1992
+Rhythmic Gymnastics,Individual,Women,Tamara Levinson,None,1992
+Roller Hockey,Roller Hockey,Men,"Plimon Howard•Jim Trussell•Jeff Gibson•Keith Huckaby•Johnny Raglin•Mike Stevenson•Dick Chado, II•Brady Donoghue•Karl Huckaby•Dave Jones",None,1992
+Rowing,Single Sculls,Men,Greg Walker,None,1992
+Rowing,Double Sculls,Men,Greg Springer•Jon Smith,None,1992
+Rowing,Coxless Pairs,Men,Peter Sharis•John Pescatore,None,1992
+Rowing,Quadruple Sculls,Men,"Keir Pearson•John Riley, Jr.•Bob Kaehler•Chip McKibben",None,1992
+Rowing,Coxed Pairs,Men,"Aaron Pollock•John Moore•Stephen Shellans, Jr.",None,1992
+Rowing,Coxless Fours,Men,"Doug Burden•Jeff McLaughlin•Tom Bohrer•Pat Manning, Jr.",None,1992
+Rowing,Coxed Fours,Men,"James Neil•Teo Bielefeld•Sean Hall•Jack Rusher, IV•Tim Evans",None,1992
+Rowing,Eights,Men,"Mike Teti•Chris Sahs•Scott Munn•Jeff Klepacki•Rob Shepherd•Malcolm Baker•Richard Kennelly, Jr.•John Parker•Michael Moore",None,1992
+Rowing,Single Sculls,Women,Anne Marden,None,1992
+Rowing,Double Sculls,Women,Cindy Ryder•Mary Mazzio,None,1992
+Rowing,Coxless Pairs,Women,Anna Seaton•Stephanie Maxwell-Pierson,None,1992
+Rowing,Quadruple Sculls,Women,Kris Karlson•Alison Townley•Serena Eddy-Moulton•Michelle Knox-Zaloom,None,1992
+Rowing,Coxless Fours,Women,Shelagh Donohoe•Cindy Eckert•Amy Fuller•Carol Feeney,None,1992
+Rowing,Eights,Women,Tina Brown•Shannon Day•Betsy McCagg•Mary McCagg•Sarah Gengler•Tracy Rude•Kelley Jones•Diana Olson•Yasmin Farooq,None,1992
+Sailing,Windsurfer,Men,Mike Gebhardt,Silver,1992
+Sailing,One Person Dinghy,Men,Brian Ledbetter,Silver,1992
+Sailing,Two Person Dinghy,Men,Kevin Burnham•Morgan Reeser,None,1992
+Sailing,Two Person Keelboat,Open,Hal Haenel•Mark Reynolds,None,1992
+Sailing,Multihull,Open,Keith Notary•Randy Smyth,None,1992
+Sailing,Three Person Keelboat,Open,Doug Kern•Jim Brady•Kevin Mahaney,None,1992
+Sailing,Two Person Heavyweight Dinghy,Open,Paul Foerster•Stephen Bourdow,None,1992
+Sailing,Windsurfer,Women,Lanee Butler,None,1992
+Sailing,One Person Dinghy,Women,Julia Trotman,Bronze,1992
+Sailing,Two Person Dinghy,Women,JJ Isler•Pamela Healy,None,1992
+Shooting,"Air Pistol, 10 metres",Men,Ben Amonette,None,1992
+Shooting,"Air Pistol, 10 metres",Men,Darius Young,None,1992
+Shooting,"Rapid-Fire Pistol, 25 metres",Men,John McNally,None,1992
+Shooting,"Rapid-Fire Pistol, 25 metres",Men,Roger Mar,None,1992
+Shooting,"Free Pistol, 50 metres",Men,Darius Young,None,1992
+Shooting,"Free Pistol, 50 metres",Men,Ben Amonette,None,1992
+Shooting,"Air Rifle, 10 metres",Men,Bob Foth,None,1992
+Shooting,"Air Rifle, 10 metres",Men,David Johnson,None,1992
+Shooting,"Small-Bore Rifle, Three Positions, 50 metres",Men,Bob Foth,Silver,1992
+Shooting,"Small-Bore Rifle, Three Positions, 50 metres",Men,David Johnson,None,1992
+Shooting,"Small-Bore Rifle, Prone, 50 metres",Men,Bill Meek,None,1992
+Shooting,"Small-Bore Rifle, Prone, 50 metres",Men,Mike Anti,None,1992
+Shooting,"Running Target, 10 metres",Men,Rusty Hill,None,1992
+Shooting,"Running Target, 10 metres",Men,Fritz Allen,None,1992
+Shooting,Trap,Open,Jay Waldron,None,1992
+Shooting,Trap,Open,Bret Erickson,None,1992
+Shooting,Trap,Open,Todd Graves,None,1992
+Shooting,Skeet,Open,Matt Dryke,None,1992
+Shooting,Skeet,Open,Todd Graves,None,1992
+Shooting,Skeet,Open,Connie Fluker,None,1992
+Shooting,"Air Pistol, 10 metres",Women,Connie Petracek,None,1992
+Shooting,"Air Pistol, 10 metres",Women,Libby Callahan,None,1992
+Shooting,"Sporting Pistol, 25 metres",Women,Roxane Thompson,None,1992
+Shooting,"Sporting Pistol, 25 metres",Women,Connie Petracek,None,1992
+Shooting,"Air Rifle, 10 metres",Women,Launi Meili,None,1992
+Shooting,"Air Rifle, 10 metres",Women,Debra Sinclair,None,1992
+Shooting,"Small-Bore Rifle, Three Positions, 50 metres",Women,Launi Meili,Gold,1992
+Shooting,"Small-Bore Rifle, Three Positions, 50 metres",Women,Ann-Marie Pfiffner,None,1992
+Swimming,50 metres Freestyle,Men,Matt Biondi,Silver,1992
+Swimming,50 metres Freestyle,Men,Tom Jager,Bronze,1992
+Swimming,100 metres Freestyle,Men,Jon Olsen,None,1992
+Swimming,100 metres Freestyle,Men,Matt Biondi,None,1992
+Swimming,200 metres Freestyle,Men,Joe Hudepohl,None,1992
+Swimming,200 metres Freestyle,Men,Doug Gjertsen,None,1992
+Swimming,400 metres Freestyle,Men,Sean Killion,None,1992
+Swimming,400 metres Freestyle,Men,Dan Jorgensen,None,1992
+Swimming,"1,500 metres Freestyle",Men,Lawrence Frostad,None,1992
+Swimming,"1,500 metres Freestyle",Men,Sean Killion,None,1992
+Swimming,4 × 100 metres Freestyle Relay,Men,Joe Hudepohl•Matt Biondi•Tom Jager•Jon Olsen•Shaun Jordan•Joel Thomas,None,1992
+Swimming,4 × 200 metres Freestyle Relay,Men,Joe Hudepohl•Mel Stewart•Jon Olsen•Doug Gjertsen•Scott Jaffe•Dan Jorgensen,None,1992
+Swimming,100 metres Backstroke,Men,Jeff Rouse,Silver,1992
+Swimming,100 metres Backstroke,Men,Dave Berkoff,Bronze,1992
+Swimming,200 metres Backstroke,Men,Tripp Schwenk,None,1992
+Swimming,200 metres Backstroke,Men,Royce Sharp,None,1992
+Swimming,100 metres Breaststroke,Men,Nelson Diebel,Gold,1992
+Swimming,100 metres Breaststroke,Men,Hans Dersch,None,1992
+Swimming,200 metres Breaststroke,Men,Mike Barrowman,Gold,1992
+Swimming,200 metres Breaststroke,Men,Roque Santos,None,1992
+Swimming,100 metres Butterfly,Men,Pablo Morales,Gold,1992
+Swimming,100 metres Butterfly,Men,Mel Stewart,None,1992
+Swimming,200 metres Butterfly,Men,Mel Stewart,Gold,1992
+Swimming,200 metres Butterfly,Men,Dave Wharton,None,1992
+Swimming,200 metres Individual Medley,Men,Greg Burgess,Silver,1992
+Swimming,200 metres Individual Medley,Men,Ron Karnaugh,None,1992
+Swimming,400 metres Individual Medley,Men,Eric Namesnik,Silver,1992
+Swimming,400 metres Individual Medley,Men,Dave Wharton,None,1992
+Swimming,4 × 100 metres Medley Relay,Men,Jeff Rouse•Nelson Diebel•Pablo Morales•Jon Olsen•Dave Berkoff•Hans Dersch•Mel Stewart•Matt Biondi,None,1992
+Swimming,50 metres Freestyle,Women,Angel Martino,Bronze,1992
+Swimming,50 metres Freestyle,Women,Jenny Thompson,None,1992
+Swimming,100 metres Freestyle,Women,Jenny Thompson,Silver,1992
+Swimming,100 metres Freestyle,Women,Nicole Haislett,None,1992
+Swimming,200 metres Freestyle,Women,Nicole Haislett,Gold,1992
+Swimming,200 metres Freestyle,Women,Jenny Thompson,None,1992
+Swimming,400 metres Freestyle,Women,Janet Evans,Silver,1992
+Swimming,400 metres Freestyle,Women,Erika Hansen,None,1992
+Swimming,800 metres Freestyle,Women,Janet Evans,Gold,1992
+Swimming,800 metres Freestyle,Women,Erika Hansen,None,1992
+Swimming,4 × 100 metres Freestyle Relay,Women,Nicole Haislett•Dara Torres•Angel Martino•Jenny Thompson•Ashley Tappin•Crissy Ahmann-Leighton,None,1992
+Swimming,100 metres Backstroke,Women,Lea Loveless,Bronze,1992
+Swimming,100 metres Backstroke,Women,Janie Wagstaff,None,1992
+Swimming,200 metres Backstroke,Women,Lea Loveless,None,1992
+Swimming,200 metres Backstroke,Women,Janie Wagstaff,None,1992
+Swimming,100 metres Breaststroke,Women,Anita Nall,Silver,1992
+Swimming,100 metres Breaststroke,Women,Megan Kleine,None,1992
+Swimming,200 metres Breaststroke,Women,Anita Nall,Bronze,1992
+Swimming,200 metres Breaststroke,Women,Jill Johnson,None,1992
+Swimming,100 metres Butterfly,Women,Crissy Ahmann-Leighton,Silver,1992
+Swimming,100 metres Butterfly,Women,Summer Sanders,None,1992
+Swimming,200 metres Butterfly,Women,Summer Sanders,Gold,1992
+Swimming,200 metres Butterfly,Women,Angie Wester-Krieg,None,1992
+Swimming,200 metres Individual Medley,Women,Summer Sanders,Silver,1992
+Swimming,200 metres Individual Medley,Women,Nicole Haislett,None,1992
+Swimming,400 metres Individual Medley,Women,Summer Sanders,Bronze,1992
+Swimming,400 metres Individual Medley,Women,Erika Hansen,None,1992
+Swimming,4 × 100 metres Medley Relay,Women,Lea Loveless•Anita Nall•Crissy Ahmann-Leighton•Jenny Thompson•Janie Wagstaff•Megan Kleine•Summer Sanders•Nicole Haislett,None,1992
+Table Tennis,Singles,Men,Jim Butler,None,1992
+Table Tennis,Singles,Men,Sean O'Neill,None,1992
+Table Tennis,Doubles,Men,Jim Butler•Sean O'Neill,None,1992
+Table Tennis,Singles,Women,Insook Bhushan,None,1992
+Table Tennis,Singles,Women,Diana Gee,None,1992
+Table Tennis,Singles,Women,Shui-Ling Yip,None,1992
+Table Tennis,Doubles,Women,Diana Gee•Shui-Ling Yip,None,1992
+Taekwondo,Finweight,Men,Juan Miguel Moreno,None,1992
+Taekwondo,Bantamweight,Men,Han-Won Lee,None,1992
+Taekwondo,Lightweight,Men,James Villasana,None,1992
+Taekwondo,Middleweight,Men,Herb Perez,None,1992
+Taekwondo,Flyweight,Women,Terry Poindexter,None,1992
+Taekwondo,Bantamweight,Women,Diane Murray,None,1992
+Taekwondo,Welterweight,Women,Jennifer Laney,None,1992
+Taekwondo,Heavyweight,Women,Lynnette Love,None,1992
+Tennis,Singles,Men,Jim Courier,None,1992
+Tennis,Singles,Men,Pete Sampras,None,1992
+Tennis,Singles,Men,Michael Chang,None,1992
+Tennis,Doubles,Men,Jim Courier•Pete Sampras,None,1992
+Tennis,Singles,Women,Jennifer Capriati,Gold,1992
+Tennis,Singles,Women,Mary Joe Fernandez,Bronze,1992
+Tennis,Singles,Women,Zina Garrison,None,1992
+Tennis,Doubles,Women,Mary Joe Fernandez•Gigi Fernandez,None,1992
+Volleyball,Volleyball,Men,Nick Becker•Carlos Briceno•Bob Ctvrtlik•Scott Fortune•Dan Greenbaum•Brent Hilliard•Bryan Ivie•Doug Partie•Bob Samuelson•Eric Sato•Jeff Stork•Steve Timmons,None,1992
+Volleyball,Volleyball,Women,Janet Cobbs•Tara Cross-Battle•Lori Endicott•Caren Kemner•Ruth Lawanson•Tammy Liley•Elaina Oden•Kim Oden•Teee Sanders•Liane Sato•Paula Weishoff•Yoko Zetterlund,None,1992
+Water Polo,Water Polo,Men,Jeff Campbell•Chris Duplanty•Mike Evans•Kirk Everist•Erich Fischer•Charlie Harris•Chris Humbert•Doug Kimbell•Craig Klass•Alex Rousseau•Terry Schroeder•John Vargas•Craig Wilson,None,1992
+Weightlifting,Featherweight,Men,Bryan Jacob,None,1992
+Weightlifting,Lightweight,Men,Tim McRae,None,1992
+Weightlifting,Lightweight,Men,Vernon Patao,None,1992
+Weightlifting,Light-Heavyweight,Men,Tony Urrutia,None,1992
+Weightlifting,Middle-Heavyweight,Men,Brett Brian,None,1992
+Weightlifting,Heavyweight I,Men,Wes Barnett,None,1992
+Weightlifting,Heavyweight I,Men,David Langon,None,1992
+Weightlifting,Heavyweight II,Men,Rich Schutz,None,1992
+Weightlifting,Super-Heavyweight,Men,Mario Martinez,None,1992
+Weightlifting,Super-Heavyweight,Men,Mark Henry,None,1992
+Wrestling,"Light-Flyweight, Greco-Roman",Men,Mark Fuller,None,1992
+Wrestling,"Flyweight, Greco-Roman",Men,Shawn Sheldon,None,1992
+Wrestling,"Bantamweight, Greco-Roman",Men,Dennis Hall,None,1992
+Wrestling,"Featherweight, Greco-Roman",Men,Buddy Lee,None,1992
+Wrestling,"Lightweight, Greco-Roman",Men,Rodney Smith,Bronze,1992
+Wrestling,"Welterweight, Greco-Roman",Men,Travis West,None,1992
+Wrestling,"Middleweight, Greco-Roman",Men,Dan Henderson,None,1992
+Wrestling,"Light-Heavyweight, Greco-Roman",Men,Mike Foy,None,1992
+Wrestling,"Heavyweight, Greco-Roman",Men,Dennis Koslowski,Silver,1992
+Wrestling,"Super-Heavyweight, Greco-Roman",Men,Matt Ghaffari,None,1992
+Wrestling,"Light-Flyweight, Freestyle",Men,Tim Vanni,None,1992
+Wrestling,"Flyweight, Freestyle",Men,Zeke Jones,Silver,1992
+Wrestling,"Bantamweight, Freestyle",Men,Kendall Cross,None,1992
+Wrestling,"Featherweight, Freestyle",Men,John Smith,Gold,1992
+Wrestling,"Lightweight, Freestyle",Men,Townsend Saunders,None,1992
+Wrestling,"Welterweight, Freestyle",Men,Kenny Monday,Silver,1992
+Wrestling,"Middleweight, Freestyle",Men,Kevin Jackson,Gold,1992
+Wrestling,"Light-Heavyweight, Freestyle",Men,Chris Campbell,Bronze,1992
+Wrestling,"Heavyweight, Freestyle",Men,Mark Coleman,None,1992
+Wrestling,"Super-Heavyweight, Freestyle",Men,Bruce Baumgartner,Gold,1992

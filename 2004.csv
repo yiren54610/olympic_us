@@ -1,24 +1,472 @@
-Sport,"1st place, gold medalist(s)","2nd place, silver medalist(s)","3rd place, bronze medalist(s)",Total
-Swimming,12,9,7,28
-Athletics,9,11,5,25
-Gymnastics,2,6,1,9
-Shooting,2,1,0,3
-Wrestling,1,3,2,6
-Equestrian,1,2,2,5
-Rowing,1,1,0,2
-Sailing,1,1,0,2
-Taekwondo,1,1,0,2
-Basketball,1,0,1,2
-Boxing,1,0,1,2
-Fencing,1,0,1,2
-Volleyball,1,0,1,2
-Soccer,1,0,0,1
-Softball,1,0,0,1
-Cycling,0,2,0,2
-Canoeing,0,1,0,1
-Tennis,0,1,0,1
-Synchronized swimming,0,0,2,2
-Judo,0,0,1,1
-Triathlon,0,0,1,1
-Water polo,0,0,1,1
-Total,36,39,26,101
+Sport,Event,Gender,Athlete,Medal,Year
+Archery,Individual,Men,Vic Wunderle,None,2004
+Archery,Individual,Men,John Magera,None,2004
+Archery,Individual,Men,Butch Johnson,None,2004
+Archery,Team,Men,Butch Johnson•John Magera•Vic Wunderle,None,2004
+Archery,Individual,Women,Jennifer Nichols,None,2004
+Archery,Individual,Women,Janet Dykman,None,2004
+Archery,Individual,Women,Stephanie White-Arnold,None,2004
+Archery,Team,Women,Stephanie White-Arnold•Janet Dykman•Jennifer Nichols,None,2004
+Artistic Gymnastics,Individual All-Around,Men,Paul Hamm,Gold,2004
+Artistic Gymnastics,Individual All-Around,Men,Brett McClure,None,2004
+Artistic Gymnastics,Individual All-Around,Men,Guard Young,None,2004
+Artistic Gymnastics,Individual All-Around,Men,Blaine Wilson,None,2004
+Artistic Gymnastics,Individual All-Around,Men,Morgan Hamm,None,2004
+Artistic Gymnastics,Individual All-Around,Men,Jason Gatson,None,2004
+Artistic Gymnastics,Team All-Around,Men,Jason Gatson•Morgan Hamm•Paul Hamm•Brett McClure•Blaine Wilson•Guard Young,None,2004
+Artistic Gymnastics,Floor Exercise,Men,Paul Hamm,None,2004
+Artistic Gymnastics,Floor Exercise,Men,Morgan Hamm,None,2004
+Artistic Gymnastics,Floor Exercise,Men,Guard Young,None,2004
+Artistic Gymnastics,Floor Exercise,Men,Blaine Wilson,None,2004
+Artistic Gymnastics,Floor Exercise,Men,Brett McClure,None,2004
+Artistic Gymnastics,Horse Vault,Men,Paul Hamm,None,2004
+Artistic Gymnastics,Horse Vault,Men,Brett McClure,None,2004
+Artistic Gymnastics,Horse Vault,Men,Blaine Wilson,None,2004
+Artistic Gymnastics,Horse Vault,Men,Morgan Hamm,None,2004
+Artistic Gymnastics,Horse Vault,Men,Guard Young,None,2004
+Artistic Gymnastics,Parallel Bars,Men,Paul Hamm,None,2004
+Artistic Gymnastics,Parallel Bars,Men,Jason Gatson,None,2004
+Artistic Gymnastics,Parallel Bars,Men,Blaine Wilson,None,2004
+Artistic Gymnastics,Parallel Bars,Men,Brett McClure,None,2004
+Artistic Gymnastics,Parallel Bars,Men,Guard Young,None,2004
+Artistic Gymnastics,Horizontal Bar,Men,Paul Hamm,Silver,2004
+Artistic Gymnastics,Horizontal Bar,Men,Morgan Hamm,None,2004
+Artistic Gymnastics,Horizontal Bar,Men,Brett McClure,None,2004
+Artistic Gymnastics,Horizontal Bar,Men,Jason Gatson,None,2004
+Artistic Gymnastics,Horizontal Bar,Men,Blaine Wilson,None,2004
+Artistic Gymnastics,Rings,Men,Blaine Wilson,None,2004
+Artistic Gymnastics,Rings,Men,Guard Young,None,2004
+Artistic Gymnastics,Rings,Men,Jason Gatson,None,2004
+Artistic Gymnastics,Rings,Men,Paul Hamm,None,2004
+Artistic Gymnastics,Rings,Men,Brett McClure,None,2004
+Artistic Gymnastics,Pommelled Horse,Men,Paul Hamm,None,2004
+Artistic Gymnastics,Pommelled Horse,Men,Morgan Hamm,None,2004
+Artistic Gymnastics,Pommelled Horse,Men,Jason Gatson,None,2004
+Artistic Gymnastics,Pommelled Horse,Men,Guard Young,None,2004
+Artistic Gymnastics,Pommelled Horse,Men,Brett McClure,None,2004
+Artistic Gymnastics,Individual All-Around,Women,Carly Patterson,Gold,2004
+Artistic Gymnastics,Individual All-Around,Women,Courtney Kupets,None,2004
+Artistic Gymnastics,Individual All-Around,Women,Mohini Bhardwaj,None,2004
+Artistic Gymnastics,Individual All-Around,Women,Courtney McCool,None,2004
+Artistic Gymnastics,Individual All-Around,Women,Terin Humphrey,None,2004
+Artistic Gymnastics,Individual All-Around,Women,Annia Hatch,None,2004
+Artistic Gymnastics,Team All-Around,Women,Mohini Bhardwaj•Annia Hatch•Terin Humphrey•Courtney Kupets•Carly Patterson•Courtney McCool,None,2004
+Artistic Gymnastics,Floor Exercise,Women,Mohini Bhardwaj,None,2004
+Artistic Gymnastics,Floor Exercise,Women,Carly Patterson,None,2004
+Artistic Gymnastics,Floor Exercise,Women,Courtney Kupets,None,2004
+Artistic Gymnastics,Floor Exercise,Women,Courtney McCool,None,2004
+Artistic Gymnastics,Floor Exercise,Women,Terin Humphrey,None,2004
+Artistic Gymnastics,Horse Vault,Women,Annia Hatch,Silver,2004
+Artistic Gymnastics,Horse Vault,Women,Carly Patterson,None,2004
+Artistic Gymnastics,Horse Vault,Women,Courtney Kupets,None,2004
+Artistic Gymnastics,Horse Vault,Women,Courtney McCool,None,2004
+Artistic Gymnastics,Horse Vault,Women,Mohini Bhardwaj,None,2004
+Artistic Gymnastics,Uneven Bars,Women,Terin Humphrey,Silver,2004
+Artistic Gymnastics,Uneven Bars,Women,Courtney Kupets,Bronze,2004
+Artistic Gymnastics,Uneven Bars,Women,Carly Patterson,None,2004
+Artistic Gymnastics,Uneven Bars,Women,Courtney McCool,None,2004
+Artistic Gymnastics,Uneven Bars,Women,Mohini Bhardwaj,None,2004
+Artistic Gymnastics,Balance Beam,Women,Carly Patterson,Silver,2004
+Artistic Gymnastics,Balance Beam,Women,Courtney Kupets,None,2004
+Artistic Gymnastics,Balance Beam,Women,Terin Humphrey,None,2004
+Artistic Gymnastics,Balance Beam,Women,Mohini Bhardwaj,None,2004
+Artistic Gymnastics,Balance Beam,Women,Courtney McCool,None,2004
+Artistic Swimming,Duet,Women,Alison Bartosik•Anna Kozlova,None,2004
+Artistic Swimming,Team,Women,Alison Bartosik•Tammy Crow•Erin Dobratz•Becky Jasontek•Anna Kozlova•Sara Lowe•Lauren McFall•Stephanie Nesbitt•Kendra Zanotto,None,2004
+Athletics,100 metres,Men,Justin Gatlin,Gold,2004
+Athletics,100 metres,Men,Maurice Greene,Bronze,2004
+Athletics,100 metres,Men,Shawn Crawford,None,2004
+Athletics,200 metres,Men,Shawn Crawford,Gold,2004
+Athletics,200 metres,Men,"Bernard Williams, III",Silver,2004
+Athletics,200 metres,Men,Justin Gatlin,Bronze,2004
+Athletics,400 metres,Men,Jeremy Wariner,Gold,2004
+Athletics,400 metres,Men,Otis Harris,Silver,2004
+Athletics,400 metres,Men,Derrick Brew,Bronze,2004
+Athletics,800 metres,Men,Jonathan Johnson,None,2004
+Athletics,800 metres,Men,Khadevis Robinson,None,2004
+Athletics,800 metres,Men,Derrick Peterson,None,2004
+Athletics,"1,500 metres",Men,Grant Robison,None,2004
+Athletics,"1,500 metres",Men,Alan Webb,None,2004
+Athletics,"1,500 metres",Men,Charlie Gruber,None,2004
+Athletics,"5,000 metres",Men,Tim Broe,None,2004
+Athletics,"5,000 metres",Men,Jon Riley,None,2004
+Athletics,"10,000 metres",Men,Dan Browne,None,2004
+Athletics,"10,000 metres",Men,Abdi Abdirahman,None,2004
+Athletics,"10,000 metres",Men,Dathan Ritzenhein,None,2004
+Athletics,Marathon,Men,Meb Keflezighi,Silver,2004
+Athletics,Marathon,Men,Alan Culpepper,None,2004
+Athletics,Marathon,Men,Dan Browne,None,2004
+Athletics,110 metres Hurdles,Men,Terrence Trammell,Silver,2004
+Athletics,110 metres Hurdles,Men,Allen Johnson,None,2004
+Athletics,110 metres Hurdles,Men,Duane Ross,None,2004
+Athletics,400 metres Hurdles,Men,James Carter,None,2004
+Athletics,400 metres Hurdles,Men,Bennie Brazell,None,2004
+Athletics,400 metres Hurdles,Men,Angelo Taylor,None,2004
+Athletics,"3,000 metres Steeplechase",Men,Daniel Lincoln,None,2004
+Athletics,"3,000 metres Steeplechase",Men,Anthony Famiglietti,None,2004
+Athletics,"3,000 metres Steeplechase",Men,Robert Gary,None,2004
+Athletics,4 × 100 metres Relay,Men,"Shawn Crawford•Justin Gatlin•Coby Miller•Maurice Greene•Darvis Patton•John Capel, Jr.(DNS)",None,2004
+Athletics,4 × 400 metres Relay,Men,Otis Harris•Derrick Brew•Jeremy Wariner•Darold Williamson•Kelly Willie•Andrew Rock,None,2004
+Athletics,20 kilometres Race Walk,Men,Tim Seaman,None,2004
+Athletics,20 kilometres Race Walk,Men,Kevin Eastler,None,2004
+Athletics,20 kilometres Race Walk,Men,John Nunn,None,2004
+Athletics,50 kilometres Race Walk,Men,Curt Clausen,None,2004
+Athletics,50 kilometres Race Walk,Men,Philip Dunn,None,2004
+Athletics,High Jump,Men,Matt Hemingway,Silver,2004
+Athletics,High Jump,Men,Jamie Nieto,None,2004
+Athletics,High Jump,Men,Tora Harris,None,2004
+Athletics,Pole Vault,Men,Tim Mack,Gold,2004
+Athletics,Pole Vault,Men,Toby Stevenson,Silver,2004
+Athletics,Pole Vault,Men,Derek Miles,None,2004
+Athletics,Long Jump,Men,Dwight Phillips,Gold,2004
+Athletics,Long Jump,Men,John Moffitt,Silver,2004
+Athletics,Long Jump,Men,Walter Davis,None,2004
+Athletics,Triple Jump,Men,Kenta Bell,None,2004
+Athletics,Triple Jump,Men,Walter Davis,None,2004
+Athletics,Triple Jump,Men,Mel Lister,None,2004
+Athletics,Shot Put,Men,Adam Nelson,Gold,2004
+Athletics,Shot Put,Men,John Godina,None,2004
+Athletics,Shot Put,Men,Reese Hoffa,None,2004
+Athletics,Discus Throw,Men,Casey Malone,None,2004
+Athletics,Discus Throw,Men,Jarred Rome,None,2004
+Athletics,Discus Throw,Men,Ian Waltz,None,2004
+Athletics,Hammer Throw,Men,James Parker,None,2004
+Athletics,Hammer Throw,Men,A. G. Kruger,None,2004
+Athletics,Javelin Throw,Men,Breaux Greer,None,2004
+Athletics,Decathlon,Men,Bryan Clay,Silver,2004
+Athletics,Decathlon,Men,Paul Terek,None,2004
+Athletics,Decathlon,Men,Tom Pappas,None,2004
+Athletics,"1,500 metres Wheelchair",Men,Scot Hollonbeck,None,2004
+Athletics,100 metres,Women,Lauryn Williams,Silver,2004
+Athletics,100 metres,Women,LaTasha Colander-Richardson,None,2004
+Athletics,100 metres,Women,Gail Devers,None,2004
+Athletics,200 metres,Women,Allyson Felix,Silver,2004
+Athletics,200 metres,Women,Muna Lee,None,2004
+Athletics,200 metres,Women,LaShauntea Moore,None,2004
+Athletics,400 metres,Women,Monique Hennagan,None,2004
+Athletics,400 metres,Women,DeeDee Trotter,None,2004
+Athletics,400 metres,Women,Sanya Richards,None,2004
+Athletics,800 metres,Women,Jearl Miles-Clark,None,2004
+Athletics,800 metres,Women,Nicole Teter,None,2004
+Athletics,800 metres,Women,Hazel Clark-Riley,None,2004
+Athletics,"1,500 metres",Women,Carrie Tollefson,None,2004
+Athletics,"5,000 metres",Women,Marla Runyan,None,2004
+Athletics,"5,000 metres",Women,Shalane Flanagan,None,2004
+Athletics,"5,000 metres",Women,Shayne Culpepper,None,2004
+Athletics,"10,000 metres",Women,Elva Dryer,None,2004
+Athletics,"10,000 metres",Women,Kate O'Neill,None,2004
+Athletics,Marathon,Women,Deena Kastor,Bronze,2004
+Athletics,Marathon,Women,Jen Rhines,None,2004
+Athletics,Marathon,Women,Colleen de Reuck,None,2004
+Athletics,100 metres Hurdles,Women,Joanna Hayes,Gold,2004
+Athletics,100 metres Hurdles,Women,Melissa Morrison,Bronze,2004
+Athletics,100 metres Hurdles,Women,Gail Devers,None,2004
+Athletics,400 metres Hurdles,Women,Sheena Johnson,None,2004
+Athletics,400 metres Hurdles,Women,Brenda Taylor,None,2004
+Athletics,400 metres Hurdles,Women,Lashinda Demus,None,2004
+Athletics,4 × 100 metres Relay,Women,Angela Williams•Marion Jones•Lauryn Williams•LaTasha Colander-Richardson•Torri Edwards(DNS)•Connie Moore(DNS)•LaShauntea Moore(DNS),None,2004
+Athletics,4 × 400 metres Relay,Women,DeeDee Trotter•Monique Henderson•Sanya Richards•Monique Hennagan•Crystal Cox•Moushaumi Robinson,None,2004
+Athletics,20 kilometres Race Walk,Women,Teresa Vaill,None,2004
+Athletics,High Jump,Women,Amy Acuff,None,2004
+Athletics,High Jump,Women,Tisha Waller,None,2004
+Athletics,High Jump,Women,Chaunté Howard,None,2004
+Athletics,Pole Vault,Women,Jillian Schwartz,None,2004
+Athletics,Pole Vault,Women,Stacy Dragila,None,2004
+Athletics,Pole Vault,Women,Kellie Suttle,None,2004
+Athletics,Long Jump,Women,Grace Upshaw,None,2004
+Athletics,Long Jump,Women,Rose Richmond,None,2004
+Athletics,Long Jump,Women,Marion Jones,None,2004
+Athletics,Triple Jump,Women,Tiombé Hurd,None,2004
+Athletics,Triple Jump,Women,Yuliana Perez,None,2004
+Athletics,Shot Put,Women,Kristin Heaston,None,2004
+Athletics,Shot Put,Women,Laura Gerraughty,None,2004
+Athletics,Discus Throw,Women,Aretha Hill,None,2004
+Athletics,Discus Throw,Women,Stephanie Brown-Trafton,None,2004
+Athletics,Discus Throw,Women,Seilala Sua,None,2004
+Athletics,Hammer Throw,Women,Erin Gilreath,None,2004
+Athletics,Hammer Throw,Women,Anna Mahon,None,2004
+Athletics,Hammer Throw,Women,Jackie Jeschelnig,None,2004
+Athletics,Javelin Throw,Women,Kim Kreiner,None,2004
+Athletics,Heptathlon,Women,Shelia Burrell,None,2004
+Athletics,Heptathlon,Women,Michelle Perry,None,2004
+Athletics,Heptathlon,Women,Tiffany Lott-Hogan,None,2004
+Athletics,800 metres Wheelchair,Women,Cheri Blauwet,None,2004
+Badminton,Doubles,Men,Howard Bach•Kevin Han,None,2004
+Basketball,Basketball,Men,"Carmelo Anthony•Carlos Boozer•Tim Duncan•Allen Iverson•LeBron James•Richard Jefferson•Stephon Marbury•Shawn Marion•Lamar Odom•Emeka Okafor•Amar'e Stoudemire•Dwyane Wade, Jr.",None,2004
+Basketball,Basketball,Women,Sue Bird•Swin Cash•Tamika Catchings•Yolanda Griffith•Shannon Johnson•Lisa Leslie•Ruth Riley•Katie Smith•Dawn Staley•Sheryl Swoopes•Diana Taurasi•Tina Thompson,None,2004
+Beach Volleyball,Beach Volleyball,Men,Dax Holdren•Stein Metzger,None,2004
+Beach Volleyball,Beach Volleyball,Men,Dain Blanton•Jeff Nygaard,None,2004
+Beach Volleyball,Beach Volleyball,Women,Kerri Walsh•Misty May,Bronze,2004
+Beach Volleyball,Beach Volleyball,Women,Holly McPeak•Elaine Youngs,None,2004
+Boxing,Light-Flyweight,Men,Rau'Shee Warren,None,2004
+Boxing,Flyweight,Men,Ron Siler,None,2004
+Boxing,Lightweight,Men,Vicente Escobedo,None,2004
+Boxing,Light-Welterweight,Men,Rock Allen,None,2004
+Boxing,Welterweight,Men,Vanes Martirosyan,None,2004
+Boxing,Middleweight,Men,Andre Dirrell,Bronze,2004
+Boxing,Light-Heavyweight,Men,Andre Ward,Gold,2004
+Boxing,Heavyweight,Men,Devin Vargas,None,2004
+Boxing,Super-Heavyweight,Men,Jason Estrada,None,2004
+Canoe Slalom,"Kayak Singles, Slalom",Men,Scott Parsons,None,2004
+Canoe Slalom,"Kayak Singles, Slalom",Men,Brett Heyl,None,2004
+Canoe Slalom,"Canadian Singles, Slalom",Men,"Chris Ennis, Jr.",None,2004
+Canoe Slalom,"Canadian Doubles, Slalom",Men,Matt Taylor•Joe Jacobi,None,2004
+Canoe Slalom,"Kayak Singles, Slalom",Women,Rebecca Giddens,Silver,2004
+Canoe Sprint,"Kayak Singles, 500 metres",Men,Rami Zur,None,2004
+Canoe Sprint,"Kayak Singles, 1,000 metres",Men,Benjie Lewis,None,2004
+Canoe Sprint,"Kayak Doubles, 500 metres",Men,Bartosz Wolski•Rami Zur,None,2004
+Canoe Sprint,"Kayak Doubles, 1,000 metres",Men,Jeff Smoke•Andy Bussey,None,2004
+Canoe Sprint,"Canadian Doubles, 500 metres",Men,Jordan Malloch•Nate Johnson,None,2004
+Canoe Sprint,"Canadian Doubles, 1,000 metres",Men,Jordan Malloch•Nate Johnson,None,2004
+Canoe Sprint,"Kayak Singles, 500 metres",Women,Carrie Johnson,None,2004
+Canoe Sprint,"Kayak Doubles, 500 metres",Women,Kathy Colin•Lauren Spalding,None,2004
+Canoe Sprint,"Kayak Fours, 500 metres",Women,Carrie Johnson•Kathy Colin•Lauren Spalding•Marie Mijalis,None,2004
+Cycling Mountain Bike,Cross-Country,Men,Todd Wells,None,2004
+Cycling Mountain Bike,Cross-Country,Men,Jeremy Horgan-Kobelski,None,2004
+Cycling Mountain Bike,Cross-Country,Women,Mary McConneloug,None,2004
+Cycling Road,"Road Race, Individual",Men,Bobby Julich,None,2004
+Cycling Road,"Road Race, Individual",Men,Jason McCartney,None,2004
+Cycling Road,"Road Race, Individual",Men,George Hincapie,None,2004
+Cycling Road,"Road Race, Individual",Men,Levi Leipheimer,None,2004
+Cycling Road,"Road Race, Individual",Men,Tyler Hamilton,None,2004
+Cycling Road,Individual Time Trial,Men,Bobby Julich,Silver,2004
+Cycling Road,Individual Time Trial,Men,Tyler Hamilton,None,2004
+Cycling Road,"Road Race, Individual",Women,Kristin Armstrong,None,2004
+Cycling Road,"Road Race, Individual",Women,Christine Thorburn,None,2004
+Cycling Road,"Road Race, Individual",Women,Dede Demet-Barry,None,2004
+Cycling Road,Individual Time Trial,Women,Dede Demet-Barry,Silver,2004
+Cycling Road,Individual Time Trial,Women,Christine Thorburn,None,2004
+Cycling Track,Keirin,Men,Marty Nothstein,None,2004
+Cycling Track,Team Sprint,Men,Adam Duvendeck•Giddeon Massie•Christian Stahl,None,2004
+Cycling Track,Points Race,Men,Colby Pearce,None,2004
+Cycling Track,Sprint,Women,Jennie Reed,None,2004
+Cycling Track,Individual Pursuit,Women,Erin Mirabella,None,2004
+Cycling Track,Points Race,Women,Erin Mirabella,None,2004
+Diving,Springboard,Men,Troy Dumais,None,2004
+Diving,Springboard,Men,Justin Wilcock,None,2004
+Diving,Platform,Men,Caesar Garcia,None,2004
+Diving,Platform,Men,Kyle Prandi,None,2004
+Diving,Synchronized Springboard,Men,Justin Dumais•Troy Dumais,None,2004
+Diving,Synchronized Platform,Men,Mark Ruiz•Kyle Prandi,None,2004
+Diving,Springboard,Women,Rachelle Kunkel,None,2004
+Diving,Springboard,Women,Kimiko Soldati,None,2004
+Diving,Platform,Women,Laura Wilkinson,None,2004
+Diving,Platform,Women,Sara Hildebrand,None,2004
+Diving,Synchronized Platform,Women,Cassandra Cardinell•Sara Hildebrand,None,2004
+Equestrian Dressage,Individual,Open,Debbie McDonald,None,2004
+Equestrian Dressage,Individual,Open,Robert Dover,None,2004
+Equestrian Dressage,Individual,Open,Guenter Seidel,None,2004
+Equestrian Dressage,Individual,Open,Lisa Wilcox,None,2004
+Equestrian Dressage,Team,Open,Debbie McDonald•Robert Dover•Guenter Seidel•Lisa Wilcox,None,2004
+Equestrian Eventing,Individual,Open,Kim Severson,Silver,2004
+Equestrian Eventing,Individual,Open,Amy Tryon,None,2004
+Equestrian Eventing,Individual,Open,Darren Chiacchia,None,2004
+Equestrian Eventing,Individual,Open,John Williams,None,2004
+Equestrian Eventing,Individual,Open,Julie Black-Burns Richards,None,2004
+Equestrian Eventing,Team,Open,Kim Severson•Amy Tryon•Darren Chiacchia•John Williams•Julie Black-Burns Richards,None,2004
+Equestrian Jumping,Individual,Open,Chris Kappler,Silver,2004
+Equestrian Jumping,Individual,Open,McLain Ward,None,2004
+Equestrian Jumping,Individual,Open,Beezie Madden,None,2004
+Equestrian Jumping,Individual,Open,Peter Wylde,None,2004
+Equestrian Jumping,Team,Open,Peter Wylde•McLain Ward•Chris Kappler•Beezie Madden,None,2004
+Fencing,"Foil, Individual",Men,Dan Kellner,None,2004
+Fencing,"Foil, Individual",Men,Jon Tiomkin,None,2004
+Fencing,"Foil, Individual",Men,Jed Dupree,None,2004
+Fencing,"Foil, Team",Men,Jed Dupree•Dan Kellner•Jon Tiomkin,None,2004
+Fencing,"Épée, Individual",Men,Soren Thompson,None,2004
+Fencing,"Épée, Individual",Men,Seth Kelsey,None,2004
+Fencing,"Épée, Individual",Men,Cody Mattern,None,2004
+Fencing,"Épée, Team",Men,Seth Kelsey•Cody Mattern•Soren Thompson•Jan Viviani,None,2004
+Fencing,"Sabre, Individual",Men,Ivan Lee,None,2004
+Fencing,"Sabre, Individual",Men,Keeth Smart,None,2004
+Fencing,"Sabre, Individual",Men,Jason Rogers,None,2004
+Fencing,"Sabre, Team",Men,Ivan Lee•Jason Rogers•Keeth Smart,None,2004
+Fencing,"Foil, Individual",Women,Erinn Smart,None,2004
+Fencing,"Épée, Individual",Women,Kamara James,None,2004
+Fencing,"Sabre, Individual",Women,Mariel Zagunis,Gold,2004
+Fencing,"Sabre, Individual",Women,Sada Jacobson,Bronze,2004
+Fencing,"Sabre, Individual",Women,Emily Jacobson,None,2004
+Football,Football,Women,Briana Scurry•Christie Rampone•Cat Reddick•Joy Fawcett•Kate Markgraf•Shannon Boxx•Aly Wagner•Julie Foudy•Kristine Lilly•Mia Hamm•Abby Wambach•Heather Mitts•Lindsay Tarpley•Brandi Chastain•Angela Hucles•Cindy Parlow•Heather O'Reilly•Shannon MacMillan(DNS)•Tiffany Roberts(DNS)•Lorrie Fair(DNS)•Hope Solo(DNS)•Kristin Luckenbill(DNS),None,2004
+Judo,Extra-Lightweight,Men,Taraje Williams-Murray,None,2004
+Judo,Half-Lightweight,Men,Alex Ottiano,None,2004
+Judo,Lightweight,Men,Jimmy Pedro,Bronze,2004
+Judo,Half-Middleweight,Men,Rick Hawn,None,2004
+Judo,Middleweight,Men,Brian Olson,None,2004
+Judo,Half-Heavyweight,Men,Rhadi Ferguson,None,2004
+Judo,Heavyweight,Men,Martin Boonzaayer,None,2004
+Judo,Half-Lightweight,Women,Charlee Minkin,None,2004
+Judo,Lightweight,Women,Ellen Wilson,None,2004
+Judo,Half-Middleweight,Women,Ronda Rousey,None,2004
+Judo,Middleweight,Women,Celita Schutz,None,2004
+Judo,Half-Heavyweight,Women,Nikki Kubes,None,2004
+Modern Pentathlon,Individual,Men,Vaho Iagorashvili,None,2004
+Modern Pentathlon,Individual,Men,Chad Senior,None,2004
+Modern Pentathlon,Individual,Women,Mary Beth Iagorashvili,None,2004
+Modern Pentathlon,Individual,Women,Anita Allen,None,2004
+Rhythmic Gymnastics,Individual,Women,Mary Sanders,None,2004
+Rowing,Double Sculls,Men,Aquil Abdullah•Henry Nuzum,None,2004
+Rowing,Coxless Pairs,Men,Luke Walton•Artour Samsonov,None,2004
+Rowing,Quadruple Sculls,Men,Ben Holbrook•Brett Wilkinson•Sloan DuRoss•Kent Smack,None,2004
+Rowing,Coxless Fours,Men,Garrett Klugh•Jamie Schroeder•Mike Wherley•Wolf Moser,None,2004
+Rowing,Eights,Men,Jason Read•Wyatt Allen•Chris Ahrens•Joey Hansen•Matt Deakin•Dan Beery•Beau Hoopman•Bryan Volpenhein•Pete Cipollone,None,2004
+Rowing,Lightweight Double Sculls,Men,Steve Tucker•Greg Ruckman,None,2004
+Rowing,Lightweight Coxless Fours,Men,Pat Todd•Matt Smith•Paul Teti•Steve Warner,None,2004
+Rowing,Single Sculls,Women,Jennifer Devine,None,2004
+Rowing,Quadruple Sculls,Women,Michelle Guerette•Hilary Gehman•Kelly Salchow•Danika Holbrook-Harris,None,2004
+Rowing,Coxless Pairs,Women,Sarah Jones•Kate Mackenzie,None,2004
+Rowing,Eights,Women,Kate Johnson•Sam Magee•Mary Whipple•Megan Dirkmaat•Alison Cox•Anna Mickelson•Laurel Korholz•Caryn Davies•Lianne Nelson,None,2004
+Rowing,Lightweight Double Sculls,Women,Lisa Schlenker•Stacey Borgman,None,2004
+Sailing,Windsurfer,Men,Peter Wells,None,2004
+Sailing,One Person Dinghy,Men,Kevin Hall,None,2004
+Sailing,Two Person Dinghy,Men,Paul Foerster•Kevin Burnham,None,2004
+Sailing,Two Person Keelboat,Men,Paul Cayard•Phil Trinter,None,2004
+Sailing,One Person Dinghy,Open,Mark Mendelblatt,None,2004
+Sailing,Skiff,Open,Tim Wadlow•Pete Spaulding,None,2004
+Sailing,Multihull,Open,John Lovell•Charlie Ogletree,None,2004
+Sailing,Windsurfer,Women,Carrie Butler-Beashel,None,2004
+Sailing,One Person Dinghy,Women,Meg Galliard,None,2004
+Sailing,Two Person Dinghy,Women,Katie McDowell•Isabelle Kinsolving,None,2004
+Sailing,Three Person Keelboat,Women,Carol Cronin•Liz Filter•Nancy Haberland,None,2004
+Shooting,"Air Pistol, 10 metres",Men,Daryl Szarenski,None,2004
+Shooting,"Air Pistol, 10 metres",Men,Jason Turner,None,2004
+Shooting,"Free Pistol, 50 metres",Men,Daryl Szarenski,None,2004
+Shooting,"Free Pistol, 50 metres",Men,Jason Turner,None,2004
+Shooting,"Air Rifle, 10 metres",Men,Jason Parker,None,2004
+Shooting,"Air Rifle, 10 metres",Men,Matt Emmons,None,2004
+Shooting,"Small-Bore Rifle, Three Positions, 50 metres",Men,Mike Anti,Silver,2004
+Shooting,"Small-Bore Rifle, Three Positions, 50 metres",Men,Matt Emmons,None,2004
+Shooting,"Small-Bore Rifle, Prone, 50 metres",Men,Matt Emmons,Gold,2004
+Shooting,"Small-Bore Rifle, Prone, 50 metres",Men,Mike Anti,None,2004
+Shooting,"Running Target, 10 metres",Men,Adam Saathoff,None,2004
+Shooting,"Running Target, 10 metres",Men,Koby Holland,None,2004
+Shooting,Trap,Men,Lance Bade,None,2004
+Shooting,Trap,Men,Bret Erickson,None,2004
+Shooting,Double Trap,Men,Bret Erickson,None,2004
+Shooting,Double Trap,Men,Glenn Eller,None,2004
+Shooting,Skeet,Men,Shawn Dulohery,None,2004
+Shooting,Skeet,Men,Todd Graves,None,2004
+Shooting,"Air Pistol, 10 metres",Women,Beki Snyder,None,2004
+Shooting,"Air Pistol, 10 metres",Women,Libby Callahan,None,2004
+Shooting,"Sporting Pistol, 25 metres",Women,Libby Callahan,None,2004
+Shooting,"Sporting Pistol, 25 metres",Women,Beki Snyder,None,2004
+Shooting,"Air Rifle, 10 metres",Women,Emily Caruso,None,2004
+Shooting,"Air Rifle, 10 metres",Women,Hattie Johnson,None,2004
+Shooting,"Small-Bore Rifle, Three Positions, 50 metres",Women,Morgan Hicks,None,2004
+Shooting,"Small-Bore Rifle, Three Positions, 50 metres",Women,Sarah Blakeslee,None,2004
+Shooting,Trap,Women,Whitly Loper,None,2004
+Shooting,Double Trap,Women,Kim Rhode,Gold,2004
+Shooting,Skeet,Women,Kim Rhode,None,2004
+Shooting,Skeet,Women,Connie Smotek,None,2004
+Softball,Softball,Women,Leah O'Brien-Amico•Laura Berg•Crystl Bustos•Lisa Fernandez•Jennie Finch•Tairia Flowers•Amanda Freed•Lori Harrigan•Lovie Jung•Kelly Kretschman•Jessica Mendoza•Stacey Nuveman•Cat Osterman•Jenny Topping•Natasha Watley,None,2004
+Swimming,50 metres Freestyle,Men,"Gary Hall, Jr.",Gold,2004
+Swimming,50 metres Freestyle,Men,Jason Lezak,None,2004
+Swimming,100 metres Freestyle,Men,Ian Crocker,None,2004
+Swimming,100 metres Freestyle,Men,Jason Lezak,None,2004
+Swimming,200 metres Freestyle,Men,Michael Phelps,Bronze,2004
+Swimming,200 metres Freestyle,Men,Klete Keller,None,2004
+Swimming,400 metres Freestyle,Men,Klete Keller,Bronze,2004
+Swimming,400 metres Freestyle,Men,Larsen Jensen,None,2004
+Swimming,"1,500 metres Freestyle",Men,Larsen Jensen,Silver,2004
+Swimming,"1,500 metres Freestyle",Men,Erik Vendt,None,2004
+Swimming,4 × 100 metres Freestyle Relay,Men,"Nate Dusing•Jason Lezak•Michael Phelps•Neil Walker•Ian Crocker•Gary Hall, Jr.•Gabe Woodward",None,2004
+Swimming,4 × 200 metres Freestyle Relay,Men,Klete Keller•Ryan Lochte•Michael Phelps•Peter Vanderkaay•Scott Goldblatt•Dan Ketchum,None,2004
+Swimming,100 metres Backstroke,Men,Aaron Peirsol,Gold,2004
+Swimming,100 metres Backstroke,Men,Lenny Krayzelburg,None,2004
+Swimming,200 metres Backstroke,Men,Aaron Peirsol,Gold,2004
+Swimming,200 metres Backstroke,Men,Bryce Hunt,None,2004
+Swimming,100 metres Breaststroke,Men,Brendan Hansen,Silver,2004
+Swimming,100 metres Breaststroke,Men,Mark Gangloff,None,2004
+Swimming,200 metres Breaststroke,Men,Brendan Hansen,Bronze,2004
+Swimming,200 metres Breaststroke,Men,Scott Usher,None,2004
+Swimming,100 metres Butterfly,Men,Michael Phelps,Gold,2004
+Swimming,100 metres Butterfly,Men,Ian Crocker,Silver,2004
+Swimming,200 metres Butterfly,Men,Michael Phelps,Gold,2004
+Swimming,200 metres Butterfly,Men,Tom Malchow,None,2004
+Swimming,200 metres Individual Medley,Men,Michael Phelps,Gold,2004
+Swimming,200 metres Individual Medley,Men,Ryan Lochte,Silver,2004
+Swimming,400 metres Individual Medley,Men,Michael Phelps,Gold,2004
+Swimming,400 metres Individual Medley,Men,Erik Vendt,Silver,2004
+Swimming,4 × 100 metres Medley Relay,Men,Ian Crocker•Brendan Hansen•Jason Lezak•Aaron Peirsol•Mark Gangloff•Lenny Krayzelburg•Michael Phelps•Neil Walker,None,2004
+Swimming,50 metres Freestyle,Women,Kara Lynn Joyce,None,2004
+Swimming,50 metres Freestyle,Women,Jenny Thompson,None,2004
+Swimming,100 metres Freestyle,Women,Natalie Coughlin,Bronze,2004
+Swimming,100 metres Freestyle,Women,Kara Lynn Joyce,None,2004
+Swimming,200 metres Freestyle,Women,Dana Vollmer,None,2004
+Swimming,200 metres Freestyle,Women,Lindsay Benko,None,2004
+Swimming,400 metres Freestyle,Women,Kaitlin Sandeno,Bronze,2004
+Swimming,400 metres Freestyle,Women,Kalyn Keller,None,2004
+Swimming,800 metres Freestyle,Women,Diana Munz,Bronze,2004
+Swimming,800 metres Freestyle,Women,Kalyn Keller,None,2004
+Swimming,4 × 100 metres Freestyle Relay,Women,Natalie Coughlin•Kara Lynn Joyce•Jenny Thompson•Amanda Weir•Lindsay Benko•Ritz Correia•Colleen Lanné,None,2004
+Swimming,4 × 200 metres Freestyle Relay,Women,Natalie Coughlin•Carly Piper•Kaitlin Sandeno•Dana Vollmer•Lindsay Benko•Rhi Jeffrey•Rachel Komisarz,None,2004
+Swimming,100 metres Backstroke,Women,Natalie Coughlin,Gold,2004
+Swimming,100 metres Backstroke,Women,Haley Cope,None,2004
+Swimming,200 metres Backstroke,Women,Margaret Hoelzer,None,2004
+Swimming,200 metres Backstroke,Women,Kristen Caverly,None,2004
+Swimming,100 metres Breaststroke,Women,Amanda Beard,None,2004
+Swimming,100 metres Breaststroke,Women,Tara Kirk,None,2004
+Swimming,200 metres Breaststroke,Women,Amanda Beard,Gold,2004
+Swimming,200 metres Breaststroke,Women,Caroline Bruce,None,2004
+Swimming,100 metres Butterfly,Women,Jenny Thompson,None,2004
+Swimming,100 metres Butterfly,Women,Rachel Komisarz,None,2004
+Swimming,200 metres Butterfly,Women,Kaitlin Sandeno,None,2004
+Swimming,200 metres Butterfly,Women,Dana Kirk,None,2004
+Swimming,200 metres Individual Medley,Women,Amanda Beard,Silver,2004
+Swimming,200 metres Individual Medley,Women,Katie Hoff,None,2004
+Swimming,400 metres Individual Medley,Women,Kaitlin Sandeno,Silver,2004
+Swimming,400 metres Individual Medley,Women,Katie Hoff,None,2004
+Swimming,4 × 100 metres Medley Relay,Women,Amanda Beard•Tara Kirk•Rachel Komisarz•Amanda Weir•Haley Cope•Natalie Coughlin•Kara Lynn Joyce•Jenny Thompson,None,2004
+Table Tennis,Singles,Men,Ilija Lupulesku,None,2004
+Table Tennis,Singles,Men,Khoa Dinh Nguyen,None,2004
+Table Tennis,Doubles,Men,Mark Hazinski•Ilija Lupulesku,None,2004
+Table Tennis,Singles,Women,Jun Gao,None,2004
+Table Tennis,Singles,Women,Tawny Banh,None,2004
+Table Tennis,Singles,Women,Jasna Reed,None,2004
+Table Tennis,Doubles,Women,Tawny Banh•Jun Gao,None,2004
+Table Tennis,Doubles,Women,Whitney Ping•Jasna Reed,None,2004
+Taekwondo,Welterweight,Men,Steven Lopez,Gold,2004
+Taekwondo,Featherweight,Women,Nia Abdallah,Silver,2004
+Tennis,Singles,Men,Mardy Fish,Silver,2004
+Tennis,Singles,Men,Taylor Dent,None,2004
+Tennis,Singles,Men,Andy Roddick,None,2004
+Tennis,Singles,Men,Vince Spadea,None,2004
+Tennis,Doubles,Men,Bob Bryan•Mike Bryan,None,2004
+Tennis,Doubles,Men,Mardy Fish•Andy Roddick,None,2004
+Tennis,Singles,Women,Venus Williams,None,2004
+Tennis,Singles,Women,Lisa Raymond,None,2004
+Tennis,Singles,Women,Chanda Rubin,None,2004
+Tennis,Doubles,Women,Martina Navratilova•Lisa Raymond,None,2004
+Tennis,Doubles,Women,Chanda Rubin•Venus Williams,None,2004
+Trampolining,Individual,Women,Jennifer Parilla,None,2004
+Triathlon,Olympic Distance,Men,Hunter Kemper,None,2004
+Triathlon,Olympic Distance,Men,Andy Potts,None,2004
+Triathlon,Olympic Distance,Men,Victor Plata,None,2004
+Triathlon,Olympic Distance,Women,Susan Williams,Bronze,2004
+Triathlon,Olympic Distance,Women,Barb Lindquist,None,2004
+Triathlon,Olympic Distance,Women,Sheila Taormina,None,2004
+Volleyball,Volleyball,Men,Lloy Ball•Kevin Barnett•Brook Billings•Phil Eatherton•Gabe Gardner•Tom Hoff•Ryan Millar•Reid Priddy•Riley Salmon•Clay Stanley•Erik Sullivan•Donald Suxho,None,2004
+Volleyball,Volleyball,Women,Keba Phipps•Danielle Scott•Tayyiba Haneef•Lindsey Berg•Stacy Sykora•Wiz Bachman•Heather Bown•Ogonna Nnamani•Robyn Ah Mow-Santos•Nancy Metcalf•Tara Cross-Battle•Logan Tom,None,2004
+Water Polo,Water Polo,Men,Omar Amr•Tony Azevedo•Ryan Bailey•Layne Beaubien•Brandon Brooks•Genai Kerr•Dan Klatt•Brett Ormsby•Jeff Powers•Chris Segesman•Jesse Smith•Wolf Wigo•Adam Wright,None,2004
+Water Polo,Water Polo,Women,Robin Beauregard•Margie Dingeldein•Ellen Estes•Jacqueline Frank•Natalie Golda•Ericka Lorenz•Heather Moody•Thalia Munro•Heather Petri•Kelly Rulon•Amber Stachowski•Brenda Villa•Nicolle Payne(DNS),None,2004
+Weightlifting,Middleweight,Men,Chad Vaughn,None,2004
+Weightlifting,Light-Heavyweight,Men,"Oscar Chaplin, III",None,2004
+Weightlifting,Super-Heavyweight,Men,Shane Hamman,None,2004
+Weightlifting,Flyweight,Women,Tara Nott-Cunningham,None,2004
+Weightlifting,Super-Heavyweight,Women,Cheryl Haworth,None,2004
+Wrestling,"Featherweight, Greco-Roman",Men,Dennis Hall,None,2004
+Wrestling,"Lightweight, Greco-Roman",Men,Jim Gruenwald,None,2004
+Wrestling,"Welterweight, Greco-Roman",Men,Gordon Wood,None,2004
+Wrestling,"Light-Heavyweight, Greco-Roman",Men,Brad Vering,None,2004
+Wrestling,"Heavyweight, Greco-Roman",Men,Garrett Lowney,None,2004
+Wrestling,"Super-Heavyweight, Greco-Roman",Men,Rulon Gardner,Bronze,2004
+Wrestling,"Featherweight, Freestyle",Men,Stephen Abas,Silver,2004
+Wrestling,"Lightweight, Freestyle",Men,Eric Guerrero,None,2004
+Wrestling,"Welterweight, Freestyle",Men,Jamill Kelly,Silver,2004
+Wrestling,"Middleweight, Freestyle",Men,Joe Williams,None,2004
+Wrestling,"Light-Heavyweight, Freestyle",Men,Cael Sanderson,Gold,2004
+Wrestling,"Heavyweight, Freestyle",Men,Daniel Cormier,None,2004
+Wrestling,"Super-Heavyweight, Freestyle",Men,Kerry McCoy,None,2004
+Wrestling,"Flyweight, Freestyle",Women,Patricia Miranda,Bronze,2004
+Wrestling,"Lightweight, Freestyle",Women,Tela O'Donnell,None,2004
+Wrestling,"Middleweight, Freestyle",Women,Sara McMann,Silver,2004
+Wrestling,"Heavyweight, Freestyle",Women,Toccara Montgomery,None,2004

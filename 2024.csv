@@ -1,35 +1,231 @@
-Sport,Gold,Silver,Bronze,Total
-Track and Field,14,11,9,34
-Swimming,8,13,7,28
-Gymnastics - Artistic,3,1,5,9
-Wrestling - Freestyle,2,2,3,7
-Shooting,1,3,1,5
-Fencing,2,1,1,4
-Skateboarding,0,2,1,3
-Basketball,2,0,0,2
-Cycling - Track,2,0,0,2
-Cycling - Road,1,0,1,2
-Rowing,1,0,1,2
-Weightlifting,1,0,1,2
-Archery,0,1,1,2
-Sport Climbing,0,1,1,2
-Tennis,0,1,1,2
-Volleyball,0,1,1,2
-Soccer,1,0,0,1
-Golf,1,0,0,1
-Surfing,1,0,0,1
-Artistic Swimming,0,1,0,1
-BMX Freestyle,0,1,0,1
-Canoe Sprint,0,1,0,1
-Diving,0,1,0,1
-Equestrian - Jumping,0,1,0,1
-Mountain Bike,0,1,0,1
-Triathlon,0,1,0,1
-Basketball 3x3,0,0,1,1
-Boxing,0,0,1,1
-Breaking,0,0,1,1
-Canoe Slalom,0,0,1,1
-Rugby,0,0,1,1
-Sailing,0,0,1,1
-Taekwondo,0,0,1,1
-Water Polo,0,0,1,1
+Sport,Event,Gender,Athlete,Medal,Year
+Gymnastics,Women's vault,Women,Simone Biles,Gold,2024
+Gymnastics,Women's vault,Women,Jade Carey,Bronze,2024
+Gymnastics,Women's uneven bars,Women,Sunisa Lee,Bronze,2024
+Athletics,Women's triple jump,Women,Jasmine Moore,Bronze,2024
+Football,Women's tournament,Women,United States women's national soccer team,Gold,2024
+Basketball,Women's tournament,Women,United States women's national basketball team,Gold,2024
+Volleyball,Women's tournament,Women,United States women's national volleyball team,Silver,2024
+Rugby sevens,Women's tournament,Women,United States women's national rugby sevens team,Bronze,2024
+Cycling,Women's team pursuit,Women,Chloé Dygert,Gold,2024
+Cycling,Women's team pursuit,Women,Kristen Faulkner,Gold,2024
+Cycling,Women's team pursuit,Women,Jennifer Valente,Gold,2024
+Cycling,Women's team pursuit,Women,Lily Williams,Gold,2024
+Fencing,Women's team foil,Women,Jacqueline Dubrovich,Gold,2024
+Fencing,Women's team foil,Women,Lee Kiefer,Gold,2024
+Fencing,Women's team foil,Women,Lauren Scruggs,Gold,2024
+Fencing,Women's team foil,Women,Maia Weintraub,Gold,2024
+Diving,Women's synchronized 3 m springboard,Women,Sarah Bacon,Silver,2024
+Diving,Women's synchronized 3 m springboard,Women,Kassidy Cook,Silver,2024
+Canoeing,Women's slalom C-1,Women,Evy Leibfarth,Bronze,2024
+Shooting,Women's skeet,Women,Austen Smith,Bronze,2024
+Surfing,Women's shortboard,Women,Caroline Marks,Gold,2024
+Cycling,Women's road time trial,Women,Chloé Dygert,Bronze,2024
+Athletics,Women's pole vault,Women,Katie Moon,Silver,2024
+Cycling,Women's omnium,Women,Jennifer Valente,Gold,2024
+Athletics,Women's long jump,Women,Tara Davis-Woodhall,Gold,2024
+Athletics,Women's long jump,Women,Jasmine Moore,Bronze,2024
+Cycling,Women's individual road race,Women,Kristen Faulkner,Gold,2024
+Athletics,Women's hammer throw,Women,Annette Echikunwoke,Silver,2024
+Wrestling,Women's freestyle 76 kg,Women,Kennedy Blades,Silver,2024
+Wrestling,Women's freestyle 68 kg,Women,Amit Elor,Gold,2024
+Wrestling,Women's freestyle 57 kg,Women,Helen Maroulis,Bronze,2024
+Wrestling,Women's freestyle 50 kg,Women,Sarah Hildebrandt,Gold,2024
+Fencing,Women's foil,Women,Lee Kiefer,Gold,2024
+Fencing,Women's foil,Women,Lauren Scruggs,Silver,2024
+Gymnastics,Women's floor,Women,Simone Biles,Silver,2024
+Athletics,Women's discus throw,Women,Valarie Allman,Gold,2024
+Cycling,Women's cross-country,Women,Haley Batten,Silver,2024
+Sport climbing,Women's combined,Women,Brooke Raboutou,Silver,2024
+Canoeing,Women's C-1 200 m,Women,Nevin Harrison,Silver,2024
+Cycling,Women's BMX freestyle,Women,Perris Benegas,Silver,2024
+Gymnastics,Women's artistic team all-around,Women,Simone Biles,Gold,2024
+Gymnastics,Women's artistic team all-around,Women,Jade Carey,Gold,2024
+Gymnastics,Women's artistic team all-around,Women,Jordan Chiles,Gold,2024
+Gymnastics,Women's artistic team all-around,Women,Sunisa Lee,Gold,2024
+Gymnastics,Women's artistic team all-around,Women,Hezly Rivera,Gold,2024
+Gymnastics,Women's artistic individual all-around,Women,Simone Biles,Gold,2024
+Gymnastics,Women's artistic individual all-around,Women,Sunisa Lee,Bronze,2024
+Swimming,Women's 1500 m freestyle,Women,Katie Ledecky,Gold,2024
+Swimming,Women's 800 m freestyle,Women,Katie Ledecky,Gold,2024
+Swimming,Women's 800 m freestyle,Women,Paige Madden,Bronze,2024
+Swimming,Women's 400 m individual medley,Women,Katie Grimes,Silver,2024
+Swimming,Women's 400 m individual medley,Women,Emma Weyant,Bronze,2024
+Athletics,Women's 400 m hurdles,Women,Sydney McLaughlin-Levrone,Gold,2024
+Athletics,Women's 400 m hurdles,Women,Anna Cockrell,Silver,2024
+Swimming,Women's 400 m freestyle,Women,Katie Ledecky,Bronze,2024
+Swimming,Women's 200 m individual medley,Women,Kate Douglass,Silver,2024
+Swimming,Women's 200 m butterfly,Women,Regan Smith,Silver,2024
+Swimming,Women's 200 m breaststroke,Women,Kate Douglass,Gold,2024
+Swimming,Women's 200 m backstroke,Women,Regan Smith,Silver,2024
+Athletics,Women's 200 m,Women,Gabby Thomas,Gold,2024
+Athletics,Women's 200 m,Women,Brittany Brown,Bronze,2024
+Athletics,Women's 100 m hurdles,Women,Masai Russell,Gold,2024
+Swimming,Women's 100 m freestyle,Women,Torri Huske,Silver,2024
+Swimming,Women's 100 m butterfly,Women,Torri Huske,Gold,2024
+Swimming,Women's 100 m butterfly,Women,Gretchen Walsh,Silver,2024
+Swimming,Women's 100 m backstroke,Women,Regan Smith,Silver,2024
+Swimming,Women's 100 m backstroke,Women,Katharine Berkoff,Bronze,2024
+Athletics,Women's 100 m,Women,Sha'Carri Richardson,Silver,2024
+Athletics,Women's 100 m,Women,Melissa Jefferson,Bronze,2024
+Weightlifting,Women's 71 kg,Women,Olivia Reeves,Gold,2024
+Taekwondo,Women's 67 kg,Women,Kristina Teachout,Bronze,2024
+Shooting,Women's 50 m rifle three positions,Women,Sagen Maddalena,Silver,2024
+Athletics,Women's 4 × 400 m relay,Women,Kaylyn Brown,Gold,2024
+Athletics,Women's 4 × 400 m relay,Women,Aaliyah Butler,Gold,2024
+Athletics,Women's 4 × 400 m relay,Women,Quanera Hayes,Gold,2024
+Athletics,Women's 4 × 400 m relay,Women,Alexis Holmes,Gold,2024
+Athletics,Women's 4 × 400 m relay,Women,Shamier Little,Gold,2024
+Athletics,Women's 4 × 400 m relay,Women,Sydney McLaughlin-Levrone,Gold,2024
+Athletics,Women's 4 × 400 m relay,Women,Gabby Thomas,Gold,2024
+Swimming,Women's 4 × 200 m freestyle relay,Women,Erin Gemmel,Silver,2024
+Swimming,Women's 4 × 200 m freestyle relay,Women,Katie Ledecky,Silver,2024
+Swimming,Women's 4 × 200 m freestyle relay,Women,Paige Madden,Silver,2024
+Swimming,Women's 4 × 200 m freestyle relay,Women,Simone Manuel,Silver,2024
+Swimming,Women's 4 × 200 m freestyle relay,Women,Anna Peplowski,Silver,2024
+Swimming,Women's 4 × 200 m freestyle relay,Women,Alex Shackell,Silver,2024
+Swimming,Women's 4 × 200 m freestyle relay,Women,Claire Weinstein,Silver,2024
+Athletics,Women's 4 × 100 m relay,Women,Melissa Jefferson,Gold,2024
+Athletics,Women's 4 × 100 m relay,Women,Sha'Carri Richardson,Gold,2024
+Athletics,Women's 4 × 100 m relay,Women,Twanisha Terry,Gold,2024
+Athletics,Women's 4 × 100 m relay,Women,Gabby Thomas,Gold,2024
+Swimming,Women's 4 × 100 m medley relay,Women,Katharine Berkoff,Gold,2024
+Swimming,Women's 4 × 100 m medley relay,Women,Kate Douglass,Gold,2024
+Swimming,Women's 4 × 100 m medley relay,Women,Torri Huske,Gold,2024
+Swimming,Women's 4 × 100 m medley relay,Women,Lilly King,Gold,2024
+Swimming,Women's 4 × 100 m medley relay,Women,Alex Shackell,Gold,2024
+Swimming,Women's 4 × 100 m medley relay,Women,Regan Smith,Gold,2024
+Swimming,Women's 4 × 100 m medley relay,Women,Gretchen Walsh,Gold,2024
+Swimming,Women's 4 × 100 m medley relay,Women,Emma Weber,Gold,2024
+Swimming,Women's 4 × 100 m freestyle relay,Women,Erika Connolly,Silver,2024
+Swimming,Women's 4 × 100 m freestyle relay,Women,Kate Douglass,Silver,2024
+Swimming,Women's 4 × 100 m freestyle relay,Women,Torri Huske,Silver,2024
+Swimming,Women's 4 × 100 m freestyle relay,Women,Simone Manuel,Silver,2024
+Swimming,Women's 4 × 100 m freestyle relay,Women,Gretchen Walsh,Silver,2024
+Swimming,Women's 4 × 100 m freestyle relay,Women,Abbey Weitzeil,Silver,2024
+Basketball,Women's 3x3 tournament,Women,Cierra Burdick,Bronze,2024
+Basketball,Women's 3x3 tournament,Women,Dearica Hamby,Bronze,2024
+Basketball,Women's 3x3 tournament,Women,Rhyne Howard,Bronze,2024
+Basketball,Women's 3x3 tournament,Women,Hailey Van Lith,Bronze,2024
+Equestrian,Team jumping,Women,Karl Cook,Silver,2024
+Equestrian,Team jumping,Women,Laura Kraut,Silver,2024
+Equestrian,Team jumping,Women,McLain Ward,Silver,2024
+Artistic swimming,Team,Women,Anita Alvarez,Silver,2024
+Artistic swimming,Team,Women,Jamie Czarkowski,Silver,2024
+Artistic swimming,Team,Women,Megumi Field,Silver,2024
+Artistic swimming,Team,Women,Keana Hunter,Silver,2024
+Artistic swimming,Team,Women,Audrey Kwon,Silver,2024
+Artistic swimming,Team,Women,Jacklyn Luu,Silver,2024
+Artistic swimming,Team,Women,Daniella Ramirez,Silver,2024
+Artistic swimming,Team,Women,Ruby Remati,Silver,2024
+Archery,Mixed team,Mixed,Brady Ellison,Bronze,2024
+Archery,Mixed team,Mixed,Casey Kaufhold,Bronze,2024
+Shooting,Mixed skeet team,Mixed,Vincent Hancock,Silver,2024
+Shooting,Mixed skeet team,Mixed,Austen Smith,Silver,2024
+Triathlon,Mixed relay,Mixed,Taylor Knibb,Silver,2024
+Triathlon,Mixed relay,Mixed,Morgan Pearson,Silver,2024
+Triathlon,Mixed relay,Mixed,Seth Rider,Silver,2024
+Triathlon,Mixed relay,Mixed,Taylor Spivey,Silver,2024
+Athletics,Mixed 4 × 400 m relay,Mixed,Kaylyn Brown,Silver,2024
+Athletics,Mixed 4 × 400 m relay,Mixed,Bryce Deadmon,Silver,2024
+Athletics,Mixed 4 × 400 m relay,Mixed,Shamier Little,Silver,2024
+Athletics,Mixed 4 × 400 m relay,Mixed,Vernon Norwood,Silver,2024
+Swimming,Mixed 4 × 100 m medley relay,Mixed,Caeleb Dressel,Gold,2024
+Swimming,Mixed 4 × 100 m medley relay,Mixed,Nic Fink,Gold,2024
+Swimming,Mixed 4 × 100 m medley relay,Mixed,Torri Huske,Gold,2024
+Swimming,Mixed 4 × 100 m medley relay,Mixed,Ryan Murphy,Gold,2024
+Swimming,Mixed 4 × 100 m medley relay,Mixed,Regan Smith,Gold,2024
+Swimming,Mixed 4 × 100 m medley relay,Mixed,Charlie Swanson,Gold,2024
+Swimming,Mixed 4 × 100 m medley relay,Mixed,Gretchen Walsh,Gold,2024
+Swimming,Mixed 4 × 100 m medley relay,Mixed,Abbey Weitzeil,Gold,2024
+Boxing,Men's welterweight,Men,Omari Jones,Bronze,2024
+Basketball,Men's tournament,Men,United States men's national basketball team,Gold,2024
+Volleyball,Men's tournament,Men,United States men's national volleyball team,Bronze,2024
+Water polo,Men's tournament,Men,United States men's national water polo team,Bronze,2024
+Skateboarding,Men's street,Men,Jagger Eaton,Silver,2024
+Skateboarding,Men's street,Men,Nyjah Huston,Bronze,2024
+Sport climbing,Men's speed,Men,Sam Watson,Bronze,2024
+Shooting,Men's skeet,Men,Vincent Hancock,Gold,2024
+Shooting,Men's skeet,Men,Conner Prince,Silver,2024
+Athletics,Men's shot put,Men,Ryan Crouser,Gold,2024
+Athletics,Men's shot put,Men,Joe Kovacs,Silver,2024
+Gymnastics,Men's pommel horse,Men,Stephen Nedoroscik,Bronze,2024
+Athletics,Men's pole vault,Men,Sam Kendricks,Silver,2024
+Skateboarding,Men's park,Men,Tom Schaar,Silver,2024
+Golf,Men's individual,Men,Scottie Scheffler,Gold,2024
+Archery,Men's individual,Men,Brady Ellison,Silver,2024
+Athletics,Men's high jump,Men,Shelby McEwen,Silver,2024
+Wrestling,Men's freestyle 86 kg,Men,Aaron Brooks,Bronze,2024
+Wrestling,Men's freestyle 74 kg,Men,Kyle Dake,Bronze,2024
+Wrestling,Men's freestyle 57 kg,Men,Spencer Lee,Silver,2024
+Rowing,Men's four,Men,Justin Best,Gold,2024
+Rowing,Men's four,Men,Liam Corrigan,Gold,2024
+Rowing,Men's four,Men,Michael Grady,Gold,2024
+Rowing,Men's four,Men,Nick Mead,Gold,2024
+Fencing,Men's foil,Men,Nick Itkin,Bronze,2024
+Rowing,Men's eight,Men,Christopher Carlson,Bronze,2024
+Rowing,Men's eight,Men,Peter Chatain,Bronze,2024
+Rowing,Men's eight,Men,Clark Dean,Bronze,2024
+Rowing,Men's eight,Men,Henry Hollingsworth,Bronze,2024
+Rowing,Men's eight,Men,Rielly Milne (c),Bronze,2024
+Rowing,Men's eight,Men,Evan Olson,Bronze,2024
+Rowing,Men's eight,Men,Pieter Quinton,Bronze,2024
+Rowing,Men's eight,Men,Nicholas Rusher,Bronze,2024
+Rowing,Men's eight,Men,Christian Tabash,Bronze,2024
+Tennis,Men's doubles,Men,Austin Krajicek,Silver,2024
+Tennis,Men's doubles,Men,Rajeev Ram,Silver,2024
+Tennis,Men's doubles,Men,Taylor Fritz,Bronze,2024
+Tennis,Men's doubles,Men,Tommy Paul,Bronze,2024
+Gymnastics,Men's artistic team all-around,Men,Asher Hong,Bronze,2024
+Gymnastics,Men's artistic team all-around,Men,Paul Juda,Bronze,2024
+Gymnastics,Men's artistic team all-around,Men,Brody Malone,Bronze,2024
+Gymnastics,Men's artistic team all-around,Men,Stephen Nedoroscik,Bronze,2024
+Gymnastics,Men's artistic team all-around,Men,Fred Richard,Bronze,2024
+Athletics,Men's 5000 m,Men,Grant Fisher,Bronze,2024
+Athletics,Men's 3000 m steeplechase,Men,Kenneth Rooks,Silver,2024
+Swimming,Men's 1500 m freestyle,Men,Bobby Finke,Gold,2024
+Athletics,Men's 1500 m,Men,Cole Hocker,Gold,2024
+Athletics,Men's 1500 m,Men,Yared Nuguse,Bronze,2024
+Swimming,Men's 800 m freestyle,Men,Bobby Finke,Silver,2024
+Swimming,Men's 400 m individual medley,Men,Carson Foster,Bronze,2024
+Athletics,Men's 400 m hurdles,Men,Rai Benjamin,Gold,2024
+Athletics,Men's 400 m,Men,Quincy Hall,Gold,2024
+Swimming,Men's 200 m freestyle,Men,Luke Hobson,Bronze,2024
+Athletics,Men's 200 m,Men,Kenny Bednarek,Silver,2024
+Athletics,Men's 200 m,Men,Noah Lyles,Bronze,2024
+Athletics,Men's 110 m hurdles,Men,Grant Holloway,Gold,2024
+Athletics,Men's 110 m hurdles,Men,Daniel Roberts,Silver,2024
+Swimming,Men's 100 m breaststroke,Men,Nic Fink,Silver,2024
+Swimming,Men's 100 m backstroke,Men,Ryan Murphy,Bronze,2024
+Athletics,Men's 100 m,Men,Noah Lyles,Gold,2024
+Athletics,Men's 100 m,Men,Fred Kerley,Bronze,2024
+Weightlifting,Men's 61 kg,Men,Hampton Morris,Bronze,2024
+Athletics,Men's 10,Men,Male,Grant Fisher,Bronze
+Athletics,Men's 4 × 400 m relay,Men,Christopher Bailey,Gold,2024
+Athletics,Men's 4 × 400 m relay,Men,Rai Benjamin,Gold,2024
+Athletics,Men's 4 × 400 m relay,Men,Bryce Deadmon,Gold,2024
+Athletics,Men's 4 × 400 m relay,Men,Vernon Norwood,Gold,2024
+Athletics,Men's 4 × 400 m relay,Men,Quincy Wilson,Gold,2024
+Swimming,Men's 4 × 200 m freestyle relay,Men,Brooks Curry,Silver,2024
+Swimming,Men's 4 × 200 m freestyle relay,Men,Carson Foster,Silver,2024
+Swimming,Men's 4 × 200 m freestyle relay,Men,Chris Guiliano,Silver,2024
+Swimming,Men's 4 × 200 m freestyle relay,Men,Luke Hobson,Silver,2024
+Swimming,Men's 4 × 200 m freestyle relay,Men,Drew Kibler,Silver,2024
+Swimming,Men's 4 × 200 m freestyle relay,Men,Blake Pieroni,Silver,2024
+Swimming,Men's 4 × 200 m freestyle relay,Men,Kieran Smith,Silver,2024
+Swimming,Men's 4 × 100 m medley relay,Men,Jack Alexy,Silver,2024
+Swimming,Men's 4 × 100 m medley relay,Men,Hunter Armstrong,Silver,2024
+Swimming,Men's 4 × 100 m medley relay,Men,Caeleb Dressel,Silver,2024
+Swimming,Men's 4 × 100 m medley relay,Men,Nic Fink,Silver,2024
+Swimming,Men's 4 × 100 m medley relay,Men,Thomas Heilman,Silver,2024
+Swimming,Men's 4 × 100 m medley relay,Men,Ryan Murphy,Silver,2024
+Swimming,Men's 4 × 100 m medley relay,Men,Charlie Swanson,Silver,2024
+Swimming,Men's 4 × 100 m freestyle relay,Men,Jack Alexy,Gold,2024
+Swimming,Men's 4 × 100 m freestyle relay,Men,Hunter Armstrong,Gold,2024
+Swimming,Men's 4 × 100 m freestyle relay,Men,Caeleb Dressel,Gold,2024
+Swimming,Men's 4 × 100 m freestyle relay,Men,Chris Guiliano,Gold,2024
+Swimming,Men's 4 × 100 m freestyle relay,Men,Ryan Held,Gold,2024
+Swimming,Men's 4 × 100 m freestyle relay,Men,Matt King,Gold,2024
+Breaking,B-Boys,Men,Victor Montalvo,Bronze,2024
+Sailing,49er,Men,Ian Barrows,Bronze,2024
+Sailing,49er,Men,Hans Henken,Bronze,2024

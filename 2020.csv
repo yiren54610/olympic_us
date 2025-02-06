@@ -1,0 +1,505 @@
+Sport,Event,Gender,Athlete,Medal,Year
+3x3 Basketball,3x3 Basketball,Women,Kelsey Plum•Jackie Young•Stefanie Dolson•Allisha Gray,None,2020
+Archery,Individual,Men,Brady Ellison,None,2020
+Archery,Individual,Men,Jacob Wukie,None,2020
+Archery,Individual,Men,Jack Williams,None,2020
+Archery,Team,Men,Brady Ellison•Jack Williams•Jacob Wukie,None,2020
+Archery,Individual,Women,Mackenzie Brown,None,2020
+Archery,Individual,Women,Casey Kaufhold,None,2020
+Archery,Individual,Women,Jennifer Mucino-Fernandez,None,2020
+Archery,Team,Women,Mackenzie Brown•Casey Kaufhold•Jennifer Mucino-Fernandez,None,2020
+Archery,Team,Mixed,Brady Ellison•Mackenzie Brown,None,2020
+Artistic Gymnastics,Individual All-Around,Men,Brody Malone,None,2020
+Artistic Gymnastics,Individual All-Around,Men,Sam Mikulak,None,2020
+Artistic Gymnastics,Individual All-Around,Men,Yul Moldauer,None,2020
+Artistic Gymnastics,Individual All-Around,Men,Shane Wiskus,None,2020
+Artistic Gymnastics,Team All-Around,Men,Brody Malone•Sam Mikulak•Yul Moldauer•Shane Wiskus,None,2020
+Artistic Gymnastics,Floor Exercise,Men,Yul Moldauer,None,2020
+Artistic Gymnastics,Floor Exercise,Men,Shane Wiskus,None,2020
+Artistic Gymnastics,Floor Exercise,Men,Sam Mikulak,None,2020
+Artistic Gymnastics,Floor Exercise,Men,Brody Malone,None,2020
+Artistic Gymnastics,Parallel Bars,Men,Sam Mikulak,None,2020
+Artistic Gymnastics,Parallel Bars,Men,Shane Wiskus,None,2020
+Artistic Gymnastics,Parallel Bars,Men,Brody Malone,None,2020
+Artistic Gymnastics,Parallel Bars,Men,Yul Moldauer,None,2020
+Artistic Gymnastics,Horizontal Bar,Men,Brody Malone,None,2020
+Artistic Gymnastics,Horizontal Bar,Men,Shane Wiskus,None,2020
+Artistic Gymnastics,Horizontal Bar,Men,Yul Moldauer,None,2020
+Artistic Gymnastics,Horizontal Bar,Men,Sam Mikulak,None,2020
+Artistic Gymnastics,Rings,Men,Brody Malone,None,2020
+Artistic Gymnastics,Rings,Men,Yul Moldauer,None,2020
+Artistic Gymnastics,Rings,Men,Sam Mikulak,None,2020
+Artistic Gymnastics,Rings,Men,Shane Wiskus,None,2020
+Artistic Gymnastics,Pommelled Horse,Men,Alec Yoder,None,2020
+Artistic Gymnastics,Pommelled Horse,Men,Yul Moldauer,None,2020
+Artistic Gymnastics,Pommelled Horse,Men,Sam Mikulak,None,2020
+Artistic Gymnastics,Pommelled Horse,Men,Brody Malone,None,2020
+Artistic Gymnastics,Pommelled Horse,Men,Shane Wiskus,None,2020
+Artistic Gymnastics,Individual All-Around,Women,Suni Lee,Gold,2020
+Artistic Gymnastics,Individual All-Around,Women,Jade Carey,None,2020
+Artistic Gymnastics,Individual All-Around,Women,Simone Biles,None,2020
+Artistic Gymnastics,Individual All-Around,Women,MyKayla Skinner,None,2020
+Artistic Gymnastics,Individual All-Around,Women,Grace McCallum,None,2020
+Artistic Gymnastics,Individual All-Around,Women,Jordan Chiles,None,2020
+Artistic Gymnastics,Team All-Around,Women,Simone Biles•Jordan Chiles•Suni Lee•Grace McCallum,None,2020
+Artistic Gymnastics,Floor Exercise,Women,Jade Carey,Gold,2020
+Artistic Gymnastics,Floor Exercise,Women,Simone Biles,None,2020
+Artistic Gymnastics,Floor Exercise,Women,Jordan Chiles,None,2020
+Artistic Gymnastics,Floor Exercise,Women,MyKayla Skinner,None,2020
+Artistic Gymnastics,Floor Exercise,Women,Grace McCallum,None,2020
+Artistic Gymnastics,Floor Exercise,Women,Suni Lee,None,2020
+Artistic Gymnastics,Horse Vault,Women,MyKayla Skinner,Silver,2020
+Artistic Gymnastics,Horse Vault,Women,Jade Carey,None,2020
+Artistic Gymnastics,Horse Vault,Women,Simone Biles,None,2020
+Artistic Gymnastics,Uneven Bars,Women,Suni Lee,Bronze,2020
+Artistic Gymnastics,Uneven Bars,Women,Simone Biles,None,2020
+Artistic Gymnastics,Uneven Bars,Women,Jade Carey,None,2020
+Artistic Gymnastics,Uneven Bars,Women,Grace McCallum,None,2020
+Artistic Gymnastics,Uneven Bars,Women,MyKayla Skinner,None,2020
+Artistic Gymnastics,Uneven Bars,Women,Jordan Chiles,None,2020
+Artistic Gymnastics,Balance Beam,Women,Simone Biles,Bronze,2020
+Artistic Gymnastics,Balance Beam,Women,Suni Lee,None,2020
+Artistic Gymnastics,Balance Beam,Women,MyKayla Skinner,None,2020
+Artistic Gymnastics,Balance Beam,Women,Grace McCallum,None,2020
+Artistic Gymnastics,Balance Beam,Women,Jade Carey,None,2020
+Artistic Gymnastics,Balance Beam,Women,Jordan Chiles,None,2020
+Artistic Swimming,Duet,Women,Anita Alvarez•Lindi Schroeder,None,2020
+Athletics,100 metres,Men,Fred Kerley,Silver,2020
+Athletics,100 metres,Men,Ronnie Baker,None,2020
+Athletics,100 metres,Men,Trayvon Bromell,None,2020
+Athletics,200 metres,Men,Kenny Bednarek,Silver,2020
+Athletics,200 metres,Men,Noah Lyles,Bronze,2020
+Athletics,200 metres,Men,Erriyon Knighton,None,2020
+Athletics,400 metres,Men,Michael Cherry,None,2020
+Athletics,400 metres,Men,Michael Norman,None,2020
+Athletics,400 metres,Men,Randolph Ross,None,2020
+Athletics,800 metres,Men,Clayton Murphy,None,2020
+Athletics,800 metres,Men,Bryce Hoppel,None,2020
+Athletics,800 metres,Men,Isaiah Jewett,None,2020
+Athletics,"1,500 metres",Men,Cole Hocker,None,2020
+Athletics,"1,500 metres",Men,"Matthew Centrowitz, Jr.",None,2020
+Athletics,"1,500 metres",Men,Yared Nuguse,None,2020
+Athletics,"5,000 metres",Men,Paul Chelimo,Bronze,2020
+Athletics,"5,000 metres",Men,Grant Fisher,None,2020
+Athletics,"5,000 metres",Men,Woody Kincaid,None,2020
+Athletics,"10,000 metres",Men,Grant Fisher,None,2020
+Athletics,"10,000 metres",Men,Woody Kincaid,None,2020
+Athletics,"10,000 metres",Men,Joe Klecker,None,2020
+Athletics,Marathon,Men,Galen Rupp,None,2020
+Athletics,Marathon,Men,Jacob Riley,None,2020
+Athletics,Marathon,Men,Abdi Abdirahman,None,2020
+Athletics,110 metres Hurdles,Men,Grant Holloway,Silver,2020
+Athletics,110 metres Hurdles,Men,Devon Allen,None,2020
+Athletics,110 metres Hurdles,Men,Daniel Roberts,None,2020
+Athletics,400 metres Hurdles,Men,Rai Benjamin,Silver,2020
+Athletics,400 metres Hurdles,Men,David Kendziera,None,2020
+Athletics,400 metres Hurdles,Men,Kenny Selmon,None,2020
+Athletics,"3,000 metres Steeplechase",Men,Benard Keter,None,2020
+Athletics,"3,000 metres Steeplechase",Men,Hillary Bor,None,2020
+Athletics,"3,000 metres Steeplechase",Men,Mason Ferlic,None,2020
+Athletics,4 × 100 metres Relay,Men,Micah Williams(DNS)•Trayvon Bromell•Fred Kerley•Ronnie Baker•Cravon Gillespie,None,2020
+Athletics,4 × 400 metres Relay,Men,Michael Cherry•Michael Norman•Bryce Deadmon•Rai Benjamin•Trevor Stewart•Randolph Ross•Vernon Norwood,None,2020
+Athletics,20 kilometres Race Walk,Men,Nick Christie,None,2020
+Athletics,High Jump,Men,JuVaughn Harrison,None,2020
+Athletics,High Jump,Men,Shelby McEwen,None,2020
+Athletics,High Jump,Men,Darryl Sullivan,None,2020
+Athletics,Pole Vault,Men,Chris Nilsen,Silver,2020
+Athletics,Pole Vault,Men,KC Lightfoot,None,2020
+Athletics,Pole Vault,Men,Matt Ludwig,None,2020
+Athletics,Long Jump,Men,JuVaughn Harrison,None,2020
+Athletics,Long Jump,Men,Steffin McCarter,None,2020
+Athletics,Long Jump,Men,Marquis Dendy,None,2020
+Athletics,Triple Jump,Men,Will Claye,None,2020
+Athletics,Triple Jump,Men,Donald Scott,None,2020
+Athletics,Triple Jump,Men,Chris Benard,None,2020
+Athletics,Shot Put,Men,Ryan Crouser,Gold,2020
+Athletics,Shot Put,Men,Joe Kovacs,Silver,2020
+Athletics,Shot Put,Men,Payton Otterdahl,None,2020
+Athletics,Discus Throw,Men,Sam Mattis,None,2020
+Athletics,Discus Throw,Men,Reggie Jagers,None,2020
+Athletics,Discus Throw,Men,Mason Finley,None,2020
+Athletics,Hammer Throw,Men,Rudy Winkler,None,2020
+Athletics,Hammer Throw,Men,Daniel Haugh,None,2020
+Athletics,Hammer Throw,Men,Alex Young,None,2020
+Athletics,Javelin Throw,Men,Curtis Thompson,None,2020
+Athletics,Javelin Throw,Men,Michael Shuey,None,2020
+Athletics,Decathlon,Men,Garrett Scantling,None,2020
+Athletics,Decathlon,Men,Zach Ziemek,None,2020
+Athletics,Decathlon,Men,Steven Bastien,None,2020
+Athletics,100 metres,Women,Teahna Daniels,None,2020
+Athletics,100 metres,Women,Jenna Prandini,None,2020
+Athletics,100 metres,Women,Javianne Oliver,None,2020
+Athletics,200 metres,Women,Gabby Thomas,Bronze,2020
+Athletics,200 metres,Women,Jenna Prandini,None,2020
+Athletics,200 metres,Women,Anavia Battle,None,2020
+Athletics,400 metres,Women,Allyson Felix,Bronze,2020
+Athletics,400 metres,Women,Quanera Hayes,None,2020
+Athletics,400 metres,Women,Wadeline Jonathas,None,2020
+Athletics,800 metres,Women,Athing Mu,Gold,2020
+Athletics,800 metres,Women,Raevyn Rogers,Bronze,2020
+Athletics,800 metres,Women,Ajeé Wilson,None,2020
+Athletics,"1,500 metres",Women,Elle Purrier St. Pierre,None,2020
+Athletics,"1,500 metres",Women,Cory McGee,None,2020
+Athletics,"1,500 metres",Women,Heather MacLean,None,2020
+Athletics,"5,000 metres",Women,Karissa Schweizer,None,2020
+Athletics,"5,000 metres",Women,Elise Cranny,None,2020
+Athletics,"5,000 metres",Women,Rachel Schneider,None,2020
+Athletics,"10,000 metres",Women,Emily Sisson,None,2020
+Athletics,"10,000 metres",Women,Karissa Schweizer,None,2020
+Athletics,"10,000 metres",Women,Alicia Monson,None,2020
+Athletics,Marathon,Women,Molly Seidel,Bronze,2020
+Athletics,Marathon,Women,Sally Kipyego,None,2020
+Athletics,Marathon,Women,Aliphine Tuliamuk,None,2020
+Athletics,100 metres Hurdles,Women,Keni Harrison,Silver,2020
+Athletics,100 metres Hurdles,Women,Gabbi Cunningham,None,2020
+Athletics,100 metres Hurdles,Women,Christina Clemons,None,2020
+Athletics,400 metres Hurdles,Women,Sydney McLaughlin,Gold,2020
+Athletics,400 metres Hurdles,Women,Dalilah Muhammad,Silver,2020
+Athletics,400 metres Hurdles,Women,Anna Cockrell,None,2020
+Athletics,"3,000 metres Steeplechase",Women,Courtney Frerichs,Silver,2020
+Athletics,"3,000 metres Steeplechase",Women,Valerie Constien,None,2020
+Athletics,"3,000 metres Steeplechase",Women,Emma Coburn,None,2020
+Athletics,4 × 100 metres Relay,Women,Javianne Oliver•Teahna Daniels•Jenna Prandini•Gabby Thomas•English Gardner•Aleia Hobbs,None,2020
+Athletics,4 × 400 metres Relay,Women,Sydney McLaughlin•Allyson Felix•Dalilah Muhammad•Athing Mu•Kaylin Whitney•Wadeline Jonathas•Kendall Ellis•Lynna Irby•Quanera Hayes(DNS),None,2020
+Athletics,20 kilometres Race Walk,Women,Robyn Stevens,None,2020
+Athletics,High Jump,Women,Vashti Cunningham,None,2020
+Athletics,High Jump,Women,Rachel McCoy,None,2020
+Athletics,High Jump,Women,Tynita Butts-Townsend,None,2020
+Athletics,Pole Vault,Women,Katie Nageotte,Gold,2020
+Athletics,Pole Vault,Women,Morgann LeLeux,None,2020
+Athletics,Pole Vault,Women,Sandi Morris,None,2020
+Athletics,Long Jump,Women,Brittney Reese,Silver,2020
+Athletics,Long Jump,Women,Tara Davis,None,2020
+Athletics,Long Jump,Women,Quanesha Burks,None,2020
+Athletics,Triple Jump,Women,Keturah Orji,None,2020
+Athletics,Triple Jump,Women,Jasmine Moore,None,2020
+Athletics,Triple Jump,Women,Tori Franklin,None,2020
+Athletics,Shot Put,Women,Raven Saunders,Silver,2020
+Athletics,Shot Put,Women,Jessica Ramsey,None,2020
+Athletics,Shot Put,Women,Adelaide Aquilla,None,2020
+Athletics,Discus Throw,Women,Valarie Allman,Gold,2020
+Athletics,Discus Throw,Women,Rachel Dincoff,None,2020
+Athletics,Discus Throw,Women,Kelsey Card,None,2020
+Athletics,Hammer Throw,Women,DeAnna Price,None,2020
+Athletics,Hammer Throw,Women,Brooke Andersen,None,2020
+Athletics,Hammer Throw,Women,Gwen Berry,None,2020
+Athletics,Javelin Throw,Women,Maggie Malone,None,2020
+Athletics,Javelin Throw,Women,Kara Winger,None,2020
+Athletics,Javelin Throw,Women,Ariana Ince,None,2020
+Athletics,Heptathlon,Women,Kendell Williams,None,2020
+Athletics,Heptathlon,Women,Annie Kunz,None,2020
+Athletics,Heptathlon,Women,Erica Bougard,None,2020
+Athletics,4 × 400 metres Relay,Mixed,Trevor Stewart•Kendall Ellis•Kaylin Whitney•Vernon Norwood•Elija Godwin•Lynna Irby•Taylor Manson•Bryce Deadmon,None,2020
+Badminton,Singles,Men,Timothy Lam,None,2020
+Badminton,Doubles,Men,Phillip Chew•Ryan Chew,None,2020
+Badminton,Singles,Women,Beiwen Zhang,None,2020
+Baseball,Baseball,Men,"Eddy Alvarez•Eric Filia•Jack López•Mark Kolozsvary•Nick Allen•Jamie Westbrook•Nick Martinez•Scott Kazmir•Patrick Kivlehan•Tyler Austin•Bubba Starling•Todd Frazier•Triston Casas•Ryder Ryan•David Robertson•Anthony Gose•Brandon Dickson•Edwin Jackson, Jr.•Tim Federowicz(DNS)•Shane Baz•Scott McGough•Joe Speer Ryan•Simeon Woods Richardson(DNS)•Anthony Carter",None,2020
+Basketball,Basketball,Men,Keldon Johnson•Zach LaVine•Damian Lillard•Kevin Durant•Khris Middleton•Jerami Grant•Jayson Tatum•JaVale McGee•Jrue Holiday•Bam Adebayo•Draymond Green•Devin Booker,None,2020
+Basketball,Basketball,Women,Jewell Loyd•Skylar Diggins-Smith•Sue Bird•Ariel Atkins•Chelsea Gray•A'ja Wilson•Breanna Stewart•Napheesa Collier•Diana Taurasi•Sylvia Fowles•Tina Charles•Brittney Griner,None,2020
+Beach Volleyball,Beach Volleyball,Men,Nick Lucena•Phil Dalhausser,None,2020
+Beach Volleyball,Beach Volleyball,Men,Jake Gibb•Tri Bourne,None,2020
+Beach Volleyball,Beach Volleyball,Women,April Ross•Alix Klineman,None,2020
+Beach Volleyball,Beach Volleyball,Women,Kelly Claes•Sarah Sponcil,None,2020
+Boxing,Featherweight,Men,Duke Ragan,Silver,2020
+Boxing,Lightweight,Men,Keyshawn Davis,Silver,2020
+Boxing,Welterweight,Men,Delante Johnson,None,2020
+Boxing,Middleweight,Men,Troy Isley,None,2020
+Boxing,Super-Heavyweight,Men,Richard Torrez,Silver,2020
+Boxing,Flyweight,Women,Ginny Fuchs,None,2020
+Boxing,Lightweight,Women,Rashida Ellis,None,2020
+Boxing,Featherweight,Women,Yarisel Ramirez,None,2020
+Boxing,Welterweight,Women,Oshae Jones,Bronze,2020
+Boxing,Middleweight,Women,Naomi Graham,None,2020
+Canoe Slalom,"Kayak Singles, Slalom",Men,Michal Smolen,None,2020
+Canoe Slalom,"Canadian Singles, Slalom",Men,Zachary Lokken,None,2020
+Canoe Slalom,"Kayak Singles, Slalom",Women,Evy Leibfarth,None,2020
+Canoe Slalom,"Canadian Singles, Slalom",Women,Evy Leibfarth,None,2020
+Canoe Sprint,"Canadian Singles, 200 metres",Women,Nevin Harrison,Gold,2020
+Cycling BMX Freestyle,Park,Men,Justin Dowell,None,2020
+Cycling BMX Freestyle,Park,Men,Nick Bruce,None,2020
+Cycling BMX Freestyle,Park,Women,Hannah Roberts,Silver,2020
+Cycling BMX Freestyle,Park,Women,Perris Benegas,None,2020
+Cycling BMX Racing,BMX,Men,Connor Fields,None,2020
+Cycling BMX Racing,BMX,Men,Corben Sharrah,None,2020
+Cycling BMX Racing,BMX,Women,Felicia Stancil,None,2020
+Cycling BMX Racing,BMX,Women,Alise Willoughby,None,2020
+Cycling BMX Racing,BMX,Women,Payton Ridenour,None,2020
+Cycling Mountain Bike,Cross-Country,Men,Christopher Blevins,None,2020
+Cycling Mountain Bike,Cross-Country,Women,Haley Batten,None,2020
+Cycling Mountain Bike,Cross-Country,Women,Kate Courtney,None,2020
+Cycling Mountain Bike,Cross-Country,Women,Erin Huck,None,2020
+Cycling Road,"Road Race, Individual",Men,Brandon McNulty,None,2020
+Cycling Road,"Road Race, Individual",Men,Lawson Craddock,None,2020
+Cycling Road,Individual Time Trial,Men,Brandon McNulty,None,2020
+Cycling Road,Individual Time Trial,Men,Lawson Craddock,None,2020
+Cycling Road,"Road Race, Individual",Women,Coryn Rivera,None,2020
+Cycling Road,"Road Race, Individual",Women,Leah Thomas,None,2020
+Cycling Road,"Road Race, Individual",Women,Chloé Dygert,None,2020
+Cycling Road,"Road Race, Individual",Women,Ruth Winder,None,2020
+Cycling Road,Individual Time Trial,Women,Amber Neben,None,2020
+Cycling Road,Individual Time Trial,Women,Chloé Dygert,None,2020
+Cycling Track,Madison,Men,Adrian Hegyvary•Gavin Hoover,None,2020
+Cycling Track,Omnium,Men,Gavin Hoover,None,2020
+Cycling Track,Sprint,Women,Maddie Godby,None,2020
+Cycling Track,Keirin,Women,Maddie Godby,None,2020
+Cycling Track,Team Pursuit,Women,Megan Jastrab•Jennifer Valente•Chloé Dygert•Emma White•Lily Williams,None,2020
+Cycling Track,Omnium,Women,Jennifer Valente,Gold,2020
+Cycling Track,Madison,Women,Megan Jastrab•Jennifer Valente,None,2020
+Diving,Springboard,Men,Andrew Capobianco,None,2020
+Diving,Springboard,Men,Tyler Downs,None,2020
+Diving,Platform,Men,Jordan Windle,None,2020
+Diving,Platform,Men,Brandon Loschiavo,None,2020
+Diving,Synchronized Springboard,Men,Andrew Capobianco•Mike Hixon,None,2020
+Diving,Springboard,Women,Krysta Palmer,Bronze,2020
+Diving,Springboard,Women,Hailey Hernandez,None,2020
+Diving,Platform,Women,Delaney Schnell,None,2020
+Diving,Platform,Women,Katrina Young,None,2020
+Diving,Synchronized Springboard,Women,Alison Gibson•Krysta Palmer,None,2020
+Diving,Synchronized Platform,Women,Jessica Parratto•Delaney Schnell,None,2020
+Equestrian Dressage,Individual,Open,Sabine Schut-Kery,None,2020
+Equestrian Dressage,Individual,Open,Steffen Peters,None,2020
+Equestrian Dressage,Individual,Open,Adrienne Lyle,None,2020
+Equestrian Dressage,Team,Open,Adrienne Lyle•Steffen Peters•Sabine Schut-Kery,None,2020
+Equestrian Eventing,Individual,Open,Doug Payne,None,2020
+Equestrian Eventing,Individual,Open,Boyd Martin,None,2020
+Equestrian Eventing,Individual,Open,Phillip Dutton,None,2020
+Equestrian Eventing,Team,Open,Tamra Smith(DNS)•Doug Payne•Phillip Dutton•Boyd Martin,None,2020
+Equestrian Jumping,Individual,Open,Jessica Springsteen,None,2020
+Equestrian Jumping,Individual,Open,Kent Farrington,None,2020
+Equestrian Jumping,Individual,Open,Laura Kraut,None,2020
+Equestrian Jumping,Team,Open,Laura Kraut•Jessica Springsteen•McLain Ward•Kent Farrington(DNS),None,2020
+Fencing,"Foil, Individual",Men,Nick Itkin,None,2020
+Fencing,"Foil, Individual",Men,Gerek Meinhardt,None,2020
+Fencing,"Foil, Individual",Men,Alexander Massialas,None,2020
+Fencing,"Foil, Team",Men,Alexander Massialas•Nick Itkin•Gerek Meinhardt•Race Imboden,None,2020
+Fencing,"Épée, Individual",Men,Curtis McDowald,None,2020
+Fencing,"Épée, Individual",Men,Jake Hoyle,None,2020
+Fencing,"Épée, Individual",Men,Yeisser Ramirez,None,2020
+Fencing,"Épée, Team",Men,Jake Hoyle•Curtis McDowald•Yeisser Ramirez•Alen Hadzic(DNS),None,2020
+Fencing,"Sabre, Individual",Men,Eli Dershwitz,None,2020
+Fencing,"Sabre, Individual",Men,Daryl Homer,None,2020
+Fencing,"Sabre, Individual",Men,Andrew Mackiewicz,None,2020
+Fencing,"Sabre, Team",Men,Eli Dershwitz•Andrew Mackiewicz•Daryl Homer•Khalil Thompson,None,2020
+Fencing,"Foil, Individual",Women,Lee Kiefer,Gold,2020
+Fencing,"Foil, Individual",Women,Nicole Ross,None,2020
+Fencing,"Foil, Individual",Women,Jackie Dubrovich,None,2020
+Fencing,"Foil, Team",Women,Lee Kiefer•Jackie Dubrovich•Nicole Ross•Sabrina Massialas,None,2020
+Fencing,"Épée, Individual",Women,Kelley Hurley,None,2020
+Fencing,"Épée, Individual",Women,Kat Holmes,None,2020
+Fencing,"Épée, Individual",Women,Courtney Hurley,None,2020
+Fencing,"Épée, Team",Women,Kelley Hurley•Kat Holmes•Anna van Brummen•Courtney Hurley,None,2020
+Fencing,"Sabre, Individual",Women,Mariel Zagunis,None,2020
+Fencing,"Sabre, Individual",Women,Eliza Stone,None,2020
+Fencing,"Sabre, Individual",Women,Dagmara Wozniak,None,2020
+Fencing,"Sabre, Team",Women,Mariel Zagunis•Eliza Stone•Dagmara Wozniak•Francesca Russo,None,2020
+Football,Football,Women,Alyssa Naeher•Crystal Dunn•Sam Mewis•Becky Sauerbrunn•Kelley O'Hara•Kristie Mewis•Tobin Heath•Julie Ertz•Lindsey Horan•Carli Lloyd•Christen Press•Tierna Davidson•Alex Morgan•Emily Sonnett•Megan Rapinoe•Rose Lavelle•Abby Dahlkemper•A. D. Franch•Catarina Macário•Casey Krueger•Lynn Williams•Jane Campbell(DNS),None,2020
+Golf,Individual,Men,Xander Schauffele,Gold,2020
+Golf,Individual,Men,Collin Morikawa,None,2020
+Golf,Individual,Men,Justin Thomas,None,2020
+Golf,Individual,Men,Patrick Reed,None,2020
+Golf,Individual,Women,Nelly Korda,Gold,2020
+Golf,Individual,Women,Jessica Korda,None,2020
+Golf,Individual,Women,Danielle Kang,None,2020
+Golf,Individual,Women,Lexi Thompson,None,2020
+Judo,Middleweight,Men,Colton Brown,None,2020
+Judo,Half-Lightweight,Women,Angelica Delgado,None,2020
+Judo,Half-Heavyweight,Women,Nefeli Papadakis,None,2020
+Judo,Heavyweight,Women,Nina Cutro-Kelly,None,2020
+Karate,Kata,Men,Ariel Torres,Bronze,2020
+Karate,"Kumite, ≤75 kg",Men,Tom Scott,None,2020
+Karate,"Kumite, >75 kg",Men,Brian Irr,None,2020
+Karate,Kata,Women,Sakura Kokumai,None,2020
+Marathon Swimming,10 kilometres Open Water,Men,Jordan Wilimovsky,None,2020
+Marathon Swimming,10 kilometres Open Water,Women,Haley Anderson,None,2020
+Marathon Swimming,10 kilometres Open Water,Women,Ashley Twichell,None,2020
+Modern Pentathlon,Individual,Men,Amro El-Geziry,None,2020
+Modern Pentathlon,Individual,Women,Samantha Schultz,None,2020
+Rhythmic Gymnastics,Individual,Women,Evita Griskenas,None,2020
+Rhythmic Gymnastics,Individual,Women,Laura Zeng,None,2020
+Rhythmic Gymnastics,Group,Women,Isabelle Connor•Camilla Feeley•Lili Mizuno•Elizaveta Pletneva•Nicole Sladkov,None,2020
+Rowing,Coxless Fours,Men,Andrew Reed•Anders Weiss•Michael Grady•Clark Dean,None,2020
+Rowing,Eights,Men,Ben Davison•Justin Best•Daniel Miklasevich•Austin Hack•Alexander Richards•Nick Mead•Conor Harrity•Liam Corrigan•Julian Venonsky,None,2020
+Rowing,Single Sculls,Women,Kara Kohler,None,2020
+Rowing,Double Sculls,Women,Kristina Wagner•Gevvie Stone,None,2020
+Rowing,Coxless Pairs,Women,Megan Kalmoe•Tracy Eisser,None,2020
+Rowing,Quadruple Sculls,Women,Cicely Madden•Alie Rusher•Meghan O'Leary•Ellen Tomek,None,2020
+Rowing,Coxless Fours,Women,Madeleine Wanamaker•Claire Collins•Kenny Chase•Grace Luczak,None,2020
+Rowing,Eights,Women,Jessica Thoennes•Charlotte Buck•Gia Doonan•Brooke Mooney•Olivia Coffey•Regina Salmons•Meghan Musnicki•Kristine O'Brien•Katelin Guregian,None,2020
+Rowing,Lightweight Double Sculls,Women,Molly Reckford•Michelle Sechser,None,2020
+Rugby Sevens,Rugby Sevens,Men,Cody Melphy•Brett Thompson•Carlin Isles•Danny Barrett•Folau Niua•Joe Schroeder•Kevon Williams•Maceo Brown•Madison Hughes•Martin Iosefo•Matai Leuta•Perry Baker•Steve Tomasin,None,2020
+Rugby Sevens,Rugby Sevens,Women,Cheta Emba•Ilona Maher•Abby Gustaitis•Nicole Heavirland•Alev Kelter•Lauren Doyle•Naya Tapper•Jordan Gray-Matyas•Ariana Ramsey•Kayla Canett•Kris Thomas•Kristi Kirshe•Nia Toliver,None,2020
+Sailing,Windsurfer,Men,Pedro Pascual,None,2020
+Sailing,One Person Dinghy,Men,Charlie Buckingham,None,2020
+Sailing,Two Person Dinghy,Men,Stu McNay•Dave Hughes,None,2020
+Sailing,One Person Heavyweight Dinghy,Men,Luke Muller,None,2020
+Sailing,Windsurfer,Women,Farrah Hall,None,2020
+Sailing,One Person Dinghy,Women,Paige Railey,None,2020
+Sailing,Two Person Dinghy,Women,Nikki Barnes•Lara Dallman-Weiss,None,2020
+Sailing,Skiff,Women,Stephanie Roble•Maggie Shea,None,2020
+Sailing,Multihull,Mixed,Riley Gibbs•Anna Weis,None,2020
+Shooting,"Air Pistol, 10 metres",Men,James Hall,None,2020
+Shooting,"Air Pistol, 10 metres",Men,Nick Mowrer,None,2020
+Shooting,"Rapid-Fire Pistol, 25 metres",Men,Henry Leverett,None,2020
+Shooting,"Rapid-Fire Pistol, 25 metres",Men,Jack Leverett,None,2020
+Shooting,"Air Rifle, 10 metres",Men,Will Shaner,Gold,2020
+Shooting,"Air Rifle, 10 metres",Men,Lucas Kozeniesky,None,2020
+Shooting,"Small-Bore Rifle, Three Positions, 50 metres",Men,Patrick Sunderman,None,2020
+Shooting,"Small-Bore Rifle, Three Positions, 50 metres",Men,Nick Mowrer,None,2020
+Shooting,Trap,Men,Brian Burrows,None,2020
+Shooting,Trap,Men,Derrick Mein,None,2020
+Shooting,Skeet,Men,Vincent Hancock,Gold,2020
+Shooting,Skeet,Men,Phillip Jungman,None,2020
+Shooting,"Air Pistol, 10 metres",Women,Alexis Lagan,None,2020
+Shooting,"Air Pistol, 10 metres",Women,Sandra Uptagrafft,None,2020
+Shooting,"Sporting Pistol, 25 metres",Women,Alexis Lagan,None,2020
+Shooting,"Sporting Pistol, 25 metres",Women,Sandra Uptagrafft,None,2020
+Shooting,"Air Rifle, 10 metres",Women,Mary Tucker,None,2020
+Shooting,"Air Rifle, 10 metres",Women,Ali Weisz,None,2020
+Shooting,"Small-Bore Rifle, Three Positions, 50 metres",Women,Sagen Maddalena,None,2020
+Shooting,"Small-Bore Rifle, Three Positions, 50 metres",Women,Mary Tucker,None,2020
+Shooting,Trap,Women,Kayle Browning,Silver,2020
+Shooting,Trap,Women,Madelynn Bernau,None,2020
+Shooting,Skeet,Women,Amber English,Gold,2020
+Shooting,Skeet,Women,Austen Smith,None,2020
+Shooting,"Air Pistol, 10 metres, Team",Mixed,"Sandra Uptagrafft•James Hall, Alexis Lagan•Nick Mowrer",None,2020
+Shooting,"Air Rifle, 10 metres, Team",Mixed,"Mary Tucker•Lucas Kozeniesky, Ali Weisz•Will Shaner",None,2020
+Shooting,"Trap, Team",Mixed,"Madelynn Bernau•Brian Burrows, Kayle Browning•Derrick Mein",None,2020
+Skateboarding,Street,Men,Jagger Eaton,Bronze,2020
+Skateboarding,Street,Men,Nyjah Huston,None,2020
+Skateboarding,Street,Men,Jake Ilardi,None,2020
+Skateboarding,Park,Men,Cory Juneau,Bronze,2020
+Skateboarding,Park,Men,Zion Wright,None,2020
+Skateboarding,Park,Men,Heimana Reynolds,None,2020
+Skateboarding,Street,Women,Alexis Sablone,None,2020
+Skateboarding,Street,Women,Mariah Duran,None,2020
+Skateboarding,Street,Women,Alana Smith,None,2020
+Skateboarding,Park,Women,Bryce Wettstein,None,2020
+Skateboarding,Park,Women,Jordyn Barratt,None,2020
+Skateboarding,Park,Women,Brighton Zeuner,None,2020
+Softball,Softball,Women,Aubree Munro•Ali Aguilar•Ally Carda•Amanda Chidester•Kelsey Stewart•Haylie McCleney•Janie Reed•Monica Abbott•Michelle Moultrie•Val Arioto•Rachel Garcia•Dejah Mulipola•Cat Osterman•Bubbla Nickles•Delaney Spaulding,None,2020
+Sport Climbing,Combined,Men,Nathaniel Coleman,Silver,2020
+Sport Climbing,Combined,Men,Colin Duffy,None,2020
+Sport Climbing,Combined,Women,Brooke Raboutou,None,2020
+Sport Climbing,Combined,Women,Kyra Condie,None,2020
+Surfing,Shortboard,Men,Kolohe Andino,None,2020
+Surfing,Shortboard,Men,John John Florence,None,2020
+Surfing,Shortboard,Women,Carissa Moore,Gold,2020
+Surfing,Shortboard,Women,Caroline Marks,None,2020
+Swimming,50 metres Freestyle,Men,Caeleb Dressel,Gold,2020
+Swimming,50 metres Freestyle,Men,Michael Andrew,None,2020
+Swimming,100 metres Freestyle,Men,Caeleb Dressel,Gold,2020
+Swimming,100 metres Freestyle,Men,Zach Apple,None,2020
+Swimming,200 metres Freestyle,Men,Kieran Smith,None,2020
+Swimming,200 metres Freestyle,Men,Townley Haas,None,2020
+Swimming,400 metres Freestyle,Men,Kieran Smith,Bronze,2020
+Swimming,400 metres Freestyle,Men,Jake Mitchell,None,2020
+Swimming,800 metres Freestyle,Men,Bobby Finke,Gold,2020
+Swimming,800 metres Freestyle,Men,Michael Brinegar,None,2020
+Swimming,"1,500 metres Freestyle",Men,Bobby Finke,Gold,2020
+Swimming,"1,500 metres Freestyle",Men,Michael Brinegar,None,2020
+Swimming,4 × 100 metres Freestyle Relay,Men,Caeleb Dressel•Blake Pieroni•Bowe Becker•Zach Apple•Brooks Curry,None,2020
+Swimming,4 × 200 metres Freestyle Relay,Men,Kieran Smith•Drew Kibler•Zach Apple•Townley Haas•Andrew Seliskar•Patrick Callan•Blake Pieroni,None,2020
+Swimming,100 metres Backstroke,Men,Ryan Murphy,Bronze,2020
+Swimming,100 metres Backstroke,Men,Hunter Armstrong,None,2020
+Swimming,200 metres Backstroke,Men,Ryan Murphy,Silver,2020
+Swimming,200 metres Backstroke,Men,Bryce Mefford,None,2020
+Swimming,100 metres Breaststroke,Men,Michael Andrew,None,2020
+Swimming,100 metres Breaststroke,Men,Andrew Wilson,None,2020
+Swimming,200 metres Breaststroke,Men,Nic Fink,None,2020
+Swimming,200 metres Breaststroke,Men,Andrew Wilson,None,2020
+Swimming,100 metres Butterfly,Men,Caeleb Dressel,Gold,2020
+Swimming,100 metres Butterfly,Men,Tom Shields,None,2020
+Swimming,200 metres Butterfly,Men,Gunnar Bentz,None,2020
+Swimming,200 metres Butterfly,Men,Zach Harting,None,2020
+Swimming,200 metres Individual Medley,Men,Michael Andrew,None,2020
+Swimming,200 metres Individual Medley,Men,Chase Kalisz,None,2020
+Swimming,400 metres Individual Medley,Men,Chase Kalisz,Gold,2020
+Swimming,400 metres Individual Medley,Men,Jay Litherland,Silver,2020
+Swimming,4 × 100 metres Medley Relay,Men,Ryan Murphy•Michael Andrew•Caeleb Dressel•Zach Apple•Hunter Armstrong•Andrew Wilson•Tom Shields•Blake Pieroni,None,2020
+Swimming,50 metres Freestyle,Women,Abbey Weitzeil,None,2020
+Swimming,50 metres Freestyle,Women,Simone Manuel,None,2020
+Swimming,100 metres Freestyle,Women,Abbey Weitzeil,None,2020
+Swimming,100 metres Freestyle,Women,Erika Brown,None,2020
+Swimming,200 metres Freestyle,Women,Katie Ledecky,None,2020
+Swimming,200 metres Freestyle,Women,Allison Schmitt,None,2020
+Swimming,400 metres Freestyle,Women,Katie Ledecky,Silver,2020
+Swimming,400 metres Freestyle,Women,Paige Madden,None,2020
+Swimming,800 metres Freestyle,Women,Katie Ledecky,Gold,2020
+Swimming,800 metres Freestyle,Women,Katie Grimes,None,2020
+Swimming,"1,500 metres Freestyle",Women,Katie Ledecky,Gold,2020
+Swimming,"1,500 metres Freestyle",Women,Erica Sullivan,Silver,2020
+Swimming,4 × 100 metres Freestyle Relay,Women,Erika Brown•Abbey Weitzeil•Natalie Hinds•Simone Manuel•Olivia Smoliga•Catie DeLoof•Allison Schmitt,None,2020
+Swimming,4 × 200 metres Freestyle Relay,Women,Allison Schmitt•Paige Madden•Katie McLaughlin•Katie Ledecky•Bella Sims•Brooke Forde,None,2020
+Swimming,100 metres Backstroke,Women,Regan Smith,Bronze,2020
+Swimming,100 metres Backstroke,Women,Rhyan White,None,2020
+Swimming,200 metres Backstroke,Women,Rhyan White,None,2020
+Swimming,200 metres Backstroke,Women,Phoebe Bacon,None,2020
+Swimming,100 metres Breaststroke,Women,Lydia Jacoby,Gold,2020
+Swimming,100 metres Breaststroke,Women,Lilly King,Bronze,2020
+Swimming,200 metres Breaststroke,Women,Lilly King,Silver,2020
+Swimming,200 metres Breaststroke,Women,Annie Lazor,Bronze,2020
+Swimming,100 metres Butterfly,Women,Torri Huske,None,2020
+Swimming,100 metres Butterfly,Women,Claire Curzan,None,2020
+Swimming,200 metres Butterfly,Women,Regan Smith,Silver,2020
+Swimming,200 metres Butterfly,Women,Hali Flickinger,Bronze,2020
+Swimming,200 metres Individual Medley,Women,Alex Walsh,Silver,2020
+Swimming,200 metres Individual Medley,Women,Kate Douglass,Bronze,2020
+Swimming,400 metres Individual Medley,Women,Emma Weyant,Silver,2020
+Swimming,400 metres Individual Medley,Women,Hali Flickinger,Bronze,2020
+Swimming,4 × 100 metres Medley Relay,Women,Regan Smith•Lydia Jacoby•Torri Huske•Abbey Weitzeil•Rhyan White•Lilly King•Claire Curzan•Erika Brown,None,2020
+Swimming,4 × 100 metres Medley Relay,Mixed,Ryan Murphy•Lydia Jacoby•Torri Huske•Caeleb Dressel•Regan Smith•Andrew Wilson•Tom Shields•Abbey Weitzeil,None,2020
+Table Tennis,Singles,Men,Kanak Jha,None,2020
+Table Tennis,Singles,Men,Nikhil Kumar,None,2020
+Table Tennis,Team,Men,Nikhil Kumar•Zhou Xin•Kanak Jha,None,2020
+Table Tennis,Singles,Women,Juan Liu,None,2020
+Table Tennis,Singles,Women,Lily Zhang,None,2020
+Table Tennis,Team,Women,Juan Liu•Huijing Wang•Lily Zhang,None,2020
+Taekwondo,Featherweight,Women,Anastasija Zolotic,Gold,2020
+Taekwondo,Welterweight,Women,Paige McPherson,None,2020
+Tennis,Singles,Men,Marcos Giron,None,2020
+Tennis,Singles,Men,Frances Tiafoe,None,2020
+Tennis,Singles,Men,Tommy Paul,None,2020
+Tennis,Singles,Men,Tennys Sandgren,None,2020
+Tennis,Doubles,Men,Austin Krajicek•Tennys Sandgren,None,2020
+Tennis,Doubles,Men,Rajeev Ram•Frances Tiafoe,None,2020
+Tennis,Singles,Women,Jennifer Brady,None,2020
+Tennis,Singles,Women,Jessica Pegula,None,2020
+Tennis,Singles,Women,Alison Riske,None,2020
+Tennis,Doubles,Women,Bethanie Mattek-Sands•Jessica Pegula,None,2020
+Tennis,Doubles,Women,Nicole Melichar•Alison Riske,None,2020
+Tennis,Doubles,Mixed,Bethanie Mattek-Sands•Rajeev Ram,None,2020
+Trampolining,Individual,Men,Aliaksei Shostak,None,2020
+Trampolining,Individual,Women,Nicole Ahsinger,None,2020
+Triathlon,Olympic Distance,Men,Kevin McDowell,None,2020
+Triathlon,Olympic Distance,Men,Morgan Pearson,None,2020
+Triathlon,Olympic Distance,Women,Katie Zaferes,Bronze,2020
+Triathlon,Olympic Distance,Women,Summer Rappaport,None,2020
+Triathlon,Olympic Distance,Women,Taylor Knibb,None,2020
+Triathlon,Relay,Mixed,Katie Zaferes•Kevin McDowell•Taylor Knibb•Morgan Pearson,None,2020
+Volleyball,Volleyball,Men,Matt Anderson•Taylor Sander•Kyle Ensing•Mitch Stahl•Kawika Shoji•TJ Defalco•Micah Christenson•Max Holt•Tom Jaeschke•Garrett Muagututia•David Smith•Erik Shoji,None,2020
+Volleyball,Volleyball,Women,Micha Hancock•Jordyn Poulter•Justine Wong-Orantes•Jordan Larson-Burbach•Andrea Drews•Jordan Thompson•Michelle Bartsch-Hackley•Kim Hill•Foluke Akinradewo•Haleigh Washington•Kelsey Robinson•Chiaka Ogbogu,None,2020
+Water Polo,Water Polo,Men,Alex Wolf•Johnny Hooper•Marko Vavic•Alex Obert•Hannes Daube•Luca Cupido•Ben Hallock•Dylan Woodhead•Alex Bowen•Ben Stevenson•Jesse Smith•Max Irving•Drew Holland,None,2020
+Water Polo,Water Polo,Women,Ashleigh Johnson•Maddie Musselman•Melissa Seidemann•Rachel Fattal•Paige Hauschild•Maggie Steffens•Stephania Haralabidis•Jamie Neushul•Aria Fischer•Kaleigh Gilchrist•Makenzie Fischer•Alys Williams•Amanda Longan,None,2020
+Weightlifting,Middleweight,Men,CJ Cummings,None,2020
+Weightlifting,Light-Heavyweight,Men,Harrison Maurus,None,2020
+Weightlifting,Heavyweight,Men,Wesley Kitts,None,2020
+Weightlifting,Super-Heavyweight,Men,Caine Wilkes,None,2020
+Weightlifting,Flyweight,Women,Jourdan Delacruz,None,2020
+Weightlifting,Light-Heavyweight,Women,Kate Nye,Silver,2020
+Weightlifting,Heavyweight,Women,Mattie Rogers,None,2020
+Weightlifting,Super-Heavyweight,Women,Sarah Robles,Bronze,2020
+Wrestling,"Featherweight, Greco-Roman",Men,Ildar Khafizov,None,2020
+Wrestling,"Welterweight, Greco-Roman",Men,Alejandro Sancho,None,2020
+Wrestling,"Light-Heavyweight, Greco-Roman",Men,"John Stefanowicz, Jr.",None,2020
+Wrestling,"Heavyweight, Greco-Roman",Men,G'Angelo Hancock,None,2020
+Wrestling,"Featherweight, Freestyle",Men,Thomas Gilman,Bronze,2020
+Wrestling,"Middleweight, Freestyle",Men,Kyle Dake,Bronze,2020
+Wrestling,"Light-Heavyweight, Freestyle",Men,David Taylor,Gold,2020
+Wrestling,"Heavyweight, Freestyle",Men,Kyle Snyder,Silver,2020
+Wrestling,"Super-Heavyweight, Freestyle",Men,Gable Steveson,Gold,2020
+Wrestling,"Flyweight, Freestyle",Women,Sarah Hildebrandt,Bronze,2020
+Wrestling,"Featherweight, Freestyle",Women,Jacarra Winchester,None,2020
+Wrestling,"Lightweight, Freestyle",Women,Helen Maroulis,Bronze,2020
+Wrestling,"Middleweight, Freestyle",Women,Kayla Miracle,None,2020
+Wrestling,"Light-Heavyweight, Freestyle",Women,Tamyra Mensah-Stock,Gold,2020
+Wrestling,"Heavyweight, Freestyle",Women,Adeline Gray,Silver,2020
