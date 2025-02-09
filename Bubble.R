@@ -32,17 +32,8 @@ dominant <- df_long$Sport %in% c("Athletics", "Gymnastics", "Artistic Gymnastic"
 
 # scatter plot -- Complete
 complete <- ggplot(df_long) +
-  aes(x = pct, y = average, color = gender, size = owned) +
-  geom_point(alpha = .9) +
-  # Points with black outlines
-  geom_point(data = subset(df_long, dominant),  
-             aes(x = pct, y = average, size = owned, alpha = .7),
-             color = "black", stroke = 1, shape = 21) +
-  # Labels for specific points
-  geom_text_repel(data = subset(df_long, dominant), 
-            aes(label = Sport, color = "darkgrey"), 
-            vjust = -5, size = 3,
-            show.legend = FALSE) +
+  aes(x = pct, y = average, fill = gender, size = owned, color=Sport) +
+  geom_point(alpha = .7,troke = 1, shape = 21) +
   scale_size_continuous(range = c(5,20)) +
   labs(title="medal counts",
        subtitle = "Contribution to the total medalsvs no. of athletes per sport,
@@ -55,56 +46,49 @@ complete <- ggplot(df_long) +
   theme_minimal() +
   theme(plot.title.position = 'plot', legend.position = "top") +
   #set colors legends
-  scale_color_manual(values = c("male" = "lightblue", "female" = "lightcoral")) +
-  guides(size = "none", alpha = "none")
+  scale_fill_manual(values = c("male" = "lightblue", "female" = "lightcoral")) +
+  guides(size = "none", alpha = "none") +
+  theme(legend.position = "right")
 
 complete
 
 
-# for the Dislay
+# for the Display
 Display <- ggplot(df_long) +
-  aes(x = pct, y = average, color = gender, size = owned) +
-  geom_point(alpha = .9) +
-  # Points with black outlines
-  geom_point(data = subset(df_long, dominant),  
-             aes(x = pct, y = average, size = owned, alpha = .7),
-             show.legend = FALSE,
-             color = "yellow", stroke = 1, shape = 21) +
-  # Labels for specific points
-  geom_text_repel(data = subset(df_long, dominant), 
-                  aes(label = Sport, color = "darkgrey"),
-                  segment.color = "grey",
-                  segment.linetype = "dotted",
-                  vjust = -6, hjust = 1.5, size = 3,
-                  show.legend = FALSE) +
+  aes(x = pct, y = average, 
+      fill = gender, 
+      size = owned,
+      color=Sport) +
+  geom_point(alpha = .7,
+             stroke = 1.5, 
+             shape = 21) +
   scale_size_continuous(range = c(5,20)) +
-  labs(color = "Gender",
+  labs(color = "Sports",
        x = 'Percetage of medals by sport',
        y = 'Medals per anthlete by sport') +
   xlim(0,100) +
   ylim(0,1.25) +
   theme_minimal() +
   theme(plot.title.position = 'plot',legend.position = c(0.1,0.9)) +
+  labs(
+    title = "Female Athletes Have Higher Medal Counts Per Perseon and Percentage Contribution"
+  )+
   #set colors
-  scale_color_manual(values = c("male" = "lightblue", "female" = "lightcoral")) +
-  guides(size = "none", alpha = "none")
+  scale_fill_manual(values = c("male" = "lightblue", "female" = "lightcoral")) +
+  guides(size = "none", alpha = "none") +
+  theme(legend.position = "right") 
 
 Display
 
 # Only for dominant sport
 main <- ggplot(data = subset(df_long,dominant)) +
-  aes(x = pct, y = average, color = gender, size = owned) +
-  geom_point(alpha = .9) +
-  # Points with black outlines
-  geom_point(data = subset(df_long, dominant),  
-             aes(x = pct, y = average, size = owned, alpha = .7),
-             show.legend = FALSE,
-             color = "darkgrey", stroke = 1, shape = 21) +
+  aes(x = pct, y = average, fill = gender, size = owned, color = Sport) +
+  geom_point(alpha = .7,stroke = 2, shape = 21) +
   #highlight over 50%
   geom_point(data = subset(df_long, df_long$Sport %in% c("Swimming", "Gymnastics")&df_long$pct > 50),  
-             aes(x = pct, y = average, size = owned, alpha = .7),
+             aes(x = pct, y = average, size = owned, alpha = .1),
              show.legend = FALSE,
-             color = "yellow", stroke = 2, shape = 21) +
+             color = "yellow", stroke = 1, shape = 21) +
   # add the 50% line 
   geom_vline(xintercept = 50,
              linetype = "dotted",
@@ -117,12 +101,13 @@ main <- ggplot(data = subset(df_long,dominant)) +
             alpha = .7,
             size = 3,
             hjust = 0.7) +
-  # Labels for specific points
+  # label for total number owned
   geom_text_repel(data = subset(df_long, dominant), 
-                  aes(label = Sport, color = "darkgrey"), 
-                  vjust = -5, size = 3,
+                  aes(label = owned), 
+                  vjust = -3, size = 4,
                   segment.color = "grey",
                   segment.linetype = "dotted",
+                  color = "darkgrey",
                   show.legend = FALSE) +
   scale_size_continuous(range = c(5,20)) +
   labs(color = "Gender",
@@ -135,58 +120,24 @@ main <- ggplot(data = subset(df_long,dominant)) +
   theme_minimal() +
   theme(plot.title.position = 'plot',legend.position = c(0.1,0.9)) +
   #set colors
-  scale_color_manual(values = c("male" = "lightblue", "female" = "lightcoral")) +
-  guides(size = "none", alpha = "none")
+  scale_fill_manual(values = c("male" = "lightblue", "female" = "lightcoral")) +
+  guides(size = "none", alpha = "none") +
+  theme(legend.position = "right") 
 
 main
 
-# Other sport  
-ggplot(data = subset(df_long,!dominant)) +
-  aes(x = pct, y = average, color = gender, size = owned) +
-  geom_point(alpha = .9) +
-  # Points with black outlines
-  geom_point(data = subset(df_long, !dominant),  
-             aes(x = pct, y = average, size = owned, alpha = .7,color = Sport),
-             show.legend = FALSE,
-             stroke = 1, shape = 21)  +
-  scale_size_continuous(range = c(5,20)) +
-  labs(color = "Gender",
-       x = 'Percetage of medals by sport',
-       y = 'Medals per anthlete by sport',
-       title = "Female Swimmers and Gymnnasts Contribute to More Than 50%",
-       subtitle = "Female swimmers and gymnasts also have the highest no. of medals per person") +
-  xlim(0,100) +
-  ylim(0,1.25) +
-  theme_minimal() +
-  theme(plot.title.position = 'plot',legend.position = c(0.1,0.9)) +
-  #set colors
-  scale_color_manual(values = c("male" = "lightblue", "female" = "lightcoral")) +
-  guides(size = "none", alpha = "none")
-
 # Other Sport -- Only female
 other<-ggplot(data = subset(df_long,!dominant&df_long$gender=="female")) +
-  aes(x = pct, y = average, color = gender, size = owned) +
-  geom_point(alpha = .9) +
-  # Points with black outlines
-  geom_point(data = subset(df_long, !dominant),  
-             aes(x = pct, y = average, size = owned, alpha = .7),
-             show.legend = FALSE,
-             stroke = 1, shape = 21) +
+  aes(x = pct, y = average, fill = gender, size = owned, color = Sport) +
+  geom_point(alpha = .7) +
   scale_size_continuous(range = c(5,20)) +
   # label sports
-  geom_text_repel(data = subset(df_long, !dominant&df_long$gender=="female"&df_long$pct > 50), 
-                  aes(label = Sport), 
+  geom_text_repel(data = subset(df_long, !dominant&gender=="female"&pct > 50), 
+                  aes(label = Sport, color = Sport), 
                   vjust = -2, size = 3,hjust = 1.5,
-                  color = 'darkgray',
                   segment.color = "grey",
                   segment.linetype = "dotted",
-                  show.legend = FALSE,
-                  color = "gray") +
-  #highlight over 50%
-  geom_point(data = subset(df_long, !dominant&df_long$gender=="female"&df_long$pct > 50),  
-             aes(x = pct, y = average, size = owned, alpha = .7),
-             show.legend = FALSE,
-             color = "yellow", stroke = 1.5, shape = 21) +
+                  show.legend = FALSE) +
   # add the 50% line 
   geom_vline(xintercept = 50,
              linetype = "dotted",
@@ -199,18 +150,19 @@ other<-ggplot(data = subset(df_long,!dominant&df_long$gender=="female")) +
             alpha = .7,
             size = 3,
             hjust = 0.7) +
-  labs(color = "Gender",
+  labs(color = "Sport",
        x = 'Percentage of medals by sport',
        y = 'Medals per anthlete by sport',
        title = "Female Athletes Won over 50% in Other 11 Sports",
-       subtitle = "Among other 25 sports, females won over 50% of the medals in 11 of them and half in 3") +
+       subtitle = "Among other 26 sports, females won over 50% of the medals in 11 of them and half in 3") +
   xlim(0,100) +
   ylim(0,1.25) +
   theme_minimal() +
   theme(plot.title.position = 'plot',legend.position = c(0.1,0.9)) +
   #set colors
-  scale_color_manual(values = c("male" = "lightblue", "female" = "lightcoral")) +
-  guides(size = "none", alpha = "none")
+  scale_fill_manual(values = c("male" = "lightblue", "female" = "lightcoral")) +
+  guides(size = "none", alpha = "none",fill="none") +
+  theme(legend.position = "right")
 
 other
 
@@ -254,3 +206,7 @@ Total_bar
 Display
 main
 other
+ggsave("Historical_trend.png",Total_bar)
+ggsave("team.png",Display)
+ggsave("dominant.png",main)
+ggsave("niche.png",other)
